@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia -->
+  <Ambrosia.label>амброзія</Ambrosia.label>
+  <!-- EN: A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction. -->
+  <Ambrosia.description>Рідкісний м'який фрукт. Плоди амброзії, окрім чудового смаку та аромату, мають невеликий наркотичний ефект, що викликає у споживача хімічну ейфорію. Однак, часте вживання може викликати легку залежність.</Ambrosia.description>
+	<Ambrosia.ingestible.ingestCommandString>Вжити амброзію</Ambrosia.ingestible.ingestCommandString>
+	<Ambrosia.ingestible.ingestReportString>Вживає {lookup: {0}; Case; 3}</Ambrosia.ingestible.ingestReportString>
+	
+</LanguageData>

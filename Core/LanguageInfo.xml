@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Українська</friendlyNameNative>
+  <friendlyNameEnglish>Ukrainian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>Borcha</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>Boril</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>FanGremlim</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>CapNag</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>kdmytro</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>LANA66613</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>Emir_Saadat</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>revengergodx</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>heczrf</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>MartianDill</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>Sanktym</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>Evan</creditee>
+	  </li>
+	  <li Class="CreditRecord_Role">
+		  <roleKey>Credit_Translator</roleKey>
+		  <creditee>Raschert0</creditee>
+	  </li>
+  </credits>
+</LanguageInfo>

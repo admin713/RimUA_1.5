@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>альфабобер</Alphabeaver.label>
+	<Alphabeaver.labelFemale>альфабобриха</Alphabeaver.labelFemale>
+	<Alphabeaver.labelPlural>альфабобри</Alphabeaver.labelPlural>
+	<Alphabeaver.lifeStages.0.label>альфабобреня</Alphabeaver.lifeStages.0.label>
+	<Alphabeaver.lifeStages.1.label>молодий альфабобер</Alphabeaver.lifeStages.1.label>
+	<Alphabeaver.lifeStages.1.labelFemale>молода альфабобриха</Alphabeaver.lifeStages.1.labelFemale>
+
+	<!-- EN: cobra -->
+  <Cobra.label>кобра</Cobra.label>
+	<Cobra.labelPlural>кобри</Cobra.labelPlural>
+	<Cobra.lifeStages.0.label>дитинча кобри</Cobra.lifeStages.0.label>
+	<Cobra.lifeStages.1.label>молода кобра</Cobra.lifeStages.1.label>
+
+	<!-- EN: thrumbo -->
+  <Thrumbo.label>трумбо</Thrumbo.label>
+	<Thrumbo.labelPlural>трумбо</Thrumbo.labelPlural>
+	<!-- EN: thrumbo calf -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>теля трумбо</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>телята трумбо</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+	<Thrumbo.lifeStages.1.label>молодий трумбо</Thrumbo.lifeStages.1.label>
+
+	<!-- EN: tortoise -->
+  <Tortoise.label>черепаха</Tortoise.label>
+	<Tortoise.labelPlural>черепахи</Tortoise.labelPlural>
+	<Tortoise.lifeStages.0.label>черепашонок</Tortoise.lifeStages.0.label>
+	<Tortoise.lifeStages.1.label>молода черепаха</Tortoise.lifeStages.1.label>
+
+</LanguageData>

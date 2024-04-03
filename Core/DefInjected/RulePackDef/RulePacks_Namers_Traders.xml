@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<NamerTraderGeneral.rulePack.rulesFiles>
+		<li>BusinessName->Names/BusinessName</li>
+		<li>BusinessType->Words/Nouns/BusinessType</li>
+		<li>BusinessTypeFem->Words/Nouns/BusinessTypeFem</li>
+		<li>BusinessTypeMasc->Words/Nouns/BusinessTypeMasc</li>
+		<li>BusinessTypePlu->Words/Nouns/BusinessTypePlu</li>
+		<li>TreeTypeMascCAP->Words/Nouns/TreeTypeMascCAP</li>
+		<li>TreeTypeFemCAP->Words/Nouns/TreeTypeFemCAP</li>
+		<li>VegetableMascCAP->Words/Nouns/VegetableMascCAP</li>
+		<li>VegetableFemCAP->Words/Nouns/VegetableFemCAP</li>
+		<li>TerrainFeatureMascCAP->Words/Nouns/TerrainFeatureMascCAP</li>
+		<li>TerrainFeatureFemCAP->Words/Nouns/TerrainFeatureFemCAP</li>
+		<li>ColorCAP->Words/Nouns/ColorCAP</li>
+		<li>ColorFemCAP->Words/Nouns/ColorFemCAP</li>
+		<li>AnimalMascCAP->Words/Nouns/AnimalMascCAP</li>
+		<li>AnimalFemCAP->Words/Nouns/AnimalFemCAP</li>
+		<li>PersonFamilyPluGenCAP->Words/Nouns/PersonFamilyPluGenCAP</li>
+		<li>AdjectiveBadassCAP->Words/Adjectives/AdjectiveBadassCAP</li>
+		<li>AdjectiveBadassFemCAP->Words/Adjectives/AdjectiveBadassFemCAP</li>
+		<li>AdjectiveFriendlyCAP->Words/Adjectives/AdjectiveFriendlyCAP</li>
+		<li>AdjectiveFriendlyFemCAP->Words/Adjectives/AdjectiveFriendlyFemCAP</li>
+	</NamerTraderGeneral.rulePack.rulesFiles>
+	
+  <!-- EN:
+    <li>r_name(p=4)->[businessname] [businesstype]</li>
+    <li>r_name->[NamePerson] [businesstype]</li>
+    <li>r_name->[maybe_adjective] [Animal] [businesstype]</li>
+    <li>r_name->[Letter][Letter] [businesstype]</li>
+    <li>r_name(p=0.5)->[PersonAlly] [businesstype]</li>
+    <li>r_name(p=0.5)->[AdjectiveFriendly] [businesstype]</li>
+    <li>r_name(p=0.5)->[AdjectiveBadass] [businesstype]</li>
+    <li>r_name(p=0.3)->[PersonFamily] [businesstype]</li>
+    <li>r_name(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]</li>
+    <li>r_name(p=0.2)->[maybe_adjective] [TreeType] [businesstype]</li>
+    <li>r_name(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]</li>
+    <li>r_name(p=0.2)->[Direction] [businesstype]</li>
+    <li>maybe_adjective-></li>
+    <li>maybe_adjective->[Color]</li>
+    <li>maybe_adjective->[AdjectiveFriendly]</li>
+    <li>maybe_adjective->[AdjectiveBadass]</li>
+  -->
+  <NamerTraderGeneral.rulePack.rulesStrings>
+    <li>r_name(p=4)->[BusinessType] [BusinessName]</li>
+    <li>r_name->ФОП [NamePerson]</li>
+    <li>r_name(p=0.5)->[BusinessType] [maybe_adjectiveMasc][AnimalMasc]</li>
+	<li>r_name(p=0.5)->[BusinessType] [maybe_adjectiveFem][AnimalFem]</li>
+    <li>r_name(p=0.2)->[BusinessType] [Letter][Letter]</li>
+    <li>r_name(p=0.5)->[BusinessType] [PersonAllyPluGen]</li>
+    <li>r_name(p=0.15)->[AdjectiveFriendlyMasc] [BusinessTypeMasc]</li>
+    <li>r_name(p=0.15)->[AdjectiveBadassMasc] [BusinessTypeMasc]</li>
+	<li>r_name(p=0.15)->[AdjectiveFriendlyFem] [BusinessTypeFem]</li>
+	<li>r_name(p=0.15)->[AdjectiveBadassFem] [BusinessTypeFem]</li>
+	<li>r_name(p=0.15)->[AdjectiveFriendlyPlu] [BusinessTypePlu]</li>
+	<li>r_name(p=0.15)->[AdjectiveBadassPlu] [BusinessTypePlu]</li>
+    <li>r_name(p=0.3)->[BusinessType] [PersonFamilyPluGenCAP]</li>
+	<li>r_name(p=0.15)->[BusinessType] [maybe_adjectiveMasc][TerrainFeatureMascCAP]</li>
+	<li>r_name(p=0.15)->[BusinessType] [maybe_adjectiveFem][TerrainFeatureFemCAP]</li>
+	<li>r_name(p=0.1)->[BusinessType] [maybe_adjectiveMasc][TreeTypeMascCAP]</li>
+	<li>r_name(p=0.1)->[BusinessType] [maybe_adjectiveFem][TreeTypeFemCAP]</li>
+	<li>r_name(p=0.1)->[BusinessType] [maybe_adjectiveMasc][VegetableMascCAP]</li>
+	<li>r_name(p=0.1)->[BusinessType] [maybe_adjectiveFem][VegetableFemCAP]</li>
+    <li>r_name(p=0.05)->[CompassDirectionMasc] [BusinessTypeMasc]</li>
+	<li>r_name(p=0.05)->[CompassDirectionFem] [BusinessTypeFem]</li>
+	<li>r_name(p=0.05)->[CompassDirectionPlu] [BusinessTypePlu]</li>
+    <li>maybe_adjectiveMasc-></li>
+    <li>maybe_adjectiveMasc->[ColorCAP] </li>
+    <li>maybe_adjectiveMasc->[AdjectiveFriendlyMascCAP] </li>
+    <li>maybe_adjectiveMasc->[AdjectiveBadassMascCAP] </li>
+	<li>maybe_adjectiveFem-></li>
+	<li>maybe_adjectiveFem->[ColorFemCAP] </li>
+	<li>maybe_adjectiveFem->[AdjectiveFriendlyFemCAP] </li>
+	<li>maybe_adjectiveFem->[AdjectiveBadassFemCAP] </li>
+  </NamerTraderGeneral.rulePack.rulesStrings>
+  
+</LanguageData>

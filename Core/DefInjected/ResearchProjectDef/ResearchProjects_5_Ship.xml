@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>основи космічних польотів</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>Будівництво основних елементів конструкції космічного судна. Вивчення цієї технології буде першим кроком до будівництва корабля, який дозволить залишити цю планету.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>Щоб нарешті здобути свободу і може навіть повернутися додому, доведеться покинути цю планету.\n\nЦе вкрай небезпечна задача.\n\nУ меню "Проєктування" додано категорію "Корабель". По мірі вивчення відповідних технологій у ній з'являтимуться доступні для будівництва частини корабля. Для запуску корабля потрібна наявність кількох ключових частин, однією з яких є корабельний реактор.\n\nПроцедура запуску реактора триває 15 днів. На самому початку цього процесу реактор випромінює характерний енергетичний імпульс, помітний з відстані тисячі кілометрів. Пірати та розбійники зберуться з усієї округи і нападатимуть на вас хвилями з надзвичайною інтенсивністю. Імпульс також приверне увагу механоїдів.\n\nАтаки почнуться лише коли ви активуєте реактор. Коли ви зробите це - пощади не чекайте. Якщо ви сподіваєтеся полетіти живими, вам доведеться запасти ресурси, зброю та добре підготувати оборону.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>Запуск космічного корабля</ShipBasics.discoveredLetterTitle>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>переконання ШІ</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Дозволяє розробити систему сигналів-заохочень, щоб "переконати" ШІ-особу працювати капітаном корабля. Оскільки в міжзоряній подорожі люди сплять у капсулах криптосну, за ухвалення всіх рішень польоту відповідає ШІ-особа.</ShipComputerCore.description>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>вакуумні капсули криптосну</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Дозволяє будувати міцні капсули криптосну, здатні витримати умови відкритого космосу. Такі контейнери необхідні для багаторічних міжзоряних польотів.</ShipCryptosleep.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>двигун Джонсона-Танака</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Двигуни Джонсона-Танака ідеально підходять для тривалих міжзоряних подорожей. Принцип їх роботи заснований на ефективному використанні ефекту квантового накладання для передачі імпульсу далеким зіркам. Звісно, як і у випадку з будь-якими іншими типами двигунів, подорож будь-куди може зайняти довгі роки.</ShipEngine.description>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>реактор космічного корабля</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Для забезпечення корабля енергією застосовуються ядерні реактори. Процедура запуску реактора займає тривалий час і демаскує його розташування, роблячи метою нападів.</ShipReactor.description>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>польотні сенсори</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Корабельні сенсори далекого радіусу дії необхідні для навігації, зв'язку та уникнення можливих загроз.</ShipSensorCluster.description>
+  
+</LanguageData>

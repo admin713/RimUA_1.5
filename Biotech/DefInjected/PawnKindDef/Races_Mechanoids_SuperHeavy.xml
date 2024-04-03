@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centurion -->
+	<Mech_Centurion.label>центуріон</Mech_Centurion.label>
+	<Mech_Centurion.labelPlural>центуріони</Mech_Centurion.labelPlural>
+  
+  <!-- EN: diabolus -->
+	<Mech_Diabolus.label>диявол</Mech_Diabolus.label>
+	<Mech_Diabolus.labelPlural>дияволи</Mech_Diabolus.labelPlural>
+  
+  <!-- EN: war queen -->
+  <Mech_Warqueen.label>королева війни</Mech_Warqueen.label>
+  <!-- EN: war queens -->
+  <Mech_Warqueen.labelPlural>королеви війни</Mech_Warqueen.labelPlural>
+  
+
+</LanguageData>

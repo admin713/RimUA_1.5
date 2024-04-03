@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damageSource->the [roof] [collapsed] on</li>
+    <li>roof->roof</li>
+    <li>roof->roofing</li>
+    <li>roof->ceiling</li>
+    <li>collapsed->collapsed</li>
+    <li>collapsed->fell</li>
+    <li>collapsed->caved in</li>
+    <li>damaged_participle->smashing</li>
+    <li>damaged_participle->bashing</li>
+    <li>damaged_participle->bruising</li>
+    <li>damaged_participle->lacerating</li>
+    <li>destroyed_participle->shattering</li>
+    <li>destroyed_participle->crushing</li>
+    <li>destroyed_participle->obliterating</li>
+    <li>destroyed_participle->annihilating</li>
+    <li>destroyed_participle->breaking</li>
+  -->
+  <DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>damageSource->[roof] [collapsed] на</li>
+    <li>roof->дах</li>
+    <li>roof->стеля</li>
+    <li>roof->покрівля даху</li>
+    <li>collapsed->подає</li>
+    <li>collapsed->обрушується</li>
+    <li>collapsed->обвалюється</li>
+    <li>damaged_participle->забиваючи</li>
+    <li>damaged_participle->дроблячи</li>
+    <li>damaged_participle->давлячи</li>
+    <li>damaged_participle->ламаючи</li>
+    <li>destroyed_participle->розбиваючи</li>
+    <li>destroyed_participle->роздроблюючи</li>
+    <li>destroyed_participle->забиваючи</li>
+    <li>destroyed_participle->розламуючи</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damageSource->[fire] burned</li>
+    <li>fire(p=3)->fire</li>
+    <li>fire(p=3)->a fire</li>
+    <li>fire(p=3)->the fire</li>
+    <li>fire->heat</li>
+    <li>fire->a conflagration</li>
+    <li>fire->an inferno</li>
+    <li>damaged_participle->scorching</li>
+    <li>damaged_participle->broiling</li>
+    <li>damaged_participle->searing</li>
+    <li>damaged_participle->singeing</li>
+    <li>destroyed_participle->charring</li>
+    <li>destroyed_participle->roasting</li>
+    <li>destroyed_participle->cooking</li>
+    <li>destroyed_participle->cremating</li>
+  -->
+  <DamageEvent_Fire.rulePack.rulesStrings>
+    <li>damageSource->[fire] обпалює</li>
+    <li>fire(p=3)->вогонь</li>
+    <li>fire(p=3)->вогнище</li>
+    <li>fire(p=3)->пожежа</li>
+    <li>fire->жар</li>
+    <li>fire->вогонь пожежі</li>
+    <li>damaged_participle->обпалюючи</li>
+    <li>damaged_participle->покриваючи пухирями</li>
+    <li>damaged_participle->підпалюючи</li>
+    <li>damaged_participle->запікаючи</li>
+    <li>destroyed_participle->обуглюючи</li>
+    <li>destroyed_participle->спалюючи</li>
+    <li>destroyed_participle->перетворюючи на попіл</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[damageSource] [RECIPIENT_nameDef], [destroyed_participle] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[damageSource] [RECIPIENT_nameDef], [destroyed_participle] [RECIPIENT_possessive] [destroyed_targets] and [damaged_participle] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damageSource] [RECIPIENT_nameDef], [damaged_participle] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(p=0.1)->[damageSource] [RECIPIENT_nameDef].</li>
+  -->
+  <DamageEvent_Include.rulePack.rulesStrings>
+	  <li>r_logentry(recipient_part_destroyed_count!=0)->[damageSource] [RECIPIENT_nameDef], [destroyed_participle] [RECIPIENT_possessive] [destroyed_targets].</li>
+	  <li>r_logentry(recipient_part_destroyed_count!=0,recipient_part_damaged_count!=0)->[damageSource] [RECIPIENT_nameDef], [destroyed_participle] [RECIPIENT_possessive] [destroyed_targets] та [damaged_participle] [RECIPIENT_possessive] [damaged_targets].</li>
+	  <li>r_logentry(recipient_part_destroyed_count==0,recipient_part_damaged_count!=0)->[damageSource] [RECIPIENT_nameDef], [damaged_participle] [RECIPIENT_possessive] [damaged_targets].</li>
+	  <li>r_logentry(p=0.1)->[damageSource] [RECIPIENT_nameDef].</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damageSource->The [sky] opened up on</li>
+    <li>damageSource->A beam of incredible [power] [damaged_past]</li>
+    <li>damageSource->A column of [light] [damaged_past]</li>
+    <li>sky->sky</li>
+    <li>sky->clouds</li>
+    <li>sky->heavens</li>
+    <li>power->power</li>
+    <li>power->energy</li>
+    <li>power->heat</li>
+    <li>light->light</li>
+    <li>light->heat</li>
+    <li>light->flame</li>
+    <li>light(p=0.2)->incandescence</li>
+  -->
+  <DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>damageSource->[sky] над</li>
+    <li>damageSource->Промінь неймовірної [power] [damaged]</li>
+    <li>damageource->Колона [light] [damaged]</li>
+    <li>sky->небо розкривається</li>
+    <li>sky->хмари розкриваються</li>
+    <li>sky->небеса розкриваються</li>
+    <li>power->сили</li>
+    <li>power->енергії</li>
+    <li>power->потужності</li>
+    <li>light->світла</li>
+    <li>light->енергії</li>
+    <li>light->вогню</li>
+    <li>light(p=0.2)->осліплюючого жару</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damageSource->A [spiraling] tornado [enveloped]</li>
+    <li>destroyed_participle(p=3)->tearing off</li>
+    <li>spiraling->spiraling</li>
+    <li>spiraling->whirling</li>
+    <li>spiraling->spinning</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->enveloped</li>
+    <li>enveloped->engulfed</li>
+    <li>enveloped->surrounded</li>
+  -->
+  <DamageEvent_Tornado.rulePack.rulesStrings>
+	  <li>damageSource->[spiraling] торнадо [enveloped]</li>
+	  <li>destroyed_participle(p=3)->розриваючи</li>
+	  <li>spiraling->завихрений</li>
+	  <li>spiraling->кружляючий</li>
+	  <li>spiraling->вихровий</li>
+	  <li>spiraling(p=10)-></li>
+	  <li>enveloped(p=8)->захоплює</li>
+	  <li>enveloped(p=8)->поглинає</li>
+	  <li>enveloped(p=8)->огортає</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damageSource->[spiketrap] stabbed</li>
+    <li>damageSource->[spiketrap] struck</li>
+    <li>damageSource->[spiketrap] launched at</li>
+    <li>spiketrap(p=3)->a spike trap</li>
+    <li>spiketrap(p=3)->the spike trap</li>
+    <li>spiketrap->spikes</li>
+    <li>spiketrap->a sharp trap</li>
+    <li>spiketrap->a spiky trap</li>
+    <li>damaged_participle->perforating</li>
+    <li>damaged_participle->spearing</li>
+    <li>damaged_participle->penetrating</li>
+    <li>damaged_participle->jabbing into</li>
+    <li>destroyed_participle->tearing apart</li>
+    <li>destroyed_participle->shredding</li>
+    <li>destroyed_participle->eviscerating</li>
+    <li>destroyed_participle->exploding</li>
+  -->
+  <DamageEvent_TrapSpike.rulePack.rulesStrings>
+	  <li>damageSource->[spiketrap] вдаряє</li>
+	  <li>damageSource->[spiketrap] б'є</li>
+	  <li>damageSource->[spiketrap] спрацьовує на</li>
+	  <li>spiketrap->пастка</li>
+	  <li>spiketrap->пастка з шипами</li>
+	  <li>damaged_participle->пробиваючи</li>
+	  <li>damaged_participle->пронизуючи</li>
+	  <li>damaged_participle->встромляючись у</li>
+	  <li>damaged_participle->дірявлячи</li>
+	  <li>destroyed_participle->розриваючи на шматки</li>
+	  <li>destroyed_participle->розриваючи на клапті</li>
+	  <li>destroyed_participle->перетворюючи на фарш</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+  
+</LanguageData>

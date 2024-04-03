@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {PAWN_nameDef} was an independent game developer.\n\nAfter an early success, {PAWN_possessive} career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
+  <TynanCustomAdulthood.baseDesc>{PAWN_nameDef} {PAWN_gender ? був : була} інді-розробником.\n\nПісля початкового успіху, {PAWN_possessive} кар'єра швидко перетворилася на цирк помилкових ідей, невдалих угод і відчайдушних невдалих піар-ходів.</TynanCustomAdulthood.baseDesc>
+  <!-- EN: game developer -->
+  <TynanCustomAdulthood.title>ігровий розробник</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleFemale>ігрова розробниця</TynanCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <TynanCustomAdulthood.titleShort>розробник</TynanCustomAdulthood.titleShort>
+  <TynanCustomAdulthood.titleShortFemale>розробниця</TynanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: {PAWN_nameDef} spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
+  <TynanCustomChildhood.baseDesc>{PAWN_nameDef} {PAWN_gender ? провів : провела} дитинство продаючи фальшиві цигарки п'ятнадцятиліткам. "Цигарки" часто були повні скошеної трави.</TynanCustomChildhood.baseDesc>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.title>панк</TynanCustomChildhood.title>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.titleShort>панк</TynanCustomChildhood.titleShort>
+  
+</LanguageData>

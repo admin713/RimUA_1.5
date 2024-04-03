@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>заєць</Hare.label>
+	<Hare.labelFemale>зайчиха</Hare.labelFemale>
+	<Hare.labelPlural>зайці</Hare.labelPlural>
+	<Hare.lifeStages.0.label>зайченя</Hare.lifeStages.0.label>
+	<Hare.lifeStages.1.label>молодий заєць</Hare.lifeStages.1.label>
+	<Hare.lifeStages.1.labelFemale>молода зайчиха</Hare.lifeStages.1.labelFemale>
+
+	<!-- EN: snowhare -->
+  <Snowhare.label>білий заєць</Snowhare.label>
+	<Snowhare.labelFemale>самка біляка</Snowhare.labelFemale>
+	<Snowhare.labelPlural>білі зайці</Snowhare.labelPlural>
+	<Snowhare.lifeStages.0.label>зайченя біляка</Snowhare.lifeStages.0.label>
+	<Snowhare.lifeStages.1.label>молодий білий заєць</Snowhare.lifeStages.1.label>
+	<Snowhare.lifeStages.1.labelFemale>молода самка біляка</Snowhare.lifeStages.1.labelFemale>
+	
+</LanguageData>

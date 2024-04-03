@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial metabolism -->
+  <ArtificialMetabolism.label>штучний метаболізм</ArtificialMetabolism.label>
+  <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
+  <ArtificialMetabolism.description>Створення імплантів, які перероблюють їжу безпечніше чи ефективніше, ніж біологічний шлунок.</ArtificialMetabolism.description>
+  
+  <!-- EN: brain wiring -->
+  <BrainWiring.label>мозкова проводка</BrainWiring.label>
+  <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
+  <BrainWiring.description>Створення мозкових імплантів, які стимулюють або заглушують відчуття, такі як радість чи біль.</BrainWiring.description>
+  
+  <!-- EN: circadian influence -->
+  <CircadianInfluence.label>вплив на циркадний ритм</CircadianInfluence.label>
+  <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
+  <CircadianInfluence.description>Створення мозкових імплантів, які хімічно впливають на циркадний ритм, зменшуючи або прибираючи потребу у сні.</CircadianInfluence.description>
+  
+  <!-- EN: compact weaponry -->
+  <CompactWeaponry.label>компактна зброя</CompactWeaponry.label>
+  <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
+  <CompactWeaponry.description>Створення компактної, прихованої біонічної зброї, яка може бути вживлена у різні частини тіла.</CompactWeaponry.description>
+  
+  <!-- EN: flesh shaping -->
+  <FleshShaping.label>корекція тіла</FleshShaping.label>
+  <!-- EN: Craft bionics which induce the reshaping of natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
+  <FleshShaping.description>Створення біонічних імплантів, які змінюють природні форми тіла, зазвичай для естетичних цілей або для власної насолоди.</FleshShaping.description>
+  
+  <!-- EN: healing factors -->
+  <HealingFactors.label>фактори зцілення</HealingFactors.label>
+  <!-- EN: Craft bionics that enhance natural healing processes. -->
+  <HealingFactors.description>Створення біонічних імплантів, які покращують природні процеси зцілення.</HealingFactors.description>
+  
+  <!-- EN: molecular analysis -->
+  <MolecularAnalysis.label>молекулярний аналіз</MolecularAnalysis.label>
+  <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
+  <MolecularAnalysis.description>Створення біонічних імплантів з молекулярним аналізатором для допомоги імунній системі або для аналізу їжі.</MolecularAnalysis.description>
+  
+  <!-- EN: neural computation -->
+  <NeuralComputation.label>нейронні обчислення</NeuralComputation.label>
+  <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
+  <NeuralComputation.description>Створення мозкових імплантів, які покращують мислення та навчання за допомогою мініатюрного нейроінтерфейсу.</NeuralComputation.description>
+  
+  <!-- EN: skin hardening -->
+  <SkinHardening.label>укріплення шкіри</SkinHardening.label>
+  <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
+  <SkinHardening.description>Створення біонічних імплантів, які зміцнюють шкіру, створюючи ефект подібний броні.</SkinHardening.description>
+  
+  <!-- EN: specialized limbs -->
+  <SpecializedLimbs.label>спеціалізовані кінцівки</SpecializedLimbs.label>
+  <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
+  <SpecializedLimbs.description>Створення спеціалізованих біонічних кінцівок, які призначені для конкретних цілей, наприклад бойових чи трудових завдань.</SpecializedLimbs.description>
+  
+  <!-- EN: poison synthesis -->
+  <VenomSynthesis.label>синтез отрути</VenomSynthesis.label>
+  <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
+  <VenomSynthesis.description>Створення біонічних імплантів, які синтезують отруту з внутрішніх хімічних реакторів для її використання під час бою.</VenomSynthesis.description>
+  
+</LanguageData>

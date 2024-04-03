@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>казуар</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>казуари</Cassowary.labelPlural>
+	<Cassowary.lifeStages.0.label>пташеня казуара</Cassowary.lifeStages.0.label>
+	<Cassowary.lifeStages.1.label>молодий казуар</Cassowary.lifeStages.1.label>
+
+	<!-- EN: emu -->
+  <Emu.label>ему</Emu.label>
+	<Emu.labelPlural>ему</Emu.labelPlural>
+	<Emu.lifeStages.0.label>пташеня ему</Emu.lifeStages.0.label>
+	<Emu.lifeStages.1.label>молодий ему</Emu.lifeStages.1.label>
+
+	<!-- EN: ostrich -->
+  <Ostrich.label>страус</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>страуси</Ostrich.labelPlural>
+	<Ostrich.lifeStages.0.label>пташеня страуса</Ostrich.lifeStages.0.label>
+	<Ostrich.lifeStages.1.label>молодий страус</Ostrich.lifeStages.1.label>
+
+
+</LanguageData>

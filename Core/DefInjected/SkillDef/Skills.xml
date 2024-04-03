@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>Тваринництво</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Приручення, тренування, догляд та контроль над тваринами.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>Тваринництво</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>Мистецтво</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Створення витворів мистецтва.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>Мистецтво</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>Будівництво</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Створення споруд та меблів та їх деконструкція.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>Будівництво</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>Кулінарія</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Створення страв з сирих інгредієнтів.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Кулінарія</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>Ремесло</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Створення зброї, броні, компонентів та інших предметів.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>Ремесло</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>Інтелект</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Дослідження технологій, синтез препаратів та робота зі сканерами.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>Інтелект</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>Медицина</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Догляд за пораненими та хворими. Виконання медичних процедур.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>Медицина</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>Ближній бій</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Володіння холодною зброєю та навичка бою без зброї.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>Ближній бій</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>Видобуток</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Видобуток корисних копалин та прокладання тунелів.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>Видобуток</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>Рослинництво</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Посів, догляд і збір врожаю. Збір дикоростучої їжі під час подорожей.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>Рослинництво</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>Стрільба</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Володіння далекобійною зброєю.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>Стрільба</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>Соціальність</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Перемовини, переконування, маніпулювання, вміння торгувати, лідерство та підбадьорювання інших.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>Соціальність</Social.skillLabel>
+  
+</LanguageData>

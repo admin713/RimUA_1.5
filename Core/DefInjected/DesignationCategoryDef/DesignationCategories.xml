@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floors -->
+  <Floors.label>покриття</Floors.label>
+	<Floors.description>Підлога.</Floors.description>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>меблі</Furniture.label>
+	<Furniture.description>Предмети обстановки житлових та громадських приміщень.</Furniture.description>
+
+	<!-- EN: recreation -->
+  <Joy.label>дозвілля</Joy.label>
+	<Joy.description>Цікаві чи приємні речі для розваги колоністів.</Joy.description>
+
+	<!-- EN: misc -->
+  <Misc.label>різне</Misc.label>
+	<Misc.description>Споруди різного призначення.</Misc.description>
+
+	<!-- EN: orders -->
+  <Orders.label>накази</Orders.label>
+	<Orders.description>Призначити дії з певними об'єктами.</Orders.description>
+
+	<!-- EN: power -->
+  <Power.label>енергія</Power.label>
+	<Power.description>Виробництво, передача та керування електроенергією.</Power.description>
+
+	<!-- EN: production -->
+  <Production.label>виробництво</Production.label>
+	<Production.description>Робочі столи, верстати та інше обладнання для виробництва.</Production.description>
+
+	<!-- EN: security -->
+  <Security.label>захист</Security.label>
+	<Security.description>Захисні та бойові конструкції.</Security.description>
+
+	<!-- EN: ship -->
+  <Ship.label>корабель</Ship.label>
+	<Ship.description>Компоненти вашого корабля.</Ship.description>
+
+	<!-- EN: structure -->
+  <Structure.label>будівництво</Structure.label>
+	<Structure.description>Будівництво стін та встановлення дверей.</Structure.description>
+
+	<!-- EN: temperature -->
+  <Temperature.label>температура</Temperature.label>
+	<Temperature.description>Засоби керування температурою.</Temperature.description>
+
+	<!-- EN: zone -->
+  <Zone.label>зона</Zone.label>
+	<Zone.description>Позначити зони для певних видів робіт.</Zone.description>
+
+</LanguageData>

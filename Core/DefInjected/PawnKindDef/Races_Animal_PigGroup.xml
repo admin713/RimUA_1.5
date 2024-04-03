@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>шиншила</Chinchilla.label>
+	<Chinchilla.labelPlural>шиншили</Chinchilla.labelPlural>
+	<Chinchilla.lifeStages.0.label>дитинча шиншили</Chinchilla.lifeStages.0.label>
+	<Chinchilla.lifeStages.1.label>молода шиншила</Chinchilla.lifeStages.1.label>
+
+	<!-- EN: deer -->
+  <Deer.label>олень</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>олениха</Deer.labelFemale>
+  <!-- EN: buck -->
+  <Deer.labelMale>олень</Deer.labelMale>
+  <!-- EN: deer -->
+  <Deer.labelPlural>олені</Deer.labelPlural>
+	<Deer.lifeStages.0.label>оленя</Deer.lifeStages.0.label>
+	<Deer.lifeStages.1.label>молодий олень</Deer.lifeStages.1.label>
+	<Deer.lifeStages.1.labelFemale>молода олениха</Deer.lifeStages.1.labelFemale>
+
+	<!-- EN: gazelle -->
+  <Gazelle.label>газель</Gazelle.label>
+	<Gazelle.labelPlural>газелі</Gazelle.labelPlural>
+	<Gazelle.lifeStages.0.label>дитинча газелі</Gazelle.lifeStages.0.label>
+	<Gazelle.lifeStages.0.labelPlural>дитинчата газелі</Gazelle.lifeStages.0.labelPlural>
+	<Gazelle.lifeStages.1.label>молода газель</Gazelle.lifeStages.1.label>
+
+	<!-- EN: ibex -->
+  <Ibex.label>гірський козел</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>гірська коза</Ibex.labelFemale>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>гірський козел</Ibex.labelMale>
+  <!-- EN: ibexes -->
+  <Ibex.labelPlural>гірські кози</Ibex.labelPlural>
+	<Ibex.lifeStages.0.label>гірське козеня</Ibex.lifeStages.0.label>
+	<Ibex.lifeStages.1.label>молодий гірський козел</Ibex.lifeStages.1.label>
+	<Ibex.lifeStages.1.labelFemale>молода гірська коза</Ibex.lifeStages.1.labelFemale>
+
+	<!-- EN: pig -->
+  <Pig.label>свиня</Pig.label>
+  <!-- EN: sow -->
+	<Pig.labelFemale>свиня</Pig.labelFemale>
+	<Pig.labelMale>хряк</Pig.labelMale>
+	<Pig.labelPlural>свині</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>порося</Pig.lifeStages.piglet.label>
+	<Pig.lifeStages.1.labelFemale>молода свиня</Pig.lifeStages.1.labelFemale>
+	<Pig.lifeStages.1.labelMale>молодий хряк</Pig.lifeStages.1.labelMale>
+
+	<!-- EN: wild boar -->
+  <WildBoar.label>кабан</WildBoar.label>
+	<WildBoar.labelFemale>кабаниха</WildBoar.labelFemale>
+	<WildBoar.labelPlural>кабани</WildBoar.labelPlural>
+	<WildBoar.lifeStages.0.label>кабаня</WildBoar.lifeStages.0.label>
+	<WildBoar.lifeStages.1.labelFemale>молода кабаниха</WildBoar.lifeStages.1.labelFemale>
+	<WildBoar.lifeStages.1.labelMale>молодий кабан</WildBoar.lifeStages.1.labelMale>
+
+</LanguageData>

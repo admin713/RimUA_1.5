@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab -->
+  <Megascarab.label>мегаскарабей</Megascarab.label>
+	<Megascarab.labelPlural>мегаскарабеї</Megascarab.labelPlural>
+	<Megascarab.lifeStages.0.label>личинка мегаскарабея</Megascarab.lifeStages.0.label>
+	
+  <!-- EN: megaspider -->
+  <Megaspider.label>мегапавук</Megaspider.label>
+	<Megaspider.labelPlural>мегапавуки</Megaspider.labelPlural>
+	<Megaspider.lifeStages.0.label>личинка мегапавука</Megaspider.lifeStages.0.label>
+	
+  <!-- EN: spelopede -->
+  <Spelopede.label>спелопеда</Spelopede.label>
+	<Spelopede.labelPlural>спелопеди</Spelopede.labelPlural>
+	<Spelopede.lifeStages.0.label>личинка спелопеди</Spelopede.lifeStages.0.label>
+	
+</LanguageData>

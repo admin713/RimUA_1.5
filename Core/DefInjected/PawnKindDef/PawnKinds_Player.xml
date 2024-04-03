@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist -->
+  <Colonist.label>колоніст</Colonist.label>
+	<Colonist.labelFemale>колоністка</Colonist.labelFemale>
+	<Colonist.labelPlural>колоністи</Colonist.labelPlural>
+
+	<!-- EN: member -->
+  <Tribesperson.label>абориген</Tribesperson.label>
+	<Tribesperson.labelFemale>аборигенка</Tribesperson.labelFemale>
+	<Tribesperson.labelPlural>аборигени</Tribesperson.labelPlural>
+
+</LanguageData>

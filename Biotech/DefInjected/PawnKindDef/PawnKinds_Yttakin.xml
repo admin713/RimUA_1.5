@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: drifter -->
+	<Drifter_Yttakin.label>дрифтер</Drifter_Yttakin.label>
+	<Drifter_Yttakin.labelPlural>дрифтери</Drifter_Yttakin.labelPlural>
+
+	<!-- EN: elite mercenary -->
+	<Mercenary_Elite_Yttakin.label>елітний-найманець</Mercenary_Elite_Yttakin.label>
+	<!-- EN: elite mercenaries -->
+	<Mercenary_Elite_Yttakin.labelPlural>елітні-найманці</Mercenary_Elite_Yttakin.labelPlural>
+
+	<!-- EN: mercenary gunner -->
+	<Mercenary_Gunner_Yttakin.label>найманий стрілець</Mercenary_Gunner_Yttakin.label>
+	<Mercenary_Gunner_Yttakin.labelPlural>наймані стрільці</Mercenary_Gunner_Yttakin.labelPlural>
+
+	<!-- EN: heavy mercenary -->
+	<Mercenary_Heavy_Yttakin.label>важкий найманець</Mercenary_Heavy_Yttakin.label>
+	<!-- EN: heavy mercenaries -->
+	<Mercenary_Heavy_Yttakin.labelPlural>важкі найманці</Mercenary_Heavy_Yttakin.labelPlural>
+
+	<!-- EN: mercenary slasher -->
+	<Mercenary_Slasher_Yttakin.label>найманий рубака</Mercenary_Slasher_Yttakin.label>
+	<Mercenary_Slasher_Yttakin.labelPlural>наймані рубаки</Mercenary_Slasher_Yttakin.labelPlural>
+
+	<!-- EN: mercenary sniper -->
+	<Mercenary_Sniper_Yttakin.label>найманий снайпер</Mercenary_Sniper_Yttakin.label>
+	<Mercenary_Sniper_Yttakin.labelPlural>наймані снайпери</Mercenary_Sniper_Yttakin.labelPlural>
+	
+  <!-- EN: pirate gunner -->
+	<Pirate_Yttakin.label>пірат-стрілець</Pirate_Yttakin.label>
+	<Pirate_Yttakin.labelPlural>пірати-стрільці</Pirate_Yttakin.labelPlural>
+  
+  <!-- EN: scavenger gunner -->
+	<Scavenger_Yttakin.label>стерв'ятник-стрілець</Scavenger_Yttakin.label>
+	<Scavenger_Yttakin.labelPlural>стерв'ятники-стрільці</Scavenger_Yttakin.labelPlural>
+
+	<!-- EN: scavenger thrasher -->
+	<Thrasher_Yttakin.label>стерв'ятник-сміттяр</Thrasher_Yttakin.label>
+	<Thrasher_Yttakin.labelPlural>стерв'ятники-сміттярі</Thrasher_Yttakin.labelPlural>
+  
+
+</LanguageData>

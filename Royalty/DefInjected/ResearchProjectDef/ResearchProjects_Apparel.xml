@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract armor -->
+  <CataphractArmor.label>катафрактарська броня</CataphractArmor.label>
+  <!-- EN: Craft cataphract armor, heavy powered armor that slows the user but which can absorb extreme punishment. Note that these also require advanced components. -->
+  <CataphractArmor.description>Виготовлення катафрактарської броні. Це важка силова броня, що сповільнює користувача, але може поглинути екстремальні пошкодження. Потребує передових компонентів.</CataphractArmor.description>
+  
+  <!-- EN: gunlink -->
+  <Gunlink.label>стрілецькі візори</Gunlink.label>
+  <!-- EN: Build wearable gunlinks to enhance your soldiers' shooting accuracy. -->
+  <Gunlink.description>Виготовлення стрілецького візору, який покращує точність стрільби.</Gunlink.description>
+  
+  <!-- EN: jump packs -->
+  <JumpPack.label>реактивні ранці</JumpPack.label>
+  <!-- EN: Build jump packs to perform aerial assaults during combat. -->
+  <JumpPack.description>Виготовлення реактивних рюкзаків, які дають змогу атакувати ворогів з повітря під час бою.</JumpPack.description>
+  
+  <!-- EN: noble apparel -->
+  <NobleApparel.label>благородний одяг</NobleApparel.label>
+  <!-- EN: Tailor noble-specific apparel like formal shirts and royal robes. -->
+  <NobleApparel.description>Пошиття благородного одягу, такого як формальні сорочки та королівські сукні.</NobleApparel.description>
+  
+  <!-- EN: royal apparel -->
+  <RoyalApparel.label>королівський одяг</RoyalApparel.label>
+  <!-- EN: Tailor royal apparel of the highest tier, like royal robes and crowns. -->
+  <RoyalApparel.description>Пошиття королівського одягу найвищого класу, такого як королівські мантії та корони.</RoyalApparel.description>
+  
+</LanguageData>

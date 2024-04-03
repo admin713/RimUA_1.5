@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>курка</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>квочка</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>півень</Chicken.labelMale>
+	<Chicken.labelPlural>кури</Chicken.labelPlural>
+	<!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>курча</Chicken.lifeStages.chick.label>
+	<Chicken.lifeStages.chick.labelPlural>курчата</Chicken.lifeStages.chick.labelPlural>
+	<!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>півник</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>качка</Duck.label>
+	<Duck.labelMale>качур</Duck.labelMale>
+	<Duck.labelPlural>качки</Duck.labelPlural>
+	<!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>каченя</Duck.lifeStages.duckling.label>
+	<Duck.lifeStages.1.label>молода качка</Duck.lifeStages.1.label>
+	<Duck.lifeStages.1.labelFemale>молода качка</Duck.lifeStages.1.labelFemale>
+	<Duck.lifeStages.1.labelMale>молодий качур</Duck.lifeStages.1.labelMale>
+
+	<!-- EN: goose -->
+  <Goose.label>гусак</Goose.label>
+	<Goose.labelFemale>гуска</Goose.labelFemale>
+	<!-- EN: geese -->
+  <Goose.labelPlural>гуси</Goose.labelPlural>
+	<Goose.lifeStages.0.label>гусеня</Goose.lifeStages.0.label>
+	<Goose.lifeStages.1.label>молодий гусак</Goose.lifeStages.1.label>
+	<Goose.lifeStages.1.labelFemale>молода гуска</Goose.lifeStages.1.labelFemale>
+	<Goose.lifeStages.1.labelMale>молодий гусак</Goose.lifeStages.1.labelMale>
+
+	<!-- EN: turkey -->
+  <Turkey.label>індик</Turkey.label>
+	<Turkey.labelFemale>індичка</Turkey.labelFemale>
+	<Turkey.labelMale>індик</Turkey.labelMale>
+	<Turkey.labelPlural>індики</Turkey.labelPlural>
+	<Turkey.lifeStages.0.label>пташеня індички</Turkey.lifeStages.0.label>
+	<Turkey.lifeStages.1.label>молодий індик</Turkey.lifeStages.1.label>
+	<Turkey.lifeStages.1.labelFemale>молода індичка</Turkey.lifeStages.1.labelFemale>
+	<Turkey.lifeStages.1.labelMale>молодий індик</Turkey.lifeStages.1.labelMale>
+
+</LanguageData>

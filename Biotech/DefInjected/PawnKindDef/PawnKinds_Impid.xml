@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer -->
+  <Tribal_Archer_Fire.label>лучник</Tribal_Archer_Fire.label>
+  <Tribal_Archer_Fire.labelPlural>лучники</Tribal_Archer_Fire.labelPlural>
+  
+  <!-- EN: villager -->
+	<Tribal_Child_Fire.label>селянин</Tribal_Child_Fire.label>
+	<Tribal_Child_Fire.labelPlural>селяни</Tribal_Child_Fire.labelPlural>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter_Fire.label>мисливець</Tribal_Hunter_Fire.label>
+	<Tribal_Hunter_Fire.labelPlural>мисливці</Tribal_Hunter_Fire.labelPlural>
+  
+  <!-- EN: penitent -->
+	<Tribal_Penitent_Fire.label>покутник</Tribal_Penitent_Fire.label>
+	<Tribal_Penitent_Fire.labelPlural>покутники</Tribal_Penitent_Fire.labelPlural>
+  
+  <!-- EN: warrior -->
+	<Tribal_Warrior_Fire.label>воїн</Tribal_Warrior_Fire.label>
+	<Tribal_Warrior_Fire.labelPlural>воїни</Tribal_Warrior_Fire.labelPlural>
+  
+</LanguageData>

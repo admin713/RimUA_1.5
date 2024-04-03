@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: killed a child -->
+  <KilledChild.stages.killed_a_child.label>{0_gender ? вбив : вбила} дитину</KilledChild.stages.killed_a_child.label>
+  <!-- EN: Killing one so young feels wrong, no matter the situation. -->
+  <KilledChild.stages.killed_a_child.description>Вбити настільки молоду людину неправильно, незалежно від ситуації.</KilledChild.stages.killed_a_child.description>
+  
+  <!-- EN: killed my birth mother -->
+  <KilledMyBirthMother.stages.killed_my_birth_mother.label>{1_gender ? вбив : вбила} мою рідну матір</KilledMyBirthMother.stages.killed_my_birth_mother.label>
+  
+  <!-- EN: my birth mother {0} died -->
+  <MyBirthMotherDied.stages.my_birth_mother_died.label>рідна мати, {0}, померла</MyBirthMotherDied.stages.my_birth_mother_died.label>
+  <!-- EN: My birth mother died. She's gone forever. It's like a hole in my life. -->
+  <MyBirthMotherDied.stages.my_birth_mother_died.description>Моя рідна мати померла. Вона пішла назавжди. Це як втрата частини мого життя.</MyBirthMotherDied.stages.my_birth_mother_died.description>
+  
+  <!-- EN: my birth mother {0} lost -->
+  <MyBirthMotherLost.stages.my_birth_mother_lost.label>рідна мати, {0}, зникла</MyBirthMotherLost.stages.my_birth_mother_lost.label>
+  <!-- EN: My birth mother has been lost. I hope she will get back to us someday. -->
+  <MyBirthMotherLost.stages.my_birth_mother_lost.description>Моя рідна мати зникла. Сподіваюсь, колись вона повернеться до нас.</MyBirthMotherLost.stages.my_birth_mother_lost.description>
+  
+  <!-- EN: colonist ripscanned -->
+  <KnowColonistExecuted.stages.colonist_ripscanned.label>мозок колоніста спалено</KnowColonistExecuted.stages.colonist_ripscanned.label>
+  <!-- EN: A colonist died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_ripscanned.description>Мозок одного з нас було спалено внаслідок сканування летальним сканером. Це жахливо!</KnowColonistExecuted.stages.colonist_ripscanned.description>
+
+  <!-- EN: someone was ripscanned -->
+  <KnowGuestExecuted.stages.someone_was_ripscanned.label>чийсь мозок спалено</KnowGuestExecuted.stages.someone_was_ripscanned.label>
+  <!-- EN: A prisoner died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_ripscanned.description>Мозок в'язня чи гостя було спалено внаслідок сканування летальним сканером. Це жахливо!</KnowGuestExecuted.stages.someone_was_ripscanned.description>
+
+	<PartnerMiscarried.stages.miscarried.label>викидень ({0})</PartnerMiscarried.stages.miscarried.label>
+	<PartnerMiscarried.stages.miscarried.description>Історія моєї дитини закінчилася, не почавшись.</PartnerMiscarried.stages.miscarried.description>
+
+</LanguageData>

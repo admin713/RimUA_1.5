@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic mechtech -->
+  <BasicMechtech.label>базові мех-технології</BasicMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
+  <BasicMechtech.description>Технологія, що дозволяє створювати та контролювати базових механоїдів.</BasicMechtech.description>
+  
+  <!-- EN: high mechtech -->
+  <HighMechtech.label>просунуті мех-технології</HighMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
+  <HighMechtech.description>Технологія, що дозволяє створювати та контролювати просунутих механоїдів.\n\nВи можете отримати чип концентрації енергії після перемоги над королевою війни, яку може викликати механізатор.</HighMechtech.description>
+  
+  <!-- EN: standard mechtech -->
+  <StandardMechtech.label>стандартні мех-технології</StandardMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
+  <StandardMechtech.description>Технологія, що дозволяє створювати та контролювати стандартних механоїдів.\n\nВи можете отримати сигнальний чип після перемоги над дияволом, якого може викликати механізатор.</StandardMechtech.description>
+  
+  <!-- EN: ultra mechtech -->
+  <UltraMechtech.label>ультра мех-технології</UltraMechtech.label>
+  <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
+  <UltraMechtech.description>Технологія, що дозволяє створювати та контролювати ультратехнологічних механоїдів та спорядження механізатора.\n\nВи можете отримати наноструктурний чип після перемоги над сотником, якого може викликати механізатор.</UltraMechtech.description>
+  
+  <!-- EN: wastepack atomizer -->
+  <WastepackAtomizer.label>розщеплювач відходів</WastepackAtomizer.label>
+  <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
+  <WastepackAtomizer.description>Технологія, що дозволяє створювати розщеплювач відходів, який дозволяє безпечно позбутися відходів, розбираючи їх на молекулярному рівні.</WastepackAtomizer.description>
+  
+</LanguageData>
