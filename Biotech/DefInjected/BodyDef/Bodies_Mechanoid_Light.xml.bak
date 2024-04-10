@@ -26,7 +26,7 @@
   <Mech_Light.label>легкий мех</Mech_Light.label>
   <!-- EN: sight sensor -->
   <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>лівий оптичний сенсор</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
-  <!-- EN: hearing sensor -->
+  <!-- EN: right hearing sensor -->
   <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>правий звуковий сенсор</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left leg -->
   <Mech_Light.corePart.parts.left_leg.customLabel>ліва нога</Mech_Light.corePart.parts.left_leg.customLabel>
