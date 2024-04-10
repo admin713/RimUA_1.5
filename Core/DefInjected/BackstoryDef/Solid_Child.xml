@@ -172,12 +172,12 @@
 	<ArtisticWeirdo56.titleShortFemale>дивачка</ArtisticWeirdo56.titleShortFemale>
   
   <!-- EN: {PAWN_nameDef} was born on the dark edge of a tidally-locked urbworld. After an argument, {PAWN_possessive} father sold {PAWN_objective} to a local district lord as a slave artist.\n\nForced to create art or be punished, {PAWN_pronoun} withdrew and became unable to form relations with others. -->
-  <ArtSlave57.baseDesc>{PAWN_nameDef} {PAWN_gender ? народився : народилася} у темному куточку віддаленого урбанізованого світу. Після сварки, {PAWN_possessive}  батько продав {PAWN_possessive} місцевому лорду як {PAWN_gender ? художника-раба : художницю-рабиню}.\n\n{PAWN_possessive} змушували створювати мистецтво, погрожуючи покаранням. З часом {PAWN_pronoun} {PAWN_gender ? став замкнутим і нездатним : стала замкнутою і нездатною} будувати стосунки з іншими.</ArtSlave57.baseDesc>
+  <!-- <ArtSlave57.baseDesc>{PAWN_nameDef} {PAWN_gender ? народився : народилася} у темному куточку віддаленого урбанізованого світу. Після сварки, {PAWN_possessive}  батько продав {PAWN_possessive} місцевому лорду як {PAWN_gender ? художника-раба : художницю-рабиню}.\n\n{PAWN_possessive} змушували створювати мистецтво, погрожуючи покаранням. З часом {PAWN_pronoun} {PAWN_gender ? став замкнутим і нездатним : стала замкнутою і нездатною} будувати стосунки з іншими.</ArtSlave57.baseDesc> -->
   <!-- EN: art slave -->
-  <ArtSlave57.title>художник-раб</ArtSlave57.title>
-	<ArtSlave57.titleFemale>художниця-рабиня</ArtSlave57.titleFemale>
+  <!-- <ArtSlave57.title>художник-раб</ArtSlave57.title>
+	<ArtSlave57.titleFemale>художниця-рабиня</ArtSlave57.titleFemale> -->
 	<!-- EN: artist -->
-	<ArtSlave57.titleShort>митець</ArtSlave57.titleShort>
+	<!-- <ArtSlave57.titleShort>митець</ArtSlave57.titleShort> -->
 
 	<!-- EN: {PAWN_nameDef} grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n{PAWN_possessive} Aspergers syndrome meant {PAWN_pronoun} struggled with social situations and was incapable of caring, but {PAWN_pronoun} learned hard skills like research and shooting very quickly. -->
 	<AspergersRebel13.baseDesc>{PAWN_nameDef} {PAWN_gender ? виріс як повстанець : виросла як повстанка} у колись розвиненому прикордонному світі, зараз спустошеному війною.\n\nВ {PAWN_gender ? нього : неї} був синдром Аспергера, що означає проблеми з соціалізацією та нездатність піклування про інших. Проте {PAWN_pronoun} швидко {PAWN_gender ? опанував : опанувала} такі навички як стрільба та розумова праця.</AspergersRebel13.baseDesc>
