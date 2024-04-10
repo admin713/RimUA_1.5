@@ -1347,13 +1347,13 @@
   <MobHenchman53.titleShort>прихвостень</MobHenchman53.titleShort>
   
   <!-- EN: {PAWN_nameDef} designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, {PAWN_nameDef} was confronted by all the men and women killed by {PAWN_possessive} work. {PAWN_pronoun} decided to travel to the rimworlds and use {PAWN_possessive} skills for good. -->
-  <ModDesigner85.baseDesc>{PAWN_nameDef} {PAWN_gender ? розробляв : розробляла} бойові модифікації для солдатів.\n\n Однієї ночі, {PAWN_objective} наснився страшний сон, де перед {PAWN_gender ? ним : нею} постали усі ті чоловіки та жінки, котрі загинули через його вироби. Після цього {PAWN_pronoun} {PAWN_gender ? вирішив : вирішила} перебратися до прикордонних світів та використовувати свої навички для добра.</ModDesigner85.baseDesc>
+  <!-- <ModDesigner85.baseDesc>{PAWN_nameDef} {PAWN_gender ? розробляв : розробляла} бойові модифікації для солдатів.\n\n Однієї ночі, {PAWN_objective} наснився страшний сон, де перед {PAWN_gender ? ним : нею} постали усі ті чоловіки та жінки, котрі загинули через його вироби. Після цього {PAWN_pronoun} {PAWN_gender ? вирішив : вирішила} перебратися до прикордонних світів та використовувати свої навички для добра.</ModDesigner85.baseDesc> -->
   <!-- EN: mod designer -->
-  <ModDesigner85.title>розробник модифікацій</ModDesigner85.title>
-   <ModDesigner85.titleFemale>розробниця модифікацій</ModDesigner85.titleFemale>
+  <!-- <ModDesigner85.title>розробник модифікацій</ModDesigner85.title>
+   <ModDesigner85.titleFemale>розробниця модифікацій</ModDesigner85.titleFemale> -->
   <!-- EN: modder -->
-  <ModDesigner85.titleShort>модифікатор</ModDesigner85.titleShort>
-    <ModDesigner85.titleShortFemale>модифікаторка</ModDesigner85.titleShortFemale>
+  <!-- <ModDesigner85.titleShort>модифікатор</ModDesigner85.titleShort>
+    <ModDesigner85.titleShortFemale>модифікаторка</ModDesigner85.titleShortFemale> -->
   
   <!-- EN: {PAWN_nameDef} specialized in studying and manipulating the genetic code of the muffalo.\n\n{PAWN_possessive} work left little time to develop an appreciation for the arts or other people's company. -->
   <MuffaloResearcher67.baseDesc>{PAWN_nameDef} {PAWN_gender ? спеціалізувався : спеціалізувалася} на вивченні та маніпуляціями З ДНК муффало.\n\n Свій вільний час {PAWN_pronoun} {PAWN_gender ? присвячував : присвячувала} мистецтву чи спілкуванню з іншими людьми.</MuffaloResearcher67.baseDesc>
