@@ -12,7 +12,7 @@
   <Execution.description>Наглядач страчує в'язня, перерізавши йому горло. Це може вплинути на настрій інших в'язнів та колоністів.</Execution.description>
   
   <!-- EN: maintain only -->
-  <MaintainOnly.label>тільки годувати</MaintainOnly.label>
+  <MaintainOnly.label>не взаємодіяти</MaintainOnly.label>
   <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
   <MaintainOnly.description>Просто нагодуйте ув'язненого і забезпечте його базові потреби, не намагаючись вступати в будь-яку іншу взаємодію.</MaintainOnly.description>
   

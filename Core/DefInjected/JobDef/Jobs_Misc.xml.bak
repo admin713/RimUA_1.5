@@ -3,7 +3,7 @@
 	<!-- need test -->
   
   <!-- EN: activating TargetA. -->
-  <!-- <ActivateThing.reportString>активує {lookup: {TargetA}; Case; 3}</ActivateThing.reportString> -->
+  <ActivateThing.reportString>активує {lookup: {TargetA}; Case; 3}</ActivateThing.reportString>
   
   <!-- EN: applying TargetB. -->
   <ApplyTechprint.reportString>застосовує {lookup: {TargetB}; Case; 3}</ApplyTechprint.reportString>
