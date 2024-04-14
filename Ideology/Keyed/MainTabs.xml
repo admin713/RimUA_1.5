@@ -206,5 +206,11 @@
 
   <!-- EN: Development points -->
   <DevelopmentPoints>Бали розвитку</DevelopmentPoints>
+	
+  <!-- EN: Mental breaks -->
+  <MentalBreaks>Нервові зриви</MentalBreaks>
+	
+  <!-- EN: Disabled by health condition -->
+  <WorkDisabledHealth>Недоступно через стан здоров'я</WorkDisabledHealth>	
 
 </LanguageData>

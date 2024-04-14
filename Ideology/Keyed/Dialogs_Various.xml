@@ -113,6 +113,8 @@
   <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} - {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
   <AbilityIdeoConvertBreakdownTrait>Риса характеру "{TRAIT}"</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: Precept {PRECEPT} -->
+  <AbilityIdeoConvertBreakdownPercept>Правило "{PRECEPT}"</AbilityIdeoConvertBreakdownPercept>
   <!-- EN: {RELICCOUNT} installed relics on map -->
   <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} реліквій у цій місцевості</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
@@ -250,6 +252,11 @@
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
   <MedGroupEnslavedColonist>Колоніст-раб</MedGroupEnslavedColonist>
+	<!-- Medical settings -->
+	<!-- EN: Slaves -->
+	<MedGroupSlaves>Раби</MedGroupSlaves>
+	<!-- EN: Enslaved members of your colony. -->
+	<MedGroupSlavesDesc>Раби вашої колонії.</MedGroupSlavesDesc>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
@@ -327,4 +334,8 @@
   <StylesInUse>Стилі, що використовуються</StylesInUse>
   <!-- EN: Add a style. -->
   <StyleCategoryAddDesc>Додати стиль.</StyleCategoryAddDesc>
+
+	<!-- EN: Origin -->
+	<Origin>Походження</Origin>
+
 </LanguageData>

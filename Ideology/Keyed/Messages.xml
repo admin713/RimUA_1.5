@@ -144,12 +144,17 @@
   <!-- EN: Infestation arriving. -->
   <MessageInfestationDelayActivated>Комахи прибувають.</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
-  <MessageFuelNodeDelayActivated>{0} був потривожений, незабаром буде вибух!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+  <MessageFuelNodeDelayActivated>{0} зазнає критичних пошкоджень, незабаром буде вибух!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
 
   <!-- Fluid ideo messages -->
   <!-- EN: Development points changed from {0} to {1} ({2}). -->
   <MessageDevelopmentPointsEarned>Кількість балів розвитку змінилась з {0} до {1} ({2}).</MessageDevelopmentPointsEarned>
   <!-- EN: Only one change to structures, memes and styles is allowed. -->
   <MessageFluidIdeoOneChangeAllowed>Дозволена лише одна зміна структури, рис та стилей.</MessageFluidIdeoOneChangeAllowed>
+
+  <!-- EN: The {0} has accepted the requested items and is leaving. -->
+  <MessageBeggarsLeavingWithItemsSingular>{0} отримує необхідні предмети та йде.</MessageBeggarsLeavingWithItemsSingular>
+  <!-- EN: {0} have accepted the requested items and are leaving. -->
+  <MessageBeggarsLeavingWithItemsPlural>{0} отримують необхідні предмети та йдуть.</MessageBeggarsLeavingWithItemsPlural>
 
 </LanguageData>

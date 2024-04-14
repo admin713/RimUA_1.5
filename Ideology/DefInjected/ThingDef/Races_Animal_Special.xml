@@ -7,8 +7,12 @@
   <Dryad_Barkskin.description>Каста дріад, яка спеціалізується на поглинанні шкоди під час бою. Дріади вкриті товстою шкірою, схожою на кору, яка частково утворена самим деревом Гауранлен. Під впливом людини вони можуть діяти як бійці, які поглинають пошкодження.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Barkskin.description>
   <!-- EN: left claw -->
   <Dryad_Barkskin.tools.left_claw.label>ліва лапа</Dryad_Barkskin.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Barkskin.tools.left_claw.labelNoLocation>лапа</Dryad_Barkskin.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Barkskin.tools.right_claw.label>права лапа</Dryad_Barkskin.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Barkskin.tools.right_claw.labelNoLocation>лапа</Dryad_Barkskin.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Barkskin.tools.head.label>голова</Dryad_Barkskin.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Dryad_Basic.description>Дріади - це дрібні ссавці, які мають симбіотичні стосунки з деревом Гауранлен. Ця незріла дріада може підтримувати та захищати своє дерево, але її головна мета — перетворюватися на більш спеціалізовані та потужні форми дріад.</Dryad_Basic.description>
   <!-- EN: left claw -->
   <Dryad_Basic.tools.left_claw.label>ліва лапа</Dryad_Basic.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Basic.tools.left_claw.labelNoLocation>лапа</Dryad_Basic.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Basic.tools.right_claw.label>права лапа</Dryad_Basic.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Basic.tools.right_claw.labelNoLocation>лапа</Dryad_Basic.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Basic.tools.head.label>голова</Dryad_Basic.tools.head.label>
   
@@ -29,8 +37,12 @@
   <Dryad_Berrymaker.description>Каста дріад, що спеціалізується на виробництві їжі. Разом із своїм деревом Гауранлен ця дріада може постійно виробляти поживні ягоди. Однак вона повільна і неефективна під час роботи чи бою.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Berrymaker.description>
   <!-- EN: left claw -->
   <Dryad_Berrymaker.tools.left_claw.label>ліва лапа</Dryad_Berrymaker.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Berrymaker.tools.left_claw.labelNoLocation>лапа</Dryad_Berrymaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Berrymaker.tools.right_claw.label>права лапа</Dryad_Berrymaker.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Berrymaker.tools.right_claw.labelNoLocation>лапа</Dryad_Berrymaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Berrymaker.tools.head.label>голова</Dryad_Berrymaker.tools.head.label>
   
@@ -40,8 +52,12 @@
   <Dryad_Carrier.description>Каста дріад, яка спеціалізується на перенесенні речей. Під впливом людини це може допомогти переносити речі туди, куди потрібно.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Carrier.description>
   <!-- EN: left claw -->
   <Dryad_Carrier.tools.left_claw.label>ліва лапа</Dryad_Carrier.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Carrier.tools.left_claw.labelNoLocation>лапа</Dryad_Carrier.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Carrier.tools.right_claw.label>права лапа</Dryad_Carrier.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Carrier.tools.right_claw.labelNoLocation>лапа</Dryad_Carrier.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Carrier.tools.head.label>голова</Dryad_Carrier.tools.head.label>
   
@@ -62,8 +78,12 @@
   <Dryad_Gaumaker.description>Каста дріад з унікальною здатністю виробляти нові паростки дерева Гауранлен і відтворювати дерево Гауранлен разом із його симбіонтом, королевою дріад. Для цього три дріади Гау мають повільно злитися в одне ціле.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Gaumaker.description>
   <!-- EN: left claw -->
   <Dryad_Gaumaker.tools.left_claw.label>ліва лапа</Dryad_Gaumaker.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Gaumaker.tools.left_claw.labelNoLocation>лапа</Dryad_Gaumaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Gaumaker.tools.right_claw.label>права лапа</Dryad_Gaumaker.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Gaumaker.tools.right_claw.labelNoLocation>лапа</Dryad_Gaumaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Gaumaker.tools.head.label>голова</Dryad_Gaumaker.tools.head.label>
   
@@ -73,8 +93,12 @@
   <Dryad_Medicinemaker.description>Каста дріад, що спеціалізується на виробництві ліків. Разом зі своїм деревом Гауранлен ця дріада може постійно виробляти лікарські трави. Однак вони повільні і неефективні під час роботи чи бою.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Medicinemaker.description>
   <!-- EN: left claw -->
   <Dryad_Medicinemaker.tools.left_claw.label>ліва лапа</Dryad_Medicinemaker.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Medicinemaker.tools.left_claw.labelNoLocation>лапа</Dryad_Medicinemaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Medicinemaker.tools.right_claw.label>права лапа</Dryad_Medicinemaker.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Medicinemaker.tools.right_claw.labelNoLocation>лапа</Dryad_Medicinemaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Medicinemaker.tools.head.label>голова</Dryad_Medicinemaker.tools.head.label>
   
@@ -84,8 +108,12 @@
   <Dryad_Woodmaker.description>Повільна та незграбна каста дріад, яка спеціалізується на виробництві деревини. Разом зі своїм деревом Гауранлен ця дріада може постійно виробляти матеріал, схожий на дерево. Однак вони повільні і неефективні під час бою.\n\nЗагалом дріади — це істоти, схожі на ссавців, які мають симбіотичні стосунки з деревом Гауранлен. Вони розмножуються разом зі своїм деревом, яке містить приховану королеву дріад. Дріади можуть перетворюватися в різні спеціалізовані касти.</Dryad_Woodmaker.description>
   <!-- EN: left claw -->
   <Dryad_Woodmaker.tools.left_claw.label>ліва лапа</Dryad_Woodmaker.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Woodmaker.tools.left_claw.labelNoLocation>лапа</Dryad_Woodmaker.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Dryad_Woodmaker.tools.right_claw.label>права лапа</Dryad_Woodmaker.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Dryad_Woodmaker.tools.right_claw.labelNoLocation>лапа</Dryad_Woodmaker.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Dryad_Woodmaker.tools.head.label>голова</Dryad_Woodmaker.tools.head.label>
   

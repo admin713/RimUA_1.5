@@ -29,6 +29,8 @@
   <DeleteCustom>Видалити свою</DeleteCustom>
   <!-- EN: Create new -->
   <CreateNew>Створити нову</CreateNew>
+  <!-- EN: Create fluid -->
+  <CreateFluid>Створити змінну</CreateFluid>
   <!-- EN: Load existing -->
   <LoadExisting>Завантажити збережену</LoadExisting>
   <!-- EN: Create custom ideoligion -->
@@ -666,5 +668,10 @@
   <ChangeStyleDesc>Змінити стиль майбутньої споруди. Ефект чисто візуальний, не має впливу на ігровий процес.</ChangeStyleDesc>
   <!-- EN: No available styles. -->
   <ChangeStyleDisabledNoCategories>Немає доступних стилів.</ChangeStyleDisabledNoCategories>
+	
+  <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
+  <FavoriteColorPickerTip>Улюблений колір {PAWN_nameDef}. Якщо {PAWN_pronoun} матиме 60%+ елементів одягу пофарбованих в улюблений колір або в колір ідеології, {PAWN_possessive} настрій буде трохи кращим.</FavoriteColorPickerTip>
+  <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
+  <IdeoColorPickerTip>Колір ідеології {PAWN_nameDef}. Якщо {PAWN_pronoun} матиме 60%+ елементів одягу пофарбованих в улюблений колір або в колір ідеології, {PAWN_possessive} настрій буде трохи кращим.</IdeoColorPickerTip>
 
 </LanguageData>

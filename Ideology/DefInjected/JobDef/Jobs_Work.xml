@@ -39,5 +39,8 @@
   
   <!-- EN: suppressing TargetA. -->
   <SlaveSuppress.reportString>пригнічує TargetA.</SlaveSuppress.reportString>
-  
+
+  <!-- EN: reducing will of TargetA. -->
+  <PrisonerReduceWill.reportString>знижує волю TargetA</PrisonerReduceWill.reportString>
+
 </LanguageData>

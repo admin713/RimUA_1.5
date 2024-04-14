@@ -38,10 +38,10 @@
   <InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>вживлено орган</InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>
 т  <InstalledOrgan_Know_Abhorrent.stages.installed_organ.labelSocial>{OTHERPAWN_gender ? вживив : вживила} орган</InstalledOrgan_Know_Abhorrent.stages.installed_organ.labelSocial>
 
-	<!-- EN: organ harvested -->
-  <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>вживлено орган</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+	<!-- EN: installed organ -->
+	<InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.label>вживлено орган</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.label>
   <!-- EN: Someone installed an organ. The body should be sacrosanct! -->
-  <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Один з нас вживив людині орган. Тіло повинно бути недоторканним!</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
+	<InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>Один з нас вживив людині орган. Тіло повинно бути недоторканним!</InstalledOrgan_Know_Abhorrent_Mood.stages.installed_organ.description>
   
   <!-- EN: sold organ -->
   <SoldOrgan_Disapproved.stages.sold_organ.label>{PAWN_gender ? Продав : Продала} орган</SoldOrgan_Disapproved.stages.sold_organ.label>
@@ -49,8 +49,8 @@
   <SoldOrgan_Disapproved.stages.sold_organ.description>Мені довелося продати чийсь орган, я не схвалюю такого.</SoldOrgan_Disapproved.stages.sold_organ.description>
   
   <!-- EN: sold organ -->
-  <SoldOrgan_Know_Disapproved.stages.sold_organ.label>продано орган</SoldOrgan_Know_Disapproved.stages.sold_organ.label>
-  <SoldOrgan_Know_Disapproved.stages.sold_organ.labelSocial>{OTHERPAWN_gender ? продав : продала} орган</SoldOrgan_Know_Disapproved.stages.sold_organ.labelSocial>
+	<SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>продано орган</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>{OTHERPAWN_gender ? продав : продала} орган</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>
 
 	<!-- EN: organ harvested -->
   <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>продано орган</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
@@ -63,12 +63,13 @@
   <TradedOrgan_Abhorrent.stages.traded_organ.description>Мені довелося продати людський орган. Це суперечить всьому, у що я вірю!</TradedOrgan_Abhorrent.stages.traded_organ.description>
   
   <!-- EN: traded organ -->
-  <TradedOrgan_Know_Abhorrent.stages.traded_organ.label>продано орган</TradedOrgan_Know_Abhorrent.stages.traded_organ.label>
-  <TradedOrgan_Know_Abhorrent.stages.traded_organ.labelSocial>{OTHERPAWN_gender ? продав : продала} орган</TradedOrgan_Know_Abhorrent.stages.traded_organ.labelSocial>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.label>продано орган</TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.label>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.description>{OTHERPAWN_gender ? продав : продала} орган</TradedOrgan_Know_Abhorrent_Mood.stages.organ_traded.description>
 
-	<!-- EN: organ harvested -->
-  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>продано орган</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
-  <!-- EN: Someone traded an organ! What an abhorrent, disgusting act. -->
-  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>Один з нас продав орган! Як це огидно, фу!</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
-  
+  <!-- EN: traded organ -->
+  <TradedOrgan_Know_Abhorrent.stages.traded_organ.label>продано орган</TradedOrgan_Know_Abhorrent.stages.traded_organ.label>
+	
+  <!-- EN: sold organ -->
+  <SoldOrgan_Know_Disapproved.stages.sold_organ.label>продано орган</SoldOrgan_Know_Disapproved.stages.sold_organ.label>
+	
 </LanguageData>
