@@ -79,13 +79,7 @@
   <!-- EN: Guest lost: {SUBJECT_definite} -->
 	<EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>Гість {asker_gender ? зник : зникла}: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
-	<!--<EndGame_RoyalAscent.LetterTextGuestLost.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, зник : яку ви зобов'язалися захищати, зникла}. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>-->
-
-	<!-- EN: Guest lost: {SUBJECT_definite} -->
-	<EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>Гість {asker_gender ? зник : зникла}: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
-	<!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
-	<EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, зник : яку ви зобов'язалися захищати, зникла}. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
-	
+	<EndGame_RoyalAscent.LetterTextGuestLost.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, зник : яку ви зобов'язалися захищати, зникла}. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
   <!-- EN: Shuttle destroyed -->
 	<EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>Шатл знищено</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon] -->

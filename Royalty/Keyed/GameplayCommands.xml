@@ -87,4 +87,7 @@
   <CommandCancelBestowingCeremonyDesc>Негайно завершити церемонію вручення. Представник імперії піде, але незабаром надасть нову можливість проведення церемонії.</CommandCancelBestowingCeremonyDesc>
   <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
   <CommandCancelBestowingCeremonyConfirm>Ви впевнені, що хочете скасувати церемонію вручення титулу?</CommandCancelBestowingCeremonyConfirm>
+
+	<!-- EN: Psychic insanity immune. -->
+	<CommandPsycastInsanityImmune>Імунітет до психічної люті.</CommandPsycastInsanityImmune>
 </LanguageData>

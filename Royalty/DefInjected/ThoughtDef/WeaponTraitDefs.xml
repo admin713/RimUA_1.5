@@ -35,5 +35,10 @@
   <OnKill_GoodThought.stages.s_kill_happiness.label>Радість вбивств {lookup: {WEAPON}; Case; 1}</OnKill_GoodThought.stages.s_kill_happiness.label>
   <!-- EN: {WEAPON} was overjoyed with its kill, and I feel some of that too. -->
   <OnKill_GoodThought.stages.s_kill_happiness.description>Синхронізована зі мною зброя, {WEAPON}, радіє від нещодавнього вбивства. Я відчуваю дещо подібне.</OnKill_GoodThought.stages.s_kill_happiness.description>
+	
+	<!-- EN: {WEAPON}'s kill thirst -->
+	<KillThirst_Weapon.stages.s_kill_thirst.label>Жага вбивств {lookup: {WEAPON}; Case; 1}</KillThirst_Weapon.stages.s_kill_thirst.label>
+	<!-- EN: My bonded weapon {WEAPON} is angry it has gone so long without killing. I can feel its rage. -->
+	<KillThirst_Weapon.stages.s_kill_thirst.description>Синхронізована зі мною зброя, {WEAPON}, дуже злиться через довгий час без вбивств. Я відчуваю цю лють.</KillThirst_Weapon.stages.s_kill_thirst.description>
   
 </LanguageData>

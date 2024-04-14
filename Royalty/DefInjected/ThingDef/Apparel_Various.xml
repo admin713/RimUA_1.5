@@ -11,9 +11,9 @@
   <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
   <Apparel_ArmorCataphractPhoenix.description>Різновид катафрактарської броні з плечовим запалювальним гранатометом. Ця броня трішки менше захищена від звичайних пошкоджень ніж стандартна карафрактарська броня, проте має більшу стійкість до полум'я. Гранатомет має дуже обмежену кількість снарядів та повинен перезаряджатися після використання.\n\nФенікси спеціалізуються на зачистці закритих просторів, повних ворогів. Вони можуть поглинати удари під час штурму, заповнювати кімнати полум’ям і виходити з нього неушкодженими.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>запальний снаряд</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>запальний снаряд</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>перезаряджається</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>
+	<Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>перезаряджається</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: launch incendiary -->
   <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>запуск запального снаряду</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
   
@@ -42,9 +42,9 @@
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
   <Apparel_ArmorLocust.description>Варіант розвідувальної броні з вбудованим реактивним ранцем для польотів на короткі дистанції. Броня сарани має трохи менший захист ніж розвідувальна броня. Кожен стрибок споживає заряд палива, тому броню потрібно перезаправити після кількох використань.\n\nНавідміну від більшості військових, бійці в броні сарани використовують переважно зброю ближнього бою. Зазвичай вони уникають статичних перестрілок, вважаючи за краще стрибнути прямо в укріплення противника і битися рукопашну. Вони погано показують себе в затяжній обороні або в замкнутих просторах, однак не мають рівних в бою на короткій відстані і на пересіченій місцевості.</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
-  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>стрибок</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+	<Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>стрибок</Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>перезаряджається</Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>
+	<Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>перезаряджається</Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.verbs.jump.label>стрибок</Apparel_ArmorLocust.verbs.jump.label>
   
@@ -53,9 +53,9 @@
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
   <Apparel_ArmorMarineGrenadier.description>Варіант броні десантника з плечовим гранатометом. Ця броня має трохи менший захист ніж броня піхотинця. Гранатомет має обмежену кількість снарядів та повинен перезаряджатися після використання.\n\nГренадери зазвичай спеціалізуються в пробиванні укріплень або корабельних перегородок. Хоч гренадери не ефективні на великих дистанціях, вони можуть бути напрочуд смертоносними на короткій дистанції та закритих приміщеннях.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>осколкова граната</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+	<Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>осколкова граната</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>перезаряджається</Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>
+	<Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>перезаряджається</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: launch frag grenade -->
   <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>запустити осколкову гранату</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
   

@@ -38,15 +38,9 @@
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {lodgers0_possessive} xenogerm forcibly absorbed. [remainingWillNowLeave][failLetterEndingCommon] -->		<!-- сиро -->
   <Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>Примусово вилучено ксенозародок у {SUBJECT_definite}, гостя якого ви зобов'язалися захищати. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-	<!--<Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>Гість зник: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>-->
+	<Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>Гість зник: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
-	<!--<Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, гість якого ви зобов'язалися захищати, зник. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>-->
-
-	<!-- EN: Guest lost: {SUBJECT_definite} -->
-	<Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>Гість зник: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
-	<!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
-	<Hospitality_Util_Worker.LetterTextGuestLost.slateRef>{SUBJECT_definite}, гість якого ви зобов'язалися захищати, зник. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
-	
+	<Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, гість якого ви зобов'язалися захищати, зник. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
 	<Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>Гість здичавів: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->

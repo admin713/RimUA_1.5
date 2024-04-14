@@ -54,12 +54,6 @@
 	<Intro_Wimp.LetterLabelGuestLost.slateRef>Гість {asker_gender ? зник : зникла}: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
 	<Intro_Wimp.LetterTextGuestLost.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, зник : яку ви зобов'язалися захищати, зникла}. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
-
-	<!-- EN: Guest lost: {SUBJECT_definite} -->
-	<Intro_Wimp.LetterLabelCaptured.slateRef>Гість {asker_gender ? зник : зникла}: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
-	<!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
-	<Intro_Wimp.LetterTextCaptured.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, зник : яку ви зобов'язалися захищати, зникла}. [failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
-	
   <!-- EN: Guest lost: {SUBJECT_definite} -->
 	<Intro_Wimp.LetterLabelLodgerRanWild.slateRef>Гість {asker_gender ? утік : втекла}: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
