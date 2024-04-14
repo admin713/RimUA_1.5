@@ -11,9 +11,9 @@
   <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
   <AnimalWarcall.description>За допомогою потужного реву та екстрасенсорного зв'язку закликайте тварину на бій з вашими ворогами на кілька годин.</AnimalWarcall.description>
   <!-- EN: warcall -->
-  <AnimalWarcall.verbProperties.label>Schlachtruf</AnimalWarcall.verbProperties.label>
+  <AnimalWarcall.verbProperties.label>бойовий заклик</AnimalWarcall.verbProperties.label>
   <!-- EN: Choose an animal to call -->
-  <AnimalWarcall.verbProperties.mouseTargetingText>Tier auswählen</AnimalWarcall.verbProperties.mouseTargetingText>
+  <AnimalWarcall.verbProperties.mouseTargetingText>Оберіть тварину, яку ви хочете викликати</AnimalWarcall.verbProperties.mouseTargetingText>
   
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>підживлення кров'ю</Bloodfeed.label>

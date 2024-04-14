@@ -29,6 +29,11 @@
 
 	<ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord >будь-яке елітне спорядження, спорядження псионіка чи мех-лорда</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord >
 
+  <!-- EN: A mechanitor must be capable of smithing to create mechanoids.\n\nAre you sure you want to continue? -->
+  <ConfirmInstallMechlink_Smithing>Механізатор має бути здатний до ремесла.\n\nВи впевненні, що бажаєте продовжити?</ConfirmInstallMechlink_Smithing>
+  <!-- EN: A mechanitor must be capable of intellectual tasks to unlock mechanitor research.\n\nAre you sure you want to continue? -->
+  <ConfirmInstallMechlink_Intellectual>Механізатор має бути здатний до інтелектуальної роботи.\n\nВи впевненні, що бажаєте продовжити?</ConfirmInstallMechlink_Intellectual>
+	
 	<!-- Mech gestator -->
   <!-- EN: Gestation cycles completed -->
   <GestationCyclesCompleted>Гестаційний цикл завершено</GestationCyclesCompleted>

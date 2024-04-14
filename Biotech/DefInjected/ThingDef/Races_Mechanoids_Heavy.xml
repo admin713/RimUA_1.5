@@ -7,7 +7,11 @@
   <Mech_Tunneler.description>Важкий механоїд побудований для гірництва в небезпечних місцевостях. Попри те, що тунельник призначений для розкопок, гігантські потужні кігті та над товста броня роблять його небезпечним супротивником в бою.</Mech_Tunneler.description>
   <!-- EN: left power claw -->
   <Mech_Tunneler.tools.left_power_claw.label>лівий силовий кіготь</Mech_Tunneler.tools.left_power_claw.label>
+	<!-- EN: power claw -->
+	<Mech_Tunneler.tools.left_power_claw.labelNoLocation>силовий кіготь</Mech_Tunneler.tools.left_power_claw.labelNoLocation>
   <!-- EN: right power claw -->
   <Mech_Tunneler.tools.right_power_claw.label>правий силовий кіготь</Mech_Tunneler.tools.right_power_claw.label>
+	<!-- EN: power claw -->
+	<Mech_Tunneler.tools.right_power_claw.labelNoLocation>силовий кіготь</Mech_Tunneler.tools.right_power_claw.labelNoLocation>
   
 </LanguageData>

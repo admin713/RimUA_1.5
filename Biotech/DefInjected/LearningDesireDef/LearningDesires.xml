@@ -31,4 +31,8 @@
   <!-- EN: Follow an adult and watch them as they work. This gives experience in skills. -->
   <Workwatching.description>Слідуйте за дорослими та спостерігайте як вони працюють. Це дає досвід певних навичок.</Workwatching.description>
   
+  <!-- EN: reading -->
+  <Reading.label>читання</Reading.label>
+  <!-- EN: Find a book and practice reading. -->
+  <Reading.description>Знаходження книги та практика у читанні.</Reading.description>
 </LanguageData>

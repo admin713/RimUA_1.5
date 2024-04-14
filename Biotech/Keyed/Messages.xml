@@ -160,5 +160,8 @@
 	<MessageFerilizeFailed>{PAWN_nameDef} не зміг запліднити яйцеклітину</MessageFerilizeFailed>
 	<!-- EN: Combined genes exceeded metabolism limits. -->
 	<CombinedGenesExceedMetabolismLimits>Комбіновані гени перетинають межі метаболізму.</CombinedGenesExceedMetabolismLimits>
+
+	<!-- EN: {0} has rotted due to polluted terrain. -->
+	<MessagePlantDiedOfRot_PollutedTerrain>{0} гниє через забруднення території.</MessagePlantDiedOfRot_PollutedTerrain>
 	
 </LanguageData>

@@ -24,6 +24,8 @@
   <GeneticDrugNeed.stages.deficiency.label>дефіцит</GeneticDrugNeed.stages.deficiency.label>
   <!-- EN: deficiency coma -->
   <GeneticDrugNeed.stages.2.overrideLabel>дефіцитна кома</GeneticDrugNeed.stages.2.overrideLabel>
+  <!-- EN: deficiency coma -->
+  <GeneticDrugNeed.stages.3.overrideLabel>дефіцитна кома</GeneticDrugNeed.stages.3.overrideLabel>
   
   <!-- EN: hemogen craving -->
   <HemogenCraving.label>гемогенна тяга</HemogenCraving.label>

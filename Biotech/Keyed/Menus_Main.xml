@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Children -->
+  <DifficultyChildrenSection>Діти</DifficultyChildrenSection>	
   <!-- EN: Babies always healthy -->
   <Difficulty_BabiesAreHealthy_Label>Немовлята завжди здорові</Difficulty_BabiesAreHealthy_Label>
   <!-- EN: Human babies are always born healthy. Mothers can't die in childbirth or have miscarriages. -->

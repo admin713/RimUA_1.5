@@ -16,9 +16,9 @@
   <!-- EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
   <Blackboard.description>Плоска поверхня, схожа на камінь, для писання крейдою. Розміщені біля парти класні дошки підвищують швидкість навчання дітей під час уроків. Одночасно можна використовувати до трьох дошок.</Blackboard.description>
   <!-- EN: When near a desk where a lesson is taking place, this building increases the student's learning rate. This effect can stack up to three times. -->
-  <Blackboard.comps.CompStatEntry.reportText>Якщо перебуває біля парти, на якій проходить урок, ця споруда підвищує швидкість навчання учня. Ефект може накопичуватися до трьох разів.</Blackboard.comps.CompStatEntry.reportText>
+  <!-- <Blackboard.comps.CompStatEntry.reportText>Якщо перебуває біля парти, на якій проходить урок, ця споруда підвищує швидкість навчання учня. Ефект може накопичуватися до трьох разів.</Blackboard.comps.CompStatEntry.reportText> -->
   <!-- EN: Learning rate bonus -->
-  <Blackboard.comps.CompStatEntry.statLabel>Бонус до швидкості навчання</Blackboard.comps.CompStatEntry.statLabel>
+	<Blackboard.comps.CompInspectStringBlackboard.inspectString>Бонус до швидкості навчання</Blackboard.comps.CompInspectStringBlackboard.inspectString>
   
   <!-- EN: crib -->
   <Crib.label>ліжечко</Crib.label>

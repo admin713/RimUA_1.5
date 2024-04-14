@@ -94,7 +94,7 @@
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is incapacitated. -->
   <CantRomanceInitiateMessageDowned>{0_labelShort} не може мати романтичних стосунків, бо {0_pronoun} {0_gender ? недієздатний : недієздатна}.</CantRomanceInitiateMessageDowned>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is drafted. -->
-  <CantRomanceInitiateMessageDrafted>{0_labelShort} не може мати романтичних стосунків, бо {0_pronoun} в режимі мобілізації.</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageDrafted>{0_labelShort} не може мати романтичних стосунків, бо {0_pronoun} в бойовому режимі.</CantRomanceInitiateMessageDrafted>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state. -->
   <CantRomanceInitiateMessageMentalState>{0_labelShort} не може мати романтичних стосунків, бо у {0_gender ? нього : неї} нервовий зрив.</CantRomanceInitiateMessageMentalState>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is unable to speak. -->

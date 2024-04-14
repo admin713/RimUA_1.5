@@ -70,7 +70,7 @@
   <!-- EN: emancipate -->
   <Emancipate>звільнити</Emancipate>
   <!-- EN: remain {0} -->
-  <RemainX>залишилося {0}</RemainX>
+  <RemainX>залишити {replace: {0}; "колоніст"-"колоністом"; "абориген"-"аборигеном"; "раб"-"рабом"}</RemainX>
   <!-- EN: {BABY_nameDef} adopted -->
   <LetterLabelAdopted>{BABY_nameDef} {BABY_gender ? прийнятий : прийнята}</LetterLabelAdopted>
   <!-- EN: {BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}. -->

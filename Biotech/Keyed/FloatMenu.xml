@@ -166,5 +166,10 @@
 
   <!-- EN: attempted romance too recently -->
   <RomanceOnCooldown>Спроба завести роман відбувалася нещодавно</RomanceOnCooldown>
+	
+  <!-- EN: Take to safe location -->
+  <CarryToSafePlace>Перенести до безпечного місця</CarryToSafePlace>
+  <!-- EN: Cannot take to safe location -->
+  <CannotCarryToSafePlace>Неможливо перенести до безпечного місця</CannotCarryToSafePlace>	
 
 </LanguageData>

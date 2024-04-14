@@ -16,18 +16,40 @@
   <!-- EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <NanostructuringChip.description>Компонент механоїда із молекулярною реструктуризацією. Необхідний для виготовлення певних вдосконалених механоїдів та обладнання.\n\nМеханізатор може дослідити цей чип, щоб розблокувати більш просунуті мех-технології.</NanostructuringChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <NanostructuringChip.comps.CompStudiable.completedLetterText>Досліджуючи {PARENT_label}, {STUDIER_labelShort} отримує знання, необхідні для дослідницького проекту "{RESEARCH}".\n\nВаші дослідники тепер можуть використати стіл для досліджень, щоб вивчити цю технологію.</NanostructuringChip.comps.CompStudiable.completedLetterText>
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>Досліджуючи {PARENT_label}, {STUDIER_labelShort} отримує знання, необхідні для дослідницького проекту "{RESEARCH}".\n\nВаші дослідники тепер можуть використати стіл для досліджень, щоб вивчити цю технологію.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
-  <NanostructuringChip.comps.CompStudiable.completedLetterTitle>{PARENT_label} досліджено: {RESEARCH}</NanostructuringChip.comps.CompStudiable.completedLetterTitle>
-  
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>{PARENT_label} досліджено: {RESEARCH}</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+
+	<!-- EN: Analyze the nano structuring chip. -->
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проаналізувати наноструктурний чип</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+	<!-- EN: Analyze... -->
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Аналіз...</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+	<!-- EN: Choose who should analyze this -->
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Оберіть, хто має проаналізувати чип</NanostructuringChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+	<!-- EN: Can be analyzed by a colonist. -->
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>Може бути проаналізований колоністом</NanostructuringChip.comps.CompAnalyzableUnlockResearch.inspectString>
+	<!-- EN: Analyze nano structuring chip -->
+	<NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>Аналіз наноструктурного чипу</NanostructuringChip.comps.CompAnalyzableUnlockResearch.jobString>
+	
   <!-- EN: powerfocus chip -->
   <PowerfocusChip.label>чип концентрації енергії</PowerfocusChip.label>
   <!-- EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <PowerfocusChip.description>Компонент механоїда, що концентрує енергію. Необхідний для виготовлення певних вдосконалених механоїдів та обладнання.\n\nМеханізатор може дослідити цей чип, щоб розблокувати більш просунуті мех-технології.</PowerfocusChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <PowerfocusChip.comps.CompStudiable.completedLetterText>Досліджуючи {PARENT_label}, {STUDIER_labelShort} отримує знання, необхідні для дослідницького проекту "{RESEARCH}".\n\nВаші дослідники тепер можуть використати стіл для досліджень, щоб вивчити цю технологію.</PowerfocusChip.comps.CompStudiable.completedLetterText>
+	<PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>Досліджуючи {PARENT_label}, {STUDIER_labelShort} отримує знання, необхідні для дослідницького проекту "{RESEARCH}".\n\nВаші дослідники тепер можуть використати стіл для досліджень, щоб вивчити цю технологію.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
-  <PowerfocusChip.comps.CompStudiable.completedLetterTitle>{PARENT_label} досліджено: {RESEARCH}</PowerfocusChip.comps.CompStudiable.completedLetterTitle>
+	<PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>{PARENT_label} досліджено: {RESEARCH}</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	
+  <!-- EN: Analyze the powerfocus chip. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проаналізувати чип концентрації енергії</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Аналіз...</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: Choose who should analyze this -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Оберіть, хто має проаналізувати чип</PowerfocusChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>Може бути проаналізований колоністом</PowerfocusChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze powerfocus chip -->
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>Аналіз чипу концентрації енергії</PowerfocusChip.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- EN: tox shell -->
   <Shell_Toxic.label>токсичний снаряд</Shell_Toxic.label>
@@ -45,10 +67,21 @@
   <!-- EN: A mechanoid-band synchronization micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
   <SignalChip.description>Компонент синхронізації механоїдної смуги. Необхідний для виготовлення певних вдосконалених механоїдів та обладнання.\n\nМеханізатор може дослідити цей чип, щоб розблокувати більш просунуті мех-технології.</SignalChip.description>
   <!-- EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <SignalChip.comps.CompStudiable.completedLetterText>Досліджуючи {PARENT_label}, {STUDIER_labelShort} отримує знання, необхідні для дослідницького проекту "{RESEARCH}".\n\nВаші дослідники тепер можуть використати стіл для досліджень, щоб вивчити цю технологію.</SignalChip.comps.CompStudiable.completedLetterText>
+	<SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>Досліджуючи {PARENT_label}, {STUDIER_labelShort} отримує знання, необхідні для дослідницького проекту "{RESEARCH}".\n\nВаші дослідники тепер можуть використати стіл для досліджень, щоб вивчити цю технологію.</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
-  <SignalChip.comps.CompStudiable.completedLetterTitle>{PARENT_label} досліджено: {RESEARCH}</SignalChip.comps.CompStudiable.completedLetterTitle>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>{PARENT_label} досліджено: {RESEARCH}</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   
+  <!-- EN: Analyze the signal chip. -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>Проаналізувати сигнальний чип</SignalChip.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Аналіз...</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: Choose who should analyze this -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>Оберіть, хто має проаналізувати чип</SignalChip.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>Може бути проаналізований колоністом</SignalChip.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze signal chip -->
+  <SignalChip.comps.CompAnalyzableUnlockResearch.jobString>Аналіз сигнального чипу</SignalChip.comps.CompAnalyzableUnlockResearch.jobString>
+	
   <!-- EN: basic subcore -->
   <SubcoreBasic.label>базове суб'ядро</SubcoreBasic.label>
   <!-- EN: The simplest possible mechanoid brain, this is a tiny psychodynamic substrate unit housing a dull subpersona. Since this is only a basic-tier subcore, it can only drive the simplest of mechanoids.\n\nLike all mechanoid subcores, it contains a subpersona with a psychic presence, albeit a very faint one. -->

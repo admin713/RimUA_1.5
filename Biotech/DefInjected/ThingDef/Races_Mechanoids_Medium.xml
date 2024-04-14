@@ -14,8 +14,12 @@
   <Mech_Legionary.description>Механоїд бойової підтримки з кулезахисним щитом широкого радіусу дії та далекобійною голковою гвинтівкою. Створений для підтримки інших механоїдів на великій відстані, легіонер вразливий для будь-кого, хто зможе проникнути всередину його щита.</Mech_Legionary.description>
   <!-- EN: left fist -->
   <Mech_Legionary.tools.left_fist.label>лівий кулак</Mech_Legionary.tools.left_fist.label>
+	<!-- EN: fist -->
+	<Mech_Legionary.tools.left_fist.labelNoLocation>кулак</Mech_Legionary.tools.left_fist.labelNoLocation>
   <!-- EN: right fist -->
   <Mech_Legionary.tools.right_fist.label>правий кулак</Mech_Legionary.tools.right_fist.label>
+	<!-- EN: fist -->
+	<Mech_Legionary.tools.right_fist.labelNoLocation>кулак</Mech_Legionary.tools.right_fist.labelNoLocation>
   <!-- EN: head -->
   <Mech_Legionary.tools.head.label>голова</Mech_Legionary.tools.head.label>
   
@@ -25,8 +29,12 @@
   <Mech_Scorcher.description>Бойовий механоїд малих дистанцій, який спеціалізується на запальних атаках. Його атака має невеликий радіус дії, але як тільки він наближається до групи захисників, він може підпалити та зруйнувати їх вибухами палючого полум'я.</Mech_Scorcher.description>
   <!-- EN: front left leg -->
   <Mech_Scorcher.tools.front_left_leg.label>передня ліва нога</Mech_Scorcher.tools.front_left_leg.label>
+	<!-- EN: leg -->
+	<Mech_Scorcher.tools.front_left_leg.labelNoLocation>нога</Mech_Scorcher.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
   <Mech_Scorcher.tools.front_right_leg.label>передня права нога</Mech_Scorcher.tools.front_right_leg.label>
+	<!-- EN: leg -->
+	<Mech_Scorcher.tools.front_right_leg.labelNoLocation>нога</Mech_Scorcher.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
   <Mech_Scorcher.tools.head.label>голова</Mech_Scorcher.tools.head.label>
   
@@ -36,8 +44,12 @@
   <Mech_Tesseron.description>Бойовий механоїд середніх дистанцій. Хоча він досить вразливий до атак, його атака за допомогою розмашистого променя настільки смертоносна, що небагато супротивників встигають вистрілити в нього.</Mech_Tesseron.description>
   <!-- EN: left fist -->
   <Mech_Tesseron.tools.left_fist.label>лівий кулак</Mech_Tesseron.tools.left_fist.label>
+	<!-- EN: fist -->
+	<Mech_Tesseron.tools.left_fist.labelNoLocation>кулак</Mech_Tesseron.tools.left_fist.labelNoLocation>
   <!-- EN: right fist -->
   <Mech_Tesseron.tools.right_fist.label>правий кулак</Mech_Tesseron.tools.right_fist.label>
+	<!-- EN: fist -->
+	<Mech_Tesseron.tools.right_fist.labelNoLocation>кулак</Mech_Tesseron.tools.right_fist.labelNoLocation>
   <!-- EN: head -->
   <Mech_Tesseron.tools.head.label>голова</Mech_Tesseron.tools.head.label>
   
