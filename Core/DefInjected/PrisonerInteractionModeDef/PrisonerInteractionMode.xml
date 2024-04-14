@@ -10,13 +10,8 @@
   <Execution.label>стратити</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
   <Execution.description>Наглядач страчує в'язня, перерізавши йому горло. Це може вплинути на настрій інших в'язнів та колоністів.</Execution.description>
-  
-  <!-- EN: maintain only -->
-  <MaintainOnly.label>тільки годувати</MaintainOnly.label>
-  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
-  <MaintainOnly.description>Просто нагодуйте ув'язненого і забезпечте його базові потреби, не намагаючись вступати в будь-яку іншу взаємодію.</MaintainOnly.description>
-  
-  <!-- EN: reduce resistance only -->
+    
+  <!-- EN: reduce resistance -->
   <ReduceResistance.label>послаблювати опір</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
   <ReduceResistance.description>Якщо рівень опору бранця надто високий, наглядачі будуть знижувати його за допомогою розмов. При цьому вони не намагатимуться його завербувати.</ReduceResistance.description>
@@ -25,5 +20,10 @@
   <Release.label>звільнити</Release.label>
   <!-- EN: A warden will release the prisoner. -->
   <Release.description>Наглядач звільнить в'язня.</Release.description>
+
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>основні потреби</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>Лише годування та основні потреби, без інших взаємодій.</MaintainOnly.description>
   
 </LanguageData>

@@ -79,5 +79,12 @@
   <SmeltWeapon.description>Вилучити корисні ресурси зі зброї за допомогою високої температури та потужних електромагнітів.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
   <SmeltWeapon.jobString>Переплавляє зброю.</SmeltWeapon.jobString>
+	
+  <!-- EN: smelt or destroy thing -->
+  <SmeltOrDestroyThing.label>переплавити або знищити предмет</SmeltOrDestroyThing.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
+  <SmeltOrDestroyThing.description>Вилучити корисні ресурси зі зброї чи броні, або знищити неплавкий предмет за допомогою високої температури та потужних електромагнітів.</SmeltOrDestroyThing.description>
+  <!-- EN: Smelting/destroying things. -->
+  <SmeltOrDestroyThing.jobString>Переплавляє/знищує предмети.</SmeltOrDestroyThing.jobString>
   
 </LanguageData>

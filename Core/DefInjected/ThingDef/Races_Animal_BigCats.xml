@@ -7,8 +7,12 @@
   <Cougar.description>Одні з найнебезпечніших великих кішок, пуми - поодинокі мисливці з довгими гострими зубами та кігтями. Вони непомітно підбираються до здобичі, щоб потім кинутись одним стрибком.\n\nХоча люди не входять до їхньої звичайної дієти, вони не відмовляться поласувати м'ясом беззахисної людини.</Cougar.description>
   <!-- EN: left claw -->
   <Cougar.tools.left_claw.label>ліва лапа</Cougar.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Cougar.tools.left_claw.labelNoLocation>лапа</Cougar.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Cougar.tools.right_claw.label>права лапа</Cougar.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Cougar.tools.right_claw.labelNoLocation>лапа</Cougar.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Cougar.tools.head.label>голова</Cougar.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Lynx.description>Дика кішка. Більша за домашнього кота, але менша за пуму. Рисі харчуються дрібними птахами та тваринами. Тепле хутро забезпечує рисям захист навіть від дуже низьких температур їх північних середовищ існування.</Lynx.description>
   <!-- EN: left claw -->
   <Lynx.tools.left_claw.label>ліва лапа</Lynx.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Lynx.tools.left_claw.labelNoLocation>лапа</Lynx.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Lynx.tools.right_claw.label>права лапа</Lynx.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Lynx.tools.right_claw.labelNoLocation>лапа</Lynx.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Lynx.tools.head.label>голова</Lynx.tools.head.label>
   
@@ -29,8 +37,12 @@
   <Panther.description>Спритний і потужний великий кіт, родом із джунглів старої Землі. Будучи хижаками-одинаками, пантери майстерно вловлюють як велику, так і дрібну здобич. Спостерігачі, як правило, зосереджуються на їхніх витончених лапах, тоді як ті, хто контактує ближче, зазвичай помічають їх силу, що розтрощує череп.</Panther.description>
   <!-- EN: left claw -->
   <Panther.tools.left_claw.label>ліва лапа</Panther.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Panther.tools.left_claw.labelNoLocation>лапа</Panther.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Panther.tools.right_claw.label>права лапа</Panther.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Panther.tools.right_claw.labelNoLocation>лапа</Panther.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Panther.tools.head.label>голова</Panther.tools.head.label>
   

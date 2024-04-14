@@ -70,5 +70,12 @@
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
   <StuffEffectMultiplierInsulation_Heat.label>Ізоляція: Спека (множник від матеріалу)</StuffEffectMultiplierInsulation_Heat.label>
+
+	<!-- EN: Effect radius -->
+	<PackRadius.label>Радіус дії</PackRadius.label>
+	<!-- EN: The area affected when this pack detonates. -->
+	<PackRadius.description>Область ураження при детонації.</PackRadius.description>
+	<!-- EN: {0} c -->
+	<PackRadius.formatString>{0} кл.</PackRadius.formatString>
   
 </LanguageData>

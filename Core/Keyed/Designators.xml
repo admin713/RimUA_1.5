@@ -52,11 +52,24 @@
   <DesignatorMine>Видобути</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
   <DesignatorMineDesc>Позначити ділянки породи для видобування.</DesignatorMineDesc>
+	
+	<!-- EN: Mine vein -->
+	<DesignatorMineVein>Видобути жилу</DesignatorMineVein>
+	<!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
+	<DesignatorMineVeinDesc>Позначити усю пов'язану між собою породу одного типу для видобування.</DesignatorMineVeinDesc>
 
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>Відполірувати поверхню</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>Позначити кам'яне покриття чи стіни для полірування.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Позначити кам'яне покриття та стіни для полірування.</DesignatorSmoothSurfaceDesc>
+	<!-- EN: Smooth walls -->
+	<DesignatorSmoothWalls>Полірувати стіну</DesignatorSmoothWalls>
+	<!-- EN: Designate rough stone walls to be smoothed. -->
+	<DesignatorSmoothWallsDesc>Позначити кам'яну стіну для полірування.</DesignatorSmoothWallsDesc>
+	<!-- EN: Smooth terrain -->
+	<DesignatorSmoothFloors>Полірувати покриття</DesignatorSmoothFloors>
+	<!-- EN: Designate rough stone terrain to be smoothed. -->
+	<DesignatorSmoothFloorsDesc>Позначити кам'яне покриття для полірування.</DesignatorSmoothFloorsDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Планування</DesignatorPlan>

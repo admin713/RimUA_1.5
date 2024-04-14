@@ -509,5 +509,36 @@
     <li>desc_sentence->Над {PAWN_gender ? ним : нею} піднімається клубок диму</li>
     <li>desc_sentence->[PAWN_nameDef] художньо {PAWN_gender ? відтворений : відтворена} у вигляді трупа</li>
   </WasOnFire.rulePack.rulesStrings>
-  
+
+	<!-- EN: read a book -->
+	<ReadBook.label>читання книги</ReadBook.label>
+	<!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing [THING_title]</li>
+    <li>image->[PAWN_nameFull] closing [THING_title] for the last time, a satisfied smile gracing [PAWN_possessive] face [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] turning the pages of [THING_title], absorbing the knowledge within [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] placing [THING_title] back on the shelf, a sense of accomplishment radiating from [PAWN_objective] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting in quiet contemplation, reflecting on the profound truths within [THING_title] [circumstance_group]</li>
+    <li>circumstance_phrase->while relaxing in [PAWN_possessive] favorite reading nook</li>
+    <li>circumstance_phrase->with a cup of tea by [PAWN_possessive] side</li>
+    <li>circumstance_phrase->under the soft glow of a reading lamp</li>
+    <li>desc_sentence->[PAWN_nameDef] is surrounded by [PAWN_possessive] notes on [THING_title].</li>
+    <li>desc_sentence->[PAWN_nameDef]'s eyes sparkle with newfound wisdom.</li>
+    <li>desc_sentence->[PAWN_nameDef] is forever changed by the teachings of [THING_title].</li>
+    <li>desc_sentence->There is a sense that some secrets are yet to be uncovered.</li>
+  -->
+	<ReadBook.rulePack.rulesStrings>
+		<li>tale_noun->[PAWN_nameDef] закінчує читати [THING_title]</li>
+		<li>image->, як [PAWN_nameFull] із задоволеною посмішкою закриває [THING_title] в останній раз[circumstance_phrase]</li>
+		<li>image->, як [PAWN_nameFull] гортає сторінки [THING_title], поглинаючи знання[circumstance_phrase]</li>
+		<li>image->, як [PAWN_nameFull] ставить [THING_title] назад на полицю, [PAWN_possessive] охоплює відчуття завершеності[circumstance_phrase]</li>
+		<li>image->, як [PAWN_nameFull] сидить у тихих роздумах, розмірковуючи про глибокі істини, написані в [THING_title][circumstance_phrase]</li>
+		<li>circumstance_phrase->, відпочиваючи в улюбленому куточку для читання</li>
+		<li>circumstance_phrase->. Збоку від {PAWN_gender ?нього : неї} стоїть чашка чаю</li>
+		<li>circumstance_phrase->, м'яке світло лампи для читання освічує [PAWN_possessive] обличчя</li>
+		<li>desc_sentence->[PAWN_nameDef] знаходиться в оточенні своїх нотаток з [THING_title]</li>
+		<li>desc_sentence->Очі [PAWN_nameDef] сяють від отриманої мудрості</li>
+		<li>desc_sentence->Отриманий досвід назавжди змінює [PAWN_possessive]</li>
+		<li>desc_sentence->Є відчуття, що деякі з таємниць ще не розкриті</li>
+	</ReadBook.rulePack.rulesStrings>
+
 </LanguageData>

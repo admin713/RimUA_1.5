@@ -7,8 +7,12 @@
   <Alpaca.description>Копитна тварина середнього розміру, близька до лами. Альпака зазвичай розводяться через її надзвичайно м’яку та теплоізоляційну вовну. Альпаки застосовуються як в'ючні тварини з тих часів, як на них возили вантажі по небезпечних гірських стежках стародавньої Південної Америки.</Alpaca.description>
   <!-- EN: left hoof -->
   <Alpaca.tools.left_hoof.label>ліве копито</Alpaca.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Alpaca.tools.left_hoof.labelNoLocation>копито</Alpaca.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Alpaca.tools.right_hoof.label>праве копито</Alpaca.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Alpaca.tools.right_hoof.labelNoLocation>копито</Alpaca.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Alpaca.tools.head.label>голова</Alpaca.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Capybara.description>Найбільший природний гризун. Капібара, добре пристосований для життя в джунглях.</Capybara.description>
   <!-- EN: left claw -->
   <Capybara.tools.left_claw.label>ліва лапа</Capybara.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Capybara.tools.left_claw.labelNoLocation>лапа</Capybara.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Capybara.tools.right_claw.label>права лапа</Capybara.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Capybara.tools.right_claw.labelNoLocation>лапа</Capybara.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Capybara.tools.head.label>голова</Capybara.tools.head.label>
   
@@ -29,8 +37,12 @@
   <Megasloth.description>Гігантська самотня травоїдна тварина з двома гігантськими кігтями для захисту від загроз. Мегалінивці були давно винищені на Землі аборигенами Америки, але за допомогою розвинених технологій клонування та штучного виношування, вченим згодом вдалося повернути цей вид до життя. Їхня шкура надзвичайно міцна, а хутро чудово захищає від холоду. Лінивці дуже миролюбні, якщо їх не чіпати, проте можуть легко розірвати кривдників своїми величезними пазурами.</Megasloth.description>
   <!-- EN: left claw -->
   <Megasloth.tools.left_claw.label>ліва лапа</Megasloth.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Megasloth.tools.left_claw.labelNoLocation>лапа</Megasloth.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Megasloth.tools.right_claw.label>права лапа</Megasloth.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Megasloth.tools.right_claw.labelNoLocation>лапа</Megasloth.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Megasloth.tools.head.label>голова</Megasloth.tools.head.label>
   
@@ -42,7 +54,11 @@
   <Sheep.tools.head.label>голова</Sheep.tools.head.label>
   <!-- EN: left hoof -->
   <Sheep.tools.left_hoof.label>ліве копито</Sheep.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Sheep.tools.left_hoof.labelNoLocation>копито</Sheep.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Sheep.tools.right_hoof.label>праве копито</Sheep.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Sheep.tools.right_hoof.labelNoLocation>копито</Sheep.tools.right_hoof.labelNoLocation>
   
 </LanguageData>

@@ -36,5 +36,14 @@
   <StageThenAttack.letterLabelEnemy>Рейд</StageThenAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
   <StageThenAttack.letterLabelFriendly>Допомога союзників</StageThenAttack.letterLabelFriendly>
+	
+  <!-- EN: They are attacking immediately. -->
+  <EmergeFromWater.arrivalTextEnemy>Ворог атакує негайно.</EmergeFromWater.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <EmergeFromWater.arrivalTextFriendly>Вони поспішають допомогти вам.</EmergeFromWater.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <EmergeFromWater.letterLabelEnemy>Рейд</EmergeFromWater.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <EmergeFromWater.letterLabelFriendly>Союзники</EmergeFromWater.letterLabelFriendly>	
   
 </LanguageData>

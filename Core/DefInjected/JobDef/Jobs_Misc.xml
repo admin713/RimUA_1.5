@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- need test -->
-  
-  <!-- EN: activating TargetA. -->
-  <!-- <ActivateThing.reportString>активує {lookup: {TargetA}; Case; 3}</ActivateThing.reportString> -->
-  
+    
   <!-- EN: applying TargetB. -->
   <ApplyTechprint.reportString>застосовує {lookup: {TargetB}; Case; 3}</ApplyTechprint.reportString>
   
@@ -238,5 +235,32 @@
   
   <!-- EN: wearing TargetA. -->
   <Wear.reportString>одягає {lookup: {TargetA}; Case; 3}</Wear.reportString>
-  
+	
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>випроводжає торговця.</DismissTrader.reportString>
+	
+  <!-- EN: entering TargetA. -->
+  <EnterPortal.reportString>входить до {lookup: {TargetA}; Case; 2}</EnterPortal.reportString>
+	
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>гасить вогонь неподалік.</ExtinguishFiresNearby.reportString>
+
+  <!-- EN: hauling TargetA. -->
+  <HaulToPortal.reportString>носить {lookup: {TargetA}; Case; 3}</HaulToPortal.reportString>
+
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>активує {lookup: {TargetA}; Case; 3}</InteractThing.reportString>
+
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>читає {lookup: {TargetA}; Case; 3}</Reading.reportString>
+
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>розпочинає.</StandAndStare.reportString>
+
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>щось робить.</UseVerbOnThingStaticReserve.reportString>
+
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>спить.</Wait_AsleepDormancy.reportString>
+	
 </LanguageData>

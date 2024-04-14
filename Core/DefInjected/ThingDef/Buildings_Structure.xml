@@ -35,5 +35,11 @@
   <Wall.label>стіна</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
   <Wall.description>Непрохідна стіна. Може підтримувати дах.</Wall.description>
+	
+	
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>декоративні двері</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>Двері з вигадливим різьбленням, оздоблені золотом. Для роботи цих великих важких дверей потрібні суміжні стіни.</OrnateDoor.description>
   
 </LanguageData>

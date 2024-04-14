@@ -9,8 +9,12 @@
   <Bison.tools.head.label>голова</Bison.tools.head.label>
   <!-- EN: left hoof -->
   <Bison.tools.left_hoof.label>ліве копито</Bison.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Bison.tools.left_hoof.labelNoLocation>копито</Bison.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Bison.tools.right_hoof.label>праве копито</Bison.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Bison.tools.right_hoof.labelNoLocation>копито</Bison.tools.right_hoof.labelNoLocation>
   
   <!-- EN: boomalope -->
   <Boomalope.label>бумалопа</Boomalope.label>
@@ -20,8 +24,12 @@
   <Boomalope.tools.head.label>голова</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
   <Boomalope.tools.left_hoof.label>ліве копито</Boomalope.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Boomalope.tools.left_hoof.labelNoLocation>копито</Boomalope.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Boomalope.tools.right_hoof.label>праве копито</Boomalope.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Boomalope.tools.right_hoof.labelNoLocation>копито</Boomalope.tools.right_hoof.labelNoLocation>
   
   <!-- EN: caribou -->
   <Caribou.label>північний олень</Caribou.label>
@@ -29,8 +37,12 @@
   <Caribou.description>Великий представник сімейства оленевих, добре пристосований до життя у холодному кліматі. Північні олені можуть давати молоко, але відмовляються переносити вантажі.</Caribou.description>
   <!-- EN: left hoof -->
   <Caribou.tools.left_hoof.label>ліве копито</Caribou.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Caribou.tools.left_hoof.labelNoLocation>копито</Caribou.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Caribou.tools.right_hoof.label>праве копито</Caribou.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Caribou.tools.right_hoof.labelNoLocation>копито</Caribou.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Caribou.tools.head.label>голова</Caribou.tools.head.label>
   
@@ -44,8 +56,12 @@
   <Cow.tools.head.label>голова</Cow.tools.head.label>
   <!-- EN: left hoof -->
   <Cow.tools.left_hoof.label>ліве копито</Cow.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Cow.tools.left_hoof.labelNoLocation>копито</Cow.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Cow.tools.right_hoof.label>праве копито</Cow.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Cow.tools.right_hoof.labelNoLocation>копито</Cow.tools.right_hoof.labelNoLocation>
   
   <!-- EN: donkey -->
   <Donkey.label>віслюк</Donkey.label>
@@ -55,8 +71,12 @@
   <Donkey.tools.head.label>голова</Donkey.tools.head.label>
   <!-- EN: left hoof -->
   <Donkey.tools.left_hoof.label>ліве копито</Donkey.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Donkey.tools.left_hoof.labelNoLocation>копито</Donkey.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Donkey.tools.right_hoof.label>праве копито</Donkey.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Donkey.tools.right_hoof.labelNoLocation>копито</Donkey.tools.right_hoof.labelNoLocation>
   
   <!-- EN: dromedary -->
   <Dromedary.label>верблюд</Dromedary.label>
@@ -64,8 +84,12 @@
   <Dromedary.description>Одомашнені з давніх часів великий наземний ссавець, пристосований до посушливих умов. Його шерсть і шкіра чудово захищають від спеки пустелі, а молоко є досить поживним. Його можна використовувати як в’ючну тварину та верхи, але його підстрибуюча хода робить його повільнішим, ніж коня.\n\nЗавдяки накопиченню води у своїх великих горбах і відновленню вологи з дихання під час видиху, він може обходитися тижнями без води.\n\nПід час подоржі караваном, люди можуть їздити верхи на верблюдах, щоб збільшити швидкість пересування.</Dromedary.description>
   <!-- EN: left hoof -->
   <Dromedary.tools.left_hoof.label>ліве копито</Dromedary.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Dromedary.tools.left_hoof.labelNoLocation>копито</Dromedary.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Dromedary.tools.right_hoof.label>праве копито</Dromedary.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Dromedary.tools.right_hoof.labelNoLocation>копито</Dromedary.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Dromedary.tools.head.label>голова</Dromedary.tools.head.label>
   
@@ -77,8 +101,12 @@
   <Elephant.tools.tusk.label>бивень</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
   <Elephant.tools.left_foot.label>ліва ступня</Elephant.tools.left_foot.label>
+	<!-- EN: foot -->
+	<Elephant.tools.left_foot.labelNoLocation>ступня</Elephant.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
   <Elephant.tools.right_foot.label>права ступня</Elephant.tools.right_foot.label>
+	<!-- EN: foot -->
+	<Elephant.tools.right_foot.labelNoLocation>ступня</Elephant.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
   <Elephant.tools.head.label>голова</Elephant.tools.head.label>
   
@@ -88,8 +116,12 @@
   <Elk.description>Великий представник сімейства оленевих, добре пристосований до життя у холодному кліматі. Лосі можуть давати молоко, але відмовляються переносити вантажі.</Elk.description>
   <!-- EN: left hoof -->
   <Elk.tools.left_hoof.label>ліве копито</Elk.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Elk.tools.left_hoof.labelNoLocation>копито</Elk.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Elk.tools.right_hoof.label>праве копито</Elk.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Elk.tools.right_hoof.labelNoLocation>копито</Elk.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Elk.tools.head.label>голова</Elk.tools.head.label>
   
@@ -110,8 +142,12 @@
   <Horse.tools.head.label>голова</Horse.tools.head.label>
   <!-- EN: left hoof -->
   <Horse.tools.left_hoof.label>ліве копито</Horse.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Horse.tools.left_hoof.labelNoLocation>копито</Horse.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Horse.tools.right_hoof.label>праве копито</Horse.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Horse.tools.right_hoof.labelNoLocation>копито</Horse.tools.right_hoof.labelNoLocation>
   
   <!-- EN: muffalo -->
   <Muffalo.label>муффало</Muffalo.label>
@@ -121,8 +157,12 @@
   <Muffalo.tools.head.label>голова</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
   <Muffalo.tools.left_hoof.label>ліве копито</Muffalo.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Muffalo.tools.left_hoof.labelNoLocation>копито</Muffalo.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Muffalo.tools.right_hoof.label>праве копито</Muffalo.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Muffalo.tools.right_hoof.labelNoLocation>копито</Muffalo.tools.right_hoof.labelNoLocation>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>носоріг</Rhinoceros.label>
@@ -145,7 +185,11 @@
   <Yak.tools.head.label>голова</Yak.tools.head.label>
   <!-- EN: left hoof -->
   <Yak.tools.left_hoof.label>ліве копито</Yak.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Yak.tools.left_hoof.labelNoLocation>копито</Yak.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Yak.tools.right_hoof.label>праве копито</Yak.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Yak.tools.right_hoof.labelNoLocation>копито</Yak.tools.right_hoof.labelNoLocation>
   
 </LanguageData>

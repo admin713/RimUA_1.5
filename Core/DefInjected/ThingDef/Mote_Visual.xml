@@ -66,5 +66,12 @@
   
   <!-- EN: Mote -->
   <Mote_VomitBit.label>частинка</Mote_VomitBit.label>
-  
+
+
+  <!-- EN: Mote -->
+  <Mote_ForcedVisible.label>частинка</Mote_ForcedVisible.label>
+
+  <!-- EN: Mote -->
+  <GroundCrackHuge.label>частинка</GroundCrackHuge.label>
+	
 </LanguageData>

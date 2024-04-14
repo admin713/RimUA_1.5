@@ -32,9 +32,9 @@
   <TimeDowned.description>Час, проведений в нерухомому стані.</TimeDowned.description>
   
   <!-- EN: time drafted -->
-  <TimeDrafted.label>в режимі мобілізації</TimeDrafted.label>
+  <TimeDrafted.label>в бойовому режимі</TimeDrafted.label>
   <!-- EN: Total time spent drafted. -->
-  <TimeDrafted.description>Час, проведений в режимі мобілізації.</TimeDrafted.description>
+  <TimeDrafted.description>Час, проведений в бойовому режимі.</TimeDrafted.description>
   
   <!-- EN: time firefighting -->
   <TimeFirefighting.label>за пожежогасінням</TimeFirefighting.label>

@@ -225,5 +225,11 @@
   <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>{PAWN_gender ? Побачив : Побачила} смерть людини</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
   <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
   <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Я {PAWN_gender ? побачив : побачила}, як хтось помер. Ще секунду назад він був живий, а тепер - ні.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
-  
+
+
+	<!-- EN: used flame weapon -->
+	<PyroUsed.stages.used_flame_weapon.label>{PAWN_gender ? Використав : Використала} вогняну зброю</PyroUsed.stages.used_flame_weapon.label>
+	<!-- EN: The searing heat will make my foes beautiful! -->
+	<PyroUsed.stages.used_flame_weapon.description>Палюче вогнище зробить моїх ворогів прекрасними!</PyroUsed.stages.used_flame_weapon.description>
+		
 </LanguageData>

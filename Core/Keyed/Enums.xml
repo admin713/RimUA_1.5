@@ -221,7 +221,7 @@
   <!-- EN: Show player mech names -->
   <ShowMechNames>Назви механоїдів гравця</ShowMechNames>
   <!-- EN: While drafted -->
-  <MechNameDisplayMode_WhileDrafted>Коли мобілізовані</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_WhileDrafted>В бойовому режимі</MechNameDisplayMode_WhileDrafted>
   <!-- EN: always -->
   <MechNameDisplayMode_Always>завжди</MechNameDisplayMode_Always>
 
@@ -233,7 +233,7 @@
   <!-- EN: always -->
   <ShowWeapons_Always>завжди</ShowWeapons_Always>
   <!-- EN: while drafted -->
-  <ShowWeapons_WhileDrafted>коли мобілізовані</ShowWeapons_WhileDrafted>
+  <ShowWeapons_WhileDrafted>в бойовому режимі</ShowWeapons_WhileDrafted>
 
   <!-- Temperature -->
   <!-- EN: Celsius -->
@@ -350,5 +350,29 @@
   <DrugCategory_Hard>важкий наркотик</DrugCategory_Hard>
   <!-- EN: any -->
   <DrugCategory_Any>будь-яка</DrugCategory_Any>
+
+	<!-- 1.5 -->
+	
+	  <!-- Highlight display mode -->
+  <!-- EN: Character highlighting -->
+  <DotHighlightDisplayMode>Підсвічування персонажів</DotHighlightDisplayMode>
+  <!-- EN: Highlight hostiles -->
+  <DotHighlightDisplayMode_HighlightHostiles>Підсвітити ворогів</DotHighlightDisplayMode_HighlightHostiles>
+  <!-- EN: Highlight all -->
+  <DotHighlightDisplayMode_HighlightAll>Підсвітити всіх</DotHighlightDisplayMode_HighlightAll> 
+  
+  <!-- Highlight style -->
+  <!-- EN: Highlight mode -->
+  <HighlightStyleMode>Підсвічування</HighlightStyleMode>
+  <!-- EN: Dots -->
+  <HighlightStyleMode_Dots>Крапки</HighlightStyleMode_Dots>
+  <!-- EN: Silhouettes -->
+  <HighlightStyleMode_Silhouettes>Силуети</HighlightStyleMode_Silhouettes> 
+
+  <!-- Mood gradient display strength-->
+  <!-- EN: Visible mood -->
+  <VisibleMood>Видимий настрій</VisibleMood>
+  <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
+  <VisibleMoodDesc>Коли ввімкнено, на портреті персонажа відображається візуальний індикатор, який попереджає про можливий нервовий зрив.</VisibleMoodDesc>
   
 </LanguageData>

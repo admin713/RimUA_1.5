@@ -66,4 +66,10 @@
   <!-- EN: a death acidifier -->
   <DeathAcidifier.labelNoun>посмертний розчинник</DeathAcidifier.labelNoun>
   
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>біонічна щелепа</BionicJaw.label>
+  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>Встановлена біонічна щелепа. Виготовлена з біосинтетичної кістки, із пластмасовими замінниками зубів і набором мікросерводвигунів для повного діапазону рухів.</BionicJaw.description>
+  <!-- EN: a bionic jaw -->
+  <BionicJaw.labelNoun>біонічна щелепа</BionicJaw.labelNoun>
 </LanguageData>

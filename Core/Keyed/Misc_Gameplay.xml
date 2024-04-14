@@ -745,7 +745,7 @@
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>нездатний до насильства</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} не {1_gender ? мобілізований : мобілізована}.</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} не в бойовому режимі.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
   <ApparelPreventsShooting>{PAWN_nameDef} не може використовувати далекобійну зброю, доки носить {APPAREL_label}.</ApparelPreventsShooting>
 
@@ -973,7 +973,7 @@
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>Оберіть, як ця особа реагуватиме на ворогів поблизу, коли не мобілізована.</HostilityReponseTip>
+  <HostilityReponseTip>Оберіть, як ця особа реагуватиме на ворогів поблизу, коли не в бойовому режимі.</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>Поточний режим</HostilityResponseCurrentMode>
 
@@ -1767,7 +1767,7 @@
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
-  <AbilityDisabledUndrafted>працює лише в режимі мобілізації.</AbilityDisabledUndrafted>
+  <AbilityDisabledUndrafted>працює лише в бойовому режимі.</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
   <AbilityOnCooldown>здатність у процесі відновлення. Її можна буде застосувати через {0}.</AbilityOnCooldown>
   <!-- EN: ability already queued. -->
@@ -1824,5 +1824,240 @@
 
 	<!--No settlement to return to. Form a settlement first.-->
 	<ShipNoSettlementToReturnTo>Нема куди повертатися. Спочатку створіть поселення.</ShipNoSettlementToReturnTo>
+
+	<!-- 1.5 -->
+	
+  <!-- EN: Current project -->
+  <CurrentProject>Поточні проекти</CurrentProject>
+  <!-- EN: Research progress -->
+  <ResearchProgress>Прогрес досліджень</ResearchProgress>
+  <!-- EN: Already has {0} -->
+  <AlreadyHasHediff>Зараз є {0}</AlreadyHasHediff>
+	
+ <!-- EN: Stunned by EMP -->
+  <StunnedByEMP>Приголомшення від ЕМІ</StunnedByEMP>
+  <!-- EN: activated. -->
+  <Activated>активовано.</Activated> 
+  <!-- EN: Hostiles -->
+  <Hostiles>Вороги</Hostiles>
+  <!-- EN: Investigate -->
+  <Investigate>Дослідити</Investigate> 
+  <!-- EN: Activate -->
+  <Activate>Активувати</Activate> 
+  <!-- EN: Activation -->
+  <Activation>Активація</Activation> 
+  <!-- EN: Must be imprisoned. -->
+  <RequiresImprisonment>Має бути в'язнем.</RequiresImprisonment> 
+  <!-- EN: Prioritize hauling contents -->
+  <HaulFromSource>Пріоритети для транспортування вмісту</HaulFromSource>
+  <!-- EN: Use -->
+  <UseGizmo>Використати</UseGizmo>
+  <!-- EN: Order someone to use the {0}. -->
+  <UseGizmoTooltip>Наказати комусь використати {lookup: {0}; Case; 3}</UseGizmoTooltip>
+  <!-- EN: Choose who should use this -->
+  <UseGizmoMouse>Хто має використати</UseGizmoMouse>
+  <!-- EN: Select target -->
+  <TargetGizmoMouse>Оберіть ціль</TargetGizmoMouse>
+  <!-- EN: Cannot use this -->
+  <CannotUseGizmoMouse>Неможливо використати</CannotUseGizmoMouse>
+	
+  <!-- EN: Expand -->
+  <ExpandArea>Розширити</ExpandArea>
+  <!-- EN: Shrink -->
+  <ShrinkArea>Зменшити</ShrinkArea>
+  <!-- EN: Maximum {0} areas allowed. -->
+  <MaxAreasReached>Максимум зон: {0}.</MaxAreasReached>
+	
+  <!-- EN: Must be connected to walls on both sides to function. -->
+  <DoorMustBeEnclosedByWalls>Має бути приєднаний до стін з обох сторін для функціонування.</DoorMustBeEnclosedByWalls>
+	
+  <!-- EN: Cannot use in {0} -->
+  <CannotUseReason_PocketMap>Неможливо використати в {0}</CannotUseReason_PocketMap>	
+	
+  <!-- EN: downed, cannot crawl. -->
+  <DownedCannotCrawl>знерухомлено, не може повзти</DownedCannotCrawl> 
+  <!-- EN: downed, unconscious. -->
+  <DownedUnconscious>знерухомлено, без свідомості</DownedUnconscious>
+	
+  <!-- Storage Groups -->
+  <!-- EN: Group -->
+  <StorageGroup>Групи</StorageGroup>
+  <!-- EN: Name -->
+  <StorageLabel>Назва</StorageLabel>
+  <!-- EN: Storage group -->
+  <StorageGroupLabel>Група</StorageGroupLabel>
+	
+  <!-- Hotkeys -->
+  <!-- EN: Hotkey -->
+  <HotKeyTip>Клавіша</HotKeyTip>
+	
+  <MustPlaceOnWall>Необхідно розмістити на стіні.</MustPlaceOnWall>
+  <!-- EN: Something is already placed on this wall. -->
+  <SomethingPlacedOnThisWall>На стіні вже щось є.</SomethingPlacedOnThisWall>
+  <!-- EN: This building can not support attachments. -->
+  <CannotSupportAttachment>Неможливо розмістити на цій споруді.</CannotSupportAttachment>	
+	
+  <!-- Game over -->
+  <!-- EN: Game Over -->
+  <GameOver>Це кінець</GameOver>		
+	
+  <!-- EN: Keep watching -->
+  <GameOverKeepWatching>Продовжити спостерігати</GameOverKeepWatching>
+  <!-- EN: Keep watching for now -->
+  <GameOverKeepWatchingForNow>Поки що продовжити спостерігати</GameOverKeepWatchingForNow>
+  <!-- EN: Create new wanderers -->
+  <GameOverCreateNewWanderers>Створити нових мандрівників</GameOverCreateNewWanderers>
+  <!-- EN: Create new wanderers (must wait {0}h) -->
+  <GameOverCreateNewWanderersWait>Створити нових мандрівників (можливо через {0}г)</GameOverCreateNewWanderersWait>
+  <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
+  <GameOverCreateNewWanderersText>Всі загинули або зникли. Можливо хтось інший знайде це місце.\n\nОберіть створення нових мандрівників, щоб продовжити історію.</GameOverCreateNewWanderersText>
+  <!-- EN: No colony -->
+  <NoColony>Немає колонії</NoColony>	
+	
+  <!-- EN: Max connected per building -->
+  <FacilityMaxSimultaneousConnections>Максимум об'єднаних споруд</FacilityMaxSimultaneousConnections>
+  <!-- EN: Front of building is blocked. -->
+  <FacilityFrontBlocked>Фасад споруди заблокований.</FacilityFrontBlocked>	
+	
+  <!-- EN: It is unclear what will happen if you accept this quest -->
+  <Reward_Unknown>Точно невідомо що відбудеться, якщо ви візьмете це завдання</Reward_Unknown> 
+  <!-- EN: Unknown -->
+  <Reward_Unknown_Label>Невідомо</Reward_Unknown_Label> 	
+	
+  <!-- EN: {DAMAGE_label} weakness -->
+  <DamageFactorWeakness>вразливість: {DAMAGE_label}</DamageFactorWeakness>
+  <!-- EN: {DAMAGE_label} resistance -->
+  <DamageFactorResistance>супротив: {DAMAGE_label}</DamageFactorResistance>
+  <!-- EN: {DAMAGE_label} damage that this creature recieves is multiplied by this amount. -->
+  <DamageFactor>множник шкоди, що отримає ця ціль.</DamageFactor>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was healed. -->
+  <HealingHealHediff>{0_nameDef} виліковується від {lookup: {1}; Case; 2}</HealingHealHediff>	
+	
+  <!-- LordJobs -->
+  <!-- EN: Outcome chances at {0} quality -->
+  <LordJobOutcomeChances>Можливі результати при якості {0}</LordJobOutcomeChances>
+  <!-- EN: Expected duration -->
+  <ExpectedLordJobDuration>Очікувана тривалість</ExpectedLordJobDuration>
+	
+  <!-- EN: Expected quality -->
+  <ExpectedLordJobQuality>Очікувана якість</ExpectedLordJobQuality>
+	
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust>мертвий пил</DeadlifeDust> 	
+	
+  <!-- EN: ability out of charges. -->
+  <AbilityNoCharges>здібність не має зарядів</AbilityNoCharges>	
+	
+  <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
+  <AbilitiesReadyLabel>{PAWN_nameDef} може застосувати здібність: {0}</AbilitiesReadyLabel>	
+	
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInAggroMentalState>{0_nameDef} в стані агресії</PawnIsInAggroMentalState>	
+	
+  <!-- Books -->
+
+  <!-- EN: Benefits -->
+  <Benefits>Переваги</Benefits>
+  <!-- EN: Dangers -->
+  <Dangers>Небезпеки</Dangers>
+  <!-- EN: already unlocked -->
+  <AlreadyUnlocked>вже відкрито</AlreadyUnlocked>
+  <!-- EN: when discovered -->
+  <WhenDiscovered>при виявленні</WhenDiscovered>
+  
+  <!-- EN: Was driven into a mental break after reading {0}. -->
+  <BookMentalBreakMessage>Нервовий зрив після прочитання {0}.</BookMentalBreakMessage>
+  <!-- EN: {0} done (complete in {1} hours) -->
+  <BookReadProgress>{0} прочитано (завершить через {1}г)</BookReadProgress>
+  
+  <!-- EN: learning speed -->
+  <BookLearningModifier>Швидкість вивчення</BookLearningModifier>
+  <!-- EN: Mental break chance -->
+  <BookMentalBreak>Шанс нервового зриву</BookMentalBreak>
+  
+  <!-- EN: {BOOK_labelShort} is not readable -->
+  <BookNotReadable>{BOOK_labelShort} неможливо прочитати</BookNotReadable>
+  <!-- EN: {PAWN_nameDef} can't read -->
+  <BookCantRead>{PAWN_nameDef} не може читати</BookCantRead>
+  <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
+  <BookCantBeStage>Невідповідний вік (необхідний: {STAGES})</BookCantBeStage>
+  <!-- EN: {PAWN_nameDef} is blind -->
+  <BookBlind>{PAWN_nameDef} {PAWN_gender ? сліпий : сліпа}</BookBlind>
+  
+  <!-- EN: max level {0} -->
+  <BookMaxLevel>максимальний рівень {0}</BookMaxLevel>
+  
+  <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
+  <ReadingReportHeader>Читає {0}: {1} прочитано (завершить через {2}г)</ReadingReportHeader>
+  
+  <!-- EN: Assign reading -->
+  <ReadingDialogTitle>Призначити читання</ReadingDialogTitle>
+  <!-- EN: Assign to {0} -->
+  <ReadingAssignTo>Призначити для {0}</ReadingAssignTo>
+  <!-- EN: Assign -->
+  <ReadingAssign>Призначити</ReadingAssign>
+
+  <!-- EN: The books currently on this bookshelf. -->
+  <ContainedBooksDesc>Книги на книжковій полиці</ContainedBooksDesc>
+  
+  <!-- EN: Books stored -->
+  <BookshelfStoredInspect>Книги, що зберігаються</BookshelfStoredInspect>
+  <!-- EN: Reading bonus in room -->
+  <BookshelfReadingBonusInspect>Бонус до читання в кімнаті</BookshelfReadingBonusInspect>
+
+  <!-- EN: Remove this book from the bookshelf. -->
+  <EjectBookTooltip>Прибрати книгу з книжкової полиці.</EjectBookTooltip>
+  
+  <!-- Pushing -->
+  <!-- EN: Push to... -->
+  <CommandPushTo>Штовхати до...</CommandPushTo>
+  <!-- EN: requires {0} -->
+  <RequiredCapacity>необхідно {0}</RequiredCapacity>
+  
+  <!-- EN: Unable to enter {0}, destination is blocked -->
+  <UnableToEnterPortal>Неможливо війти до {0}, немає проходу</UnableToEnterPortal>
+
+  <!-- EN: This category of research has not been discovered. -->
+  <ResearchNotDiscovered>Ця категорія досліджень не виявлена.</ResearchNotDiscovered>
+
+  <!-- EN: Emergence -->
+  <Emergence>Виникнення</Emergence>
+  
+  <!-- EN: remove {0} -->
+  <RemovePart>прибрати {0}</RemovePart>
+
+  <!-- EN: {GERUND} {TARGETLABEL} at -->
+  <DoWorkAtThing>{GERUND} за допомогою {lookup: {TARGETLABEL}; Case; 1}</DoWorkAtThing>
+  <!-- EN: can be studied in {0} -->
+  <CanBeStudiedInDuration>може бути досліджене протягом {0}</CanBeStudiedInDuration>
+	
+  <!-- EN: not yet discovered -->
+  <NotYetDiscovered>ще не досліджено</NotYetDiscovered>
+  <!-- EN: Crawling to safety. -->
+  <ReportStringCrawlingToSafety>Повзе до безпечного місця.</ReportStringCrawlingToSafety>
+  <!-- EN: Crawling to bed. -->
+  <ReportStringCrawlingToBed>Повзе до ліжка.</ReportStringCrawlingToBed>	
+	
+  <!-- EN: Corpse stockpile zone -->
+  <CorpseStockpile>Зона зберігання трупів</CorpseStockpile>
+	
+  <!-- Animal management -->
+  <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSterilizeConfirm>Ви впевнені, що хочете стерилізувати {PAWN_nameDef}? Ця дія розізлить фракцію {FACTION_name}.</AnimalSterilizeConfirm>
+  <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSlaughterConfirm>Ви впевнені, що хочете забити {PAWN_nameDef}? Ця дія розізлить фракцію {FACTION_name}.</AnimalSlaughterConfirm>
+  <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalReleaseConfirm>Ви впевнені, що хочете відпустити {PAWN_nameDef}? Ця дія розізлить фракцію {FACTION_name}.</AnimalReleaseConfirm>
+	
+  <!-- EN: Disabled needs -->
+  <DisabledNeedsLabel>Недоступні потреби</DisabledNeedsLabel>
+	
+  <!-- EN: About to explode -->
+  <AboutToExplode>Зараз вибухне</AboutToExplode>
+	
+  <!-- EN: Cannot load {0_labelShort} -->
+  <CannotLoadIntoShuttle>Неможливо завантажити {0_labelShort}</CannotLoadIntoShuttle>	
 	
 </LanguageData>

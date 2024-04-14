@@ -47,5 +47,17 @@
   <RandomDrop.textFriendly>Десантуються дружні {0} з фракції {1}. Схоже, в їхніх транспортних капсулах стався якийсь збій, і вони приземляються розкиданими по всій території!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef} десантуються в транспортних капсулах.</RandomDrop.textWillArrive>
+	
+  <!-- EN: Several {0} are emerging from the water. -->
+  <EmergeFromWater.textEnemy>Кілька {lookup: {0}; Case; 3} виходять із води.</EmergeFromWater.textEnemy>
+  <!-- EN: The {0_pawnsPluralDef} will emerge from the water. -->
+  <EmergeFromWater.textWillArrive>{0_pawnsPluralDef} вийдуть з води.</EmergeFromWater.textWillArrive>
+	
+  <!-- EN: A group of {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textEnemy>Група {lookup: {0}; Case; 3} з фракції {1} прибуде з усіх сторін.</EdgeWalkInDistributed.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textFriendly>Група дружніх {lookup: {0}; Case; 3} з фракції {1} прибуде з усіх сторін.</EdgeWalkInDistributed.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot from every direction. -->
+  <EdgeWalkInDistributed.textWillArrive>{0_pawnsPluralDef} прибудуть пішки з усіх сторін</EdgeWalkInDistributed.textWillArrive>
   
 </LanguageData>

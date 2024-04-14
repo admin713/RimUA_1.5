@@ -3,6 +3,9 @@
   
   <!-- EN: attacked member -->
   <AttackedMember.label>член фракції атакований</AttackedMember.label>
+	
+  <!-- EN: tended to member -->
+  <FriendlyExitedMapTended.label>догляд за членом фракції</FriendlyExitedMapTended.label>
   
   <!-- EN: guilty prisoner died -->
   <GuiltyPrisonerDied.label>помер винний в'язень</GuiltyPrisonerDied.label>

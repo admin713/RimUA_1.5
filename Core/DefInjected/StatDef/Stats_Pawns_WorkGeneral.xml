@@ -83,4 +83,8 @@
   <!-- EN: Offset from mechanitor -->
   <WorkSpeedGlobal.parts.2.label>Приріст від механізатора</WorkSpeedGlobal.parts.2.label>		<!-- need test -->
   
+  <!-- EN: reading speed -->
+  <ReadingSpeed.label>швидкість читання</ReadingSpeed.label>
+  <!-- EN: A multiplier on how fast this person can read. -->
+  <ReadingSpeed.description>Множник до швидкості читання.</ReadingSpeed.description>	
 </LanguageData>

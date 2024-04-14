@@ -36,9 +36,9 @@
   
   <!-- Drafting -->
   <!-- EN: Draft -->
-  <CommandDraftLabel>Мобілізувати</CommandDraftLabel>
+  <CommandDraftLabel>Бойовий режим</CommandDraftLabel>
   <!-- EN: Undraft -->
-  <CommandUndraftLabel>Демобілізувати</CommandUndraftLabel>
+  <CommandUndraftLabel>Вільний режим</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Перемикнути бойовий режим.\n\nМобілізовані будуть виконувати прямі наказати та вести бій. Вони не будуть працювати, їсти чи відпочивати.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
@@ -306,6 +306,14 @@
   <CommandFormCaravanDesc>Сформуйте групу поселенців, для подорожі. Вони зберуть усю призначені для подорожі речі візьмуть с собою тварин,після чого покинуть нинішню територію та чекатимуть подальших наказів.</CommandFormCaravanDesc>
   <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
   <CommandFormCaravanDescAtSpot>Це місце буде використовуватися як місце збору каравану. Всі призначені для подорожі речі і тварини будуть збиратися тут.</CommandFormCaravanDescAtSpot>
+
+	<!-- Select caravan settlement -->
+	<!-- EN: Select colony to send caravan -->
+	<SelectCaravanOrigin>Оберіть місце призначення каравану</SelectCaravanOrigin>
+	<!-- EN: Send a caravan from {0}. -->
+	<SelectCaravanDesc>Місце відправки каравану ({0}).</SelectCaravanDesc>
+	<!-- EN: Colonists -->
+	<SelectCaravanColonists>Колоністи</SelectCaravanColonists>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
@@ -644,5 +652,43 @@
 
 	<!--Select the mineral type to scan for.-->
 	<CommandSelectMineralToScanForDesc>Виберіть тип мінералу для пошуку.</CommandSelectMineralToScanForDesc>
+	
+	<!-- Firefoam popper -->
+	<!-- EN: Auto rebuild -->
+	<CommandAutoRebuild_Building>Автоматична заміна</CommandAutoRebuild_Building>
+	<!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
+	<CommandAutoRebuild_BuildingDesc>Якщо ввімкнено, {lookup: {BUILDING_definite}; Case; 3} буде автоматично замінено після вибуху.</CommandAutoRebuild_BuildingDesc>
+	
+	
+	<!-- Send caravan -->
+	<!-- EN: Send caravan -->
+	<CommandSendCaravan>Відправити караван</CommandSendCaravan>
+	<!-- EN: Send caravan... -->
+	<CommandSendCaravanMultiple>Відправити караван...</CommandSendCaravanMultiple>
+	<!-- EN: Send a caravan to this destination from a selected colony which can reach this location. -->
+	<CommandSendCaravanDesc>Надішліть караван до вибраного місця з колонії, з якої караван зможе дійти.</CommandSendCaravanDesc>
+	<!-- EN: Your settlements have no path to this location. -->
+	<CommandSendCaravanCantReach>З вашої колонії немає шляху до місця призначення.</CommandSendCaravanCantReach>
+
+	<!-- EN: 1 building -->
+	<OneBuilding>1 споруда</OneBuilding>
+
+	<!-- Study -->
+	<!-- EN: Toggle study -->
+	<CommandToggleStudy>Вивчення</CommandToggleStudy>
+	<!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
+	<CommandToggleStudyDesc>Визначає, чи будуть наглядачі автоматично вивчати це. Заборонені речі вивчатися не будуть.</CommandToggleStudyDesc>
+
+	<!-- Limited use count action -->
+	<!-- EN: No uses left. -->
+	<CommandNoUsesLeft>Не залишилось використань.</CommandNoUsesLeft>
+
+	<!-- EN: {FACTION_name} cannot reach this area. -->
+	<CommandCallRoyalAidMapUnreachable>Фракція {FACTION_name} не може дістатись до цієї місцевості.</CommandCallRoyalAidMapUnreachable>
+	<!-- EN: Cannot call aid here. -->
+	<CommandCallRoyalAidInvalidMap>У цій місцевості не вийде покликати на допомогу.</CommandCallRoyalAidInvalidMap>
+
+	<!-- EN: Psychic insanity immune -->
+	<IneffectivePsychicImmune>Імунітет до психічного божевілля</IneffectivePsychicImmune>
 	
 </LanguageData>

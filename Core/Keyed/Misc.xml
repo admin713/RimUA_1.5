@@ -204,6 +204,17 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>колоніст</Colonist>
+	
+	<!-- 1.5 -->
+	
+  <!-- EN: min(days) -->
+  <minDays>мінімум(днів)</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>максимум(днів)</maxDays>
+  <!-- EN: Processing -->
+  <Processing>Виконується</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>Оглянути</Inspect>	
   
   
 </LanguageData>

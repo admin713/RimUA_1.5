@@ -98,7 +98,7 @@
   <!-- EN: Exhaustion -->
   <Exhaustion>Виснаження</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nДайте їм перепочити. Їм знадобляться ліжка, які відмічені, як для колоністів. Також, переконайтесь, що вони не мобілізовані.</ExhaustionDesc>
+  <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nДайте їм перепочити. Їм знадобляться ліжка, які відмічені, як для колоністів. Також, переконайтесь, що вони не в бойовому режимі.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
   <NeedFoodHopper>Потрібна вирва</NeedFoodHopper>

@@ -563,6 +563,10 @@
   <MessageBillValidationPawnUnavailable>{0} більше не може працювати над завданням "{1}" на {lookup: {2}; Case; 2}. Обмеження знято.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
   <MessageBillValidationIncludeZoneDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки область "{2}" була видалена.</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
+  <MessageBillValidationIncludeBuildingDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки будівля "{2}" була видалена.</MessageBillValidationIncludeBuildingDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
+  <MessageBillValidationIncludeStorageGroupDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки складська група "{2}" була видалена.</MessageBillValidationIncludeStorageGroupDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
   <MessageBillValidationIncludeZoneUnavailable>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки область "{2}" поза досяжністю.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
@@ -722,6 +726,8 @@
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} має бути {0_gender ? здатним : здатною} до нагляду.</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->
   <MessageRitualRoleMustBeCapableOfGeneric>{0} має бути спроможним {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: {0} must be capable of violence. -->
+  <MessageRitualRoleMustBeCapableOfViolence>{0} не може спричиняти насильство.</MessageRitualRoleMustBeCapableOfViolence>
   <!-- EN: prisoners cannot {0}. -->
   <MessageRitualRoleMustNotBePrisonerToSpectate>в'язні не можуть {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
   <!-- EN: only {0} can {1}. -->
@@ -789,4 +795,46 @@
   <StorageSettingsPastedFromClipboard>Налаштування складу вставлені з буферу</StorageSettingsPastedFromClipboard>
 
 
+	<!-- 1.5 -->
+
+	<!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
+	<MessageVisitorsAnomalousWeather>{0} з фракції {1} йдуть через небезпечні погодні умови.</MessageVisitorsAnomalousWeather>
+	
+	 <!-- EN: Must designate rough stone terrain. -->
+    <MessageMustDesignateSmoothableFloor>Необхідно обрати грубе кам'яне покриття</MessageMustDesignateSmoothableFloor>
+    <!-- EN: Must designate rough stone wall. -->
+    <MessageMustDesignateSmoothableWall>Необхідно обрати грубі кам'яні стіни</MessageMustDesignateSmoothableWall>
+
+	<!-- EN: The trade caravan from {0} has been dismissed. -->
+	<MessageTraderCaravanDismissed>Торговий караван з фракції {0} було відхилено</MessageTraderCaravanDismissed>
+
+	<!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
+	<MessageCantLoadMoreIntoPortal>{1} не може війти до {0}, так як деякі люди або предмети недосяжні ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
+
+	<!-- Lord jobs -->
+	<!-- EN: You need {0_indefinite}. -->
+	<MessageLordJobNeedsAtLeastOneRolePawn>Необхідна умова: {0_indefinite}.</MessageLordJobNeedsAtLeastOneRolePawn>
+	<!-- EN: You need at least {1} {0}. -->
+	<MessageLordJobNeedsAtLeastNumRolePawn>Необхідна умова: {1} {0}.</MessageLordJobNeedsAtLeastNumRolePawn>
+
+	<!-- EN: must not be a prisoner for the {0} role. -->
+	<MessageRitualRoleMustBeFree>{0} не може бути в'язнем</MessageRitualRoleMustBeFree>
+
+	<!-- EN: {0} is busy. -->
+	<MessageRitualRoleBusy>{0} щось робить.</MessageRitualRoleBusy>
+
+	<!-- EN: Storage settings linked for 1 building. -->
+	<SettingsLinkedForSingular>Налаштування складу прив'язані до 1 споруди.</SettingsLinkedForSingular>
+	<!-- EN: Storage settings unlinked for 1 building. -->
+	<SettingsUnlinkedForSingular>Налаштування складу відв'язані від 1 споруди</SettingsUnlinkedForSingular>
+
+	<!-- EN: {0_label} requires adjacent walls to function. -->
+	<MessageBuildingRequiresAdjacentWalls>{0_label} потребує суміжні стіни.</MessageBuildingRequiresAdjacentWalls>
+
+	<!-- EN: Cannot skip: Refugee -->
+	<MessageLodgersCantFarskip>Неможливо пропустити: Біженець</MessageLodgersCantFarskip>
+
+	<!-- EN: The mechanoids sense no more targets and are moving on. -->
+	<MechanoidsMovingOn>Механоїди більше не відчувають цілей і рухаються далі.</MechanoidsMovingOn>
+	
 </LanguageData>

@@ -31,7 +31,7 @@
   <!-- EN: Drafting for combat -->
   <Drafting.label>Підготування до бою</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>Щоб керувати колоністами в бою безпосередньо, виберіть їх та натисніть кнопку "Мобілізувати".\n\nМобілізовані колоністи будуть виконувати лише бойові накази, що ви їм віддасте. Озброєні колоністи скористаються зброєю, коли це буде можливо.\n\nНіколи не лишайте мобілізованих колоністів без нагляду — вони зголодніють та їх настрій зіпсується.</Drafting.helpText>
+  <Drafting.helpText>Щоб керувати колоністами в бою безпосередньо, виберіть їх та натисніть кнопку "Бойовий режим".\n\nУ бойовому режимі колоністи будуть виконувати лише бойові накази, що ви їм віддасте. Озброєні колоністи скористаються зброєю, коли це буде можливо.\n\nНіколи не лишайте мобілізованих колоністів без нагляду — вони зголодніють та їх настрій зіпсується.</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>Наркотична залежність</DrugAddiction.label>
@@ -112,5 +112,10 @@
   <TVForSickPeople.label>Телевізор для хворих</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
   <TVForSickPeople.helpText>Люди, що знаходяться на лікарняному ліжку, можуть дивитися телевізор.</TVForSickPeople.helpText>
-  
+
+	<!-- EN: books -->
+	<Books.label>Книги</Books.label>
+	<!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the 'Assign' tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+	<Books.helpText>Колоністи читають книги для відпочинку, щоб отримати навички, розблокувати дослідження тощо. Ви можете побачити вплив певної книги, вибравши її та відкривши вкладку "Деталі".\n\nЩоб вибрати, що колоністи читатимуть, відкрийте вкладку "Призначення" та "Література".\n\nЗберігайте книги в книжкових шафах, щоб пасивно покращити якість читання. Книжкові шафи пасивно збільшують швидкість дослідження та досвід отримані від читання, а також якість відпочинку.</Books.helpText>
+	
 </LanguageData>

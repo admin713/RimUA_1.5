@@ -740,5 +740,10 @@
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Без інших фракцій, рейди, торгівля та завдання стануть недоступними.</FactionsDisabledWarning>
 
+	<!-- EN: Caused by -->
+	<IncapableOfTooltipMutant>Причина</IncapableOfTooltipMutant>
+
+	<!-- EN: New Anomaly expansion available now! -->
+	<MainScreen_AnomalyAvailableNow>Нове доповнення Аномалія вже доступне!</MainScreen_AnomalyAvailableNow>
 
 </LanguageData>

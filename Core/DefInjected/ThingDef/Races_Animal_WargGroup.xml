@@ -7,8 +7,12 @@
   <Warg.description>Сильні вовкоподібні істоти з неприродно гострими кігтями та неймовірно сильним укусом. Їдять тільки м'ясо або трупи. Якщо їх потурбувати в дикій природі, вони, швидше за все, нападуть.\n\nВчені кажуть, що варги є нащадками бойових тварин, створених для упокорення населення. Забобонні люди вважають їх знаряддям божого гніву.</Warg.description>
   <!-- EN: left claw -->
   <Warg.tools.left_claw.label>ліва лапа</Warg.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Warg.tools.left_claw.labelNoLocation>лапа</Warg.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Warg.tools.right_claw.label>права лапа</Warg.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Warg.tools.right_claw.labelNoLocation>лапа</Warg.tools.right_claw.labelNoLocation>
   <!-- EN: razorfangs -->
   <Warg.tools.razorfangs.label>ікла</Warg.tools.razorfangs.label>
   <!-- EN: head -->

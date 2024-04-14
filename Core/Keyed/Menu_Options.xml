@@ -161,5 +161,26 @@
   <!-- EN: Menu background -->
   <SetBackgroundImage>Фон головного меню</SetBackgroundImage>
 
+	<!-- 1.5 -->
+
+	<!-- EN: Zoom to mouse -->
+	<ZoomToMouse>Наближення мишею</ZoomToMouse>
+
+	<!-- EN: Quick start has no cryptosleep sickness -->
+	<DisableQuickStartCryptoSickness>Відсутність криптосонної хвороби при швидкому тесті</DisableQuickStartCryptoSickness>
+	<!-- EN: Start game with dev palette on -->
+	<StartDevPaletteOn>Увімкнена палітра розробника при початку гри</StartDevPaletteOn>
+	<!-- EN: Open log on warnings -->
+	<OpenLogOnWarnings>Відкривати лог при помилках</OpenLogOnWarnings>
+	<!-- EN: Close log by pressing cancel -->
+	<CloseLogWindowOnEscape>Закривати лог клавішею ESC</CloseLogWindowOnEscape>
+	<!-- EN: Simulate not owning Anomaly -->
+	<SimulateNotOwningAnomaly>Симулювати відсутність Anomaly</SimulateNotOwningAnomaly>
+
+	<!-- EN: Use 12 hour clock -->
+	<TwelveHourClockMode>Використовувати 12-годинний годинник</TwelveHourClockMode>
+
+	<!-- EN: Autosaves count: {0} -->
+	<AutosavesCount>Кількість автоматичних збережень: {0}</AutosavesCount>
 
 </LanguageData>

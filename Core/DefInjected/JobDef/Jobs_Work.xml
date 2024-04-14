@@ -195,5 +195,11 @@
 
   <!-- EN: planting TargetA. -->
   <PlantSeed.reportString>садить {lookup: {TargetA}; Case; 3}.</PlantSeed.reportString>
+
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToPortal.reportString>носить до {lookup: {TargetA}; Case; 2}</CarryDownedPawnToPortal.reportString>
+	
+  <!-- EN: Analyzing TargetA. -->
+  <AnalyzeItem.reportString>Аналізує {lookup: {TargetA}; Case; 3}.</AnalyzeItem.reportString>
 	
 </LanguageData>

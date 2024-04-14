@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>Слідкувати за господарем в режимі мобілізації.</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>Слідкувати за господарем в бойовому режимі.</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
   <FollowFieldwork.headerTip>Слідкувати за господарем на полюванні та при прирученні диких тварин.</FollowFieldwork.headerTip>

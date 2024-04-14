@@ -64,5 +64,20 @@
   <WorkToBuild.label>обсяг роботи</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
   <WorkToBuild.description>Обсяг роботи, необхідний для будівництва об'єкту, коли всі матеріали підготовленні.\n\nНа цьому значенні також базується кількість роботи для деконструкції об'єкту.</WorkToBuild.description>
+ 
+  <!-- EN: max power output -->
+  <PowerPlantMaxPowerOuput.label>максимальна вихідна потужність</PowerPlantMaxPowerOuput.label>
+  <!-- EN: The maximum power that this generator can output in ideal conditions. -->
+  <PowerPlantMaxPowerOuput.description>Максимальна потужність, яку цей генератор може видавати в ідеальних умовах.</PowerPlantMaxPowerOuput.description>
+	
+  <!-- EN: Reading bonus -->
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>Бонус до читання</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
   
+  <!-- EN: reading bonus -->
+  <RoomReadingBonus.label>бонус до читання</RoomReadingBonus.label>
+  <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
+  <RoomReadingBonus.description>Надає бонус до швидкості дослідження та досвіду отриманого від читання, а також відпочинку отриманого від читання в тій самій кімнаті, що й книжкова шафа. Це збільшується завдяки розміщенню в книжковій шафі більшої кількості книжок вищої якості.</RoomReadingBonus.description>
+  <!-- EN: Reading bonus -->
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>Бонус до читання</RoomReadingBonus.parts.Reading_bonus.customLabel>
+	
 </LanguageData>

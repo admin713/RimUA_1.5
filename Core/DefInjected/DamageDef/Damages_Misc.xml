@@ -40,5 +40,10 @@
   <Thump.label>удар</Thump.label>
   <!-- EN: {0} has been shot to death. -->
   <Thump.deathMessage>{0} {0_gender ? застрелений : застрелена : застрелено}.</Thump.deathMessage>		<!-- need test -->
+	
+  <!-- EN: decayed organ -->
+  <Decayed.label>деградація органу</Decayed.label>
+  <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
+  <Decayed.deathMessage>{0} помирає від метаболічних порушень, спричинених деградацією органу.</Decayed.deathMessage>
   
 </LanguageData>

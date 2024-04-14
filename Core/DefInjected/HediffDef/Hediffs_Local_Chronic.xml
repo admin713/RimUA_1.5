@@ -96,5 +96,20 @@
   <HeartArteryBlockage.stages.major-1.label>тяжкий</HeartArteryBlockage.stages.major-1.label>
   <!-- EN: extreme -->
   <HeartArteryBlockage.stages.extreme.label>смертельний</HeartArteryBlockage.stages.extreme.label>
+	
+  <!-- EN: organ decay -->
+  <OrganDecay.label>деградація органів</OrganDecay.label>
+  <!-- EN: A degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people. -->
+  <OrganDecay.description>Дегенеративне захворювання, що вражає один з органів. Причина може бути бактеріальною або вірусною. Здається, що хвороба вражає випадково з невідомого природного джерела; не передається безпосередньо між людьми.</OrganDecay.description>
+  <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort} втрачає {lookup: {1}; Case; 3} через деградацію органу.</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <!-- EN: minor -->
+  <OrganDecay.stages.minor.label>початкова</OrganDecay.stages.minor.label>
+  <!-- EN: moderate -->
+  <OrganDecay.stages.moderate.label>помірна</OrganDecay.stages.moderate.label>
+  <!-- EN: severe -->
+  <OrganDecay.stages.severe.label>сильна</OrganDecay.stages.severe.label>
+  <!-- EN: extreme -->
+  <OrganDecay.stages.extreme.label>тяжка</OrganDecay.stages.extreme.label>
   
 </LanguageData>

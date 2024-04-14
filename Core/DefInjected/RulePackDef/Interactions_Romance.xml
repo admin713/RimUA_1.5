@@ -44,7 +44,7 @@
   -->
   <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef] відмовляється від пропозиції.</li>
-    <li>sent->[RECIPIENT_nameDef] робить вигляд, що не {RECIPIENT_gender ? почув : почула} {INITIATOR_possessive}.</li>
+    <li>sent->[RECIPIENT_nameDef] робить вигляд, що не {RECIPIENT_gender ? почув : почула} [INITIATOR_possessive].</li>
     <li>sent->[RECIPIENT_nameDef] повертається спиною до {INITIATOR_gender ? нього : неї}.</li>
     <li>sent->[RECIPIENT_nameDef] відвертається.</li>
     <li>sent->[RECIPIENT_nameDef] ніяк не реагує.</li>

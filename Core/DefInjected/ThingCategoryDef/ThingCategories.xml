@@ -207,5 +207,16 @@
   
   <!-- EN: wools -->
   <Wools.label>вовна</Wools.label>
-  
+
+	<!-- EN: bookEffects -->
+	<BookEffects.label>ефекти книг</BookEffects.label>
+
+	<!-- EN: books -->
+	<Books.label>книги</Books.label>
+	
+	<!-- EN: research -->
+	<ResearchGain.label>дослідження</ResearchGain.label>
+	
+	<!-- EN: skill gain -->
+	<SkillGain.label>навички</SkillGain.label>
 </LanguageData>

@@ -45,5 +45,8 @@
   <TravelingTransportPods.label>транспортні капсули</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
   <TravelingTransportPods.description>Транспортні капсули у польоті.</TravelingTransportPods.description>
+
+	<!-- EN: pocket map -->
+	<PocketMap.label>кишенькова карта</PocketMap.label>
   
 </LanguageData>

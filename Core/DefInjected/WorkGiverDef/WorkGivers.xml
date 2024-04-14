@@ -679,5 +679,19 @@
   <VisitSickPawn.gerund>відвідати</VisitSickPawn.gerund>
   <!-- EN: visit -->
   <VisitSickPawn.verb>відвідувати</VisitSickPawn.verb>
+
+	<!-- EN: haul to map -->
+	<HaulToPortal.label>тягнути до </HaulToPortal.label>
+	<!-- EN: loading -->
+	<HaulToPortal.gerund>завантажити</HaulToPortal.gerund>
+	<!-- EN: load -->
+	<HaulToPortal.verb>завантажувати</HaulToPortal.verb>
+
+	<!-- EN: study archotech structures -->
+	<StudyArchotechStructures.label>досліджувати архотехнічні споруди</StudyArchotechStructures.label>
+	<!-- EN: studying -->
+	<StudyArchotechStructures.gerund>дослідити</StudyArchotechStructures.gerund>
+	<!-- EN: study -->
+	<StudyArchotechStructures.verb>досліджувати</StudyArchotechStructures.verb>
   
 </LanguageData>

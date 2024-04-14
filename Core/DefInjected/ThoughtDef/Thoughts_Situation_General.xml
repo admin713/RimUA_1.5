@@ -109,5 +109,24 @@
   <WrongApparelGender.stages.wearing_apparel.label>{replace: {0}; "чоловік"-"чоловічий"; "жінка"-"жіночий"} одяг</WrongApparelGender.stages.wearing_apparel.label>
   <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
   <WrongApparelGender.stages.wearing_apparel.description>Я ношу одяг, явно пошитий для {replace: {0}; "чоловік"-"чоловіків"; "жінка"-"жінок"}. Який сором!</WrongApparelGender.stages.wearing_apparel.description>
-  
+
+
+	<!-- EN: I love reading -->
+	<LoveReading.stages.I_love_reading.label>Любов до читання</LoveReading.stages.I_love_reading.label>
+	<!-- EN: Reading really engages my intellectual passions. -->
+	<LoveReading.stages.I_love_reading.description>Читання справді захоплює мої інтелектуальні пристрасті.</LoveReading.stages.I_love_reading.description>
+	<!-- EN: I really love reading -->
+	<LoveReading.stages.I_really_love_reading.label>Захоплення читанням</LoveReading.stages.I_really_love_reading.label>
+	<!-- EN: Reading excites my burning intellectual passions! I just love learning this way. -->
+	<LoveReading.stages.I_really_love_reading.description>Читання збуджує мої палкі інтелектуальні пристрасті! Я просто обожнюю вчитися таким чином.</LoveReading.stages.I_really_love_reading.description>
+
+	<!-- EN: interesting textbook -->
+	<SkillBookPassion.stages.interesting_textbook.label>Цікавий підручник</SkillBookPassion.stages.interesting_textbook.label>
+	<!-- EN: This book covers a topic I'm passionate about. It's interesting. -->
+	<SkillBookPassion.stages.interesting_textbook.description>Ця книга охоплює тему, якою я цікавлюся. Мені подобається.</SkillBookPassion.stages.interesting_textbook.description>
+	<!-- EN: amazing textbook -->
+	<SkillBookPassion.stages.amazing_textbook.label>Неймовірний підручник</SkillBookPassion.stages.amazing_textbook.label>
+	<!-- EN: This book covers a topic I'm very passionate about. It's captivating. -->
+	<SkillBookPassion.stages.amazing_textbook.description>Ця книга охоплює тему, якою я дуже цікавлюся. Це захоплює.</SkillBookPassion.stages.amazing_textbook.description>
+	
 </LanguageData>

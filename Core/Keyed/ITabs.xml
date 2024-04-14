@@ -422,6 +422,40 @@
 
   <!-- EN: Auto-cut plants blocking wind turbine -->
   <WindTurbineAutoCut_EnabledCheckbox>Зрізати рослини, що блокують роботу вітрових турбін</WindTurbineAutoCut_EnabledCheckbox>
+	
+	<!-- 1.5 -->
 
+	<!-- EN: Travel -->
+	<TabMapPortalContents>Подорожі</TabMapPortalContents>
+	<!-- EN: Details -->
+	<TabBookContents>Деталі</TabBookContents>
+	<!-- EN: Study -->
+	<TabStudyNotesContents>Дослідження</TabStudyNotesContents>
 
+	<!-- EN: What type of medicine can be given to this prisoner. -->
+	<MedicineQualityDescriptionPrisoner>Тип ліків, які можуть бути використані для в'язня.</MedicineQualityDescriptionPrisoner>
+
+	<!-- EN: Allow self-tend -->
+	<AllowSelfTend>Самолікування</AllowSelfTend>
+	<!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+	<AllowSelfTendTip>{0} з самолікуванням може самостійно доглядати свої травми з ефективністю в {1} від звичайної.</AllowSelfTendTip>
+	<!-- EN: Allow medicine -->
+	<AllowMedicine>Дозволені ліки</AllowMedicine>
+	<!-- EN: What type of medicine can be given to this person. -->
+	<MedicineQualityDescription>Тип ліків, які можуть бути використані цієї особи. </MedicineQualityDescription>
+	<!-- EN: What type of food can be given to this person. -->
+	<FoodRestrictionDescription>Тип їжі, яку можуть дати цій особі.</FoodRestrictionDescription>
+
+	<!-- Study tab  -->
+	<!-- EN: Study progress -->
+	<StudyNotesTab_StudyProgress>Прогрес досліджень</StudyNotesTab_StudyProgress>
+	<!-- EN: Ongoing -->
+	<StudyNotesTab_StudyProgressOngoing>Поточні</StudyNotesTab_StudyProgressOngoing>
+	<!-- EN: Completed -->
+	<StudyNotesTab_StudyProgressCompleted>Завершені</StudyNotesTab_StudyProgressCompleted>
+	<!-- EN: Toggle study -->
+	<StudyNotesTab_ToggleStudy>Позначити для досліджень</StudyNotesTab_ToggleStudy>
+	<!-- EN: No discoveries yet -->
+	<StudyNotesTab_NoDiscoveries>Поки не відкрито</StudyNotesTab_NoDiscoveries>
+	
 </LanguageData>

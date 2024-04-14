@@ -48,6 +48,13 @@
   <ProsheCap>Вона</ProsheCap>
   <!-- EN: It -->
   <ProitCap>Воно</ProitCap>
+	
+	<!-- EN: man -->
+	<ProHeNoun>чоловік</ProHeNoun>
+	<!-- EN: woman -->
+	<ProSheNoun>жінка</ProSheNoun>
+	<!-- EN: person -->
+	<ProItNoun>особа</ProItNoun>
 
   <!-- EN: {0} and {1}. -->
   <ClauseSequence2>{0} також {1}.</ClauseSequence2>

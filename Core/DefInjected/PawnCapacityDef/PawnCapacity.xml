@@ -41,5 +41,8 @@
   <Talking.label>мовлення</Talking.label>
   <!-- EN: Communication -->
   <Talking.labelMechanoids>зв'язок</Talking.labelMechanoids>
+
+  <!-- EN: Sentience -->
+  <Consciousness.labelAnomalyEntity>чуття</Consciousness.labelAnomalyEntity>
   
 </LanguageData>

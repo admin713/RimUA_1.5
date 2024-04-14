@@ -355,4 +355,45 @@
   <!-- EN: Click to edit -->
   <ClickToEdit>Натисніть для редагування</ClickToEdit>
 
+	<!-- 1.5 -->
+
+	<!-- EN: Manage apparel policies -->
+	<ManageApparelPolicies>Змінити комплекти одягу</ManageApparelPolicies>
+	<!-- EN: Manage food policies -->
+	<ManageFoodPolicies>Змінити дієти</ManageFoodPolicies>
+	<!-- EN: Manage reading policies -->
+	<ManageReadingPolicies>Змінити літературу</ManageReadingPolicies>
+	
+	<!-- EN: Prerequisites -->
+	<Prerequisites>Умови</Prerequisites>
+	<!-- EN: No project active. -->
+	<NoProjectSelected>Немає активних проектів.</NoProjectSelected>
+	<!-- EN: Active projects -->
+	<ActiveProjectPlural>Активні проекти</ActiveProjectPlural>
+	<!-- EN: Active project -->
+	<ActiveProject>Активний проект</ActiveProject>
+	<!-- EN: Stop research -->
+	<StopResearch>Зупинити дослідження</StopResearch>
+
+	<!-- EN: Change defaults... -->
+	<ChangeDefaults>Змінити стондарт...</ChangeDefaults>
+
+	<!-- Misc -->
+	<!-- EN: Assign -->
+	<AssignButton>Призначити</AssignButton>
+	<!-- EN: Unassign -->
+	<UnassignButton>Зняти призначення</UnassignButton>
+
+	<!-- Books -->
+	<!-- EN: Mental break chance -->
+	<BookMentalBreakChance>Вірогідність нервового зриву</BookMentalBreakChance>
+
+	<!-- EN: Recreation gain multiplier -->
+	<BookJoyFactor>Множник відновлення дозвілля</BookJoyFactor>
+
+	<!-- EN: Research one or more of this project's prerequisites to discover it. -->
+	<UnknownResearchDescription>Необхідно завершити одне або кілька попередніх досліджень, щоб розблокувати це.</UnknownResearchDescription>
+	<!-- EN: unknown -->
+	<UnknownResearch>невідомо</UnknownResearch>
+	
 </LanguageData>

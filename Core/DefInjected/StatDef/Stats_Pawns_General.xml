@@ -147,4 +147,17 @@
   <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
   <RestFallRateFactor.description>Множник того, як швидко наростає необхідність людини у сні.</RestFallRateFactor.description>
 	
+	
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>швидкість повзання</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>Швидкість повзання в клітинах на секунду.</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>{0} кл/с</CrawlSpeed.formatString>
+
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>швидкість зниження дозвілля</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>Множник, який впливає на швидкість зменшення шкали дозвілля.</JoyFallRateFactor.description>
+
 </LanguageData>

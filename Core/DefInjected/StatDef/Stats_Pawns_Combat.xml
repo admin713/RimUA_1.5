@@ -69,5 +69,10 @@
   <ShootingAccuracyPawn.description>Базова імовірність влучити на кожну клітину дистанції.\n\nНа імовірність влучення також впливає багато інших факторів. Детальну інформацію для кожного пострілу, можна отримати, якщо вибрати стрільця та навести курсор на ціль.</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
   <ShootingAccuracyPawn.labelForFullStatList>точність стрільби (люди)</ShootingAccuracyPawn.labelForFullStatList>
+	
+  <!-- EN: melee cooldown -->
+  <MeleeCooldownFactor.label>відновлення ближньої атаки</MeleeCooldownFactor.label>
+  <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
+  <MeleeCooldownFactor.description>Множник часу, який ця істота потребує для відновлення після атаки ближнього бою.</MeleeCooldownFactor.description>
   
 </LanguageData>

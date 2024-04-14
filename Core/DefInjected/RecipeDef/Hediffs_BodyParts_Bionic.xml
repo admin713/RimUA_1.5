@@ -63,5 +63,12 @@
   <InstallDeathAcidifier.description>Вживити посмертний окислювач.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
   <InstallDeathAcidifier.jobString>Вживлює посмертний окислювач.</InstallDeathAcidifier.jobString>
+	
+  <!-- EN: Install bionic jaw -->
+  <InstallBionicJaw.label>встановити біонічну щелепу</InstallBionicJaw.label>
+  <!-- EN: Install bionic jaw. -->
+  <InstallBionicJaw.description>Встановити біонічну щелепу.</InstallBionicJaw.description>
+  <!-- EN: Installing bionic jaw. -->
+  <InstallBionicJaw.jobString>Встановлює біонічну щелепу.</InstallBionicJaw.jobString>	
   
 </LanguageData>

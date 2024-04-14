@@ -51,4 +51,10 @@
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
   <WoodFiredGenerator.description>Виробляє електроенергію, спалюючи деревину. Періодично треба заправляти вручну.</WoodFiredGenerator.description>
   
+	
+  <!-- EN: hidden conduit -->
+  <HiddenConduit.label>прихований електрокабель</HiddenConduit.label>
+  <!-- EN: Hidden electrical cables for moving power around. They're tougher than regular conduits, but also slower to build and more expensive. -->
+  <HiddenConduit.description>Прихований електрокабель для передачі електроенергії. Міцніший ніж звичайний електрокабель, але складніший та дорожчий у виробництві.</HiddenConduit.description>	
+	
 </LanguageData>

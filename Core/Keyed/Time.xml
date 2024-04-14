@@ -12,6 +12,11 @@
   <!-- EN: y -->
   <LetterYear>р</LetterYear>
 
+	<!-- EN: AM -->
+	<AM>ранку</AM>
+	<!-- EN: PM -->
+	<PM>вечора</PM>
+
   <!-- EN: days -->
   <DaysLower>днів</DaysLower>
   <!-- EN: hours -->

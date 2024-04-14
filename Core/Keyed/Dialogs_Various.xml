@@ -86,7 +86,7 @@
   <!-- EN: Loading all active mods -->
   <LoadingAllActiveMods>Завантаження усіх активних модифікацій</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>Завантаження локалізації</LoadingDefs>
+  <LoadingDefs>Завантаження визначень</LoadingDefs>
   <!-- EN: Loading assets -->
   <LoadingAssets>Завантаження ресурсів</LoadingAssets>
   <!-- EN: Initializing -->
@@ -198,9 +198,13 @@
   <!-- EN: nickname -->
   <NickName>прізвисько</NickName>
   <!-- EN: last name -->
-  <LastName>фамілія</LastName>
+  <LastName>прізвище</LastName>
   <!-- EN: suggested -->
   <Suggested>запропоновано</Suggested>
+
+	<!-- Choose new wanderers -->
+	<!-- EN: Choose new wanderers -->
+	<ChooseNewWanderers>Нові мандрівники</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -336,7 +340,13 @@
   <IncludeFromAll>Шукати всюди</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Шукати в радіусі {0}</IncludeSpecific>
-  
+	<!-- EN: Stockpiles -->
+	<StockpilePlural>Запаси</StockpilePlural>
+	<!-- EN: Shelves -->
+	<ShelfPlural>Полиці</ShelfPlural>
+	<!-- EN: Groups -->
+	<GroupPlural>Групи</GroupPlural>
+	
   <!-- Info card -->
   <!-- EN: Damage -->
   <Damage>Шкода</Damage>
@@ -517,6 +527,8 @@
   <!-- EN: {0} / hour -->
   <PerHour>{0} за годину</PerHour>
   <!-- EN: Pack animal -->
+	<!-- EN: {0} XP / hour -->
+	<XpPerHour>{0} досвіду за годину</XpPerHour>
   <PackAnimal>В'ючна тварина</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
   <PackAnimalExplanation>Чи можна використовувати цю тварину для перевезення вантажів у каравані на великі відстані.</PackAnimalExplanation>
@@ -598,6 +610,8 @@
   <MeditationFocusEnabledByAdulthood>передісторія повноліття</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>має рису</MeditationFocusEnabledByTrait>
+	<!-- EN: has health condition -->
+	<MeditationFocusEnabledByHediff>стан здоров'я</MeditationFocusEnabledByHediff>
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>не має риси</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -700,6 +714,14 @@
   <NextTraderRestock>Наступне оновлення через {0} днів</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Люди і тварини</PawnsTabShort>
+	
+	  <!-- Select caravan settlement -->
+  <!-- EN: Select colony to send caravan -->
+  <SelectCaravanOrigin>Початкове місце</SelectCaravanOrigin> 
+  <!-- EN: Send a caravan from {0}. -->
+  <SelectCaravanDesc>Відправити караван з {0}.</SelectCaravanDesc> 
+  <!-- EN: Colonists -->
+  <SelectCaravanColonists>Колоністи</SelectCaravanColonists>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -896,6 +918,8 @@
   <ResearchFinished>Дослідження {lookup: {0}; Case; 1} завершено</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>Вкладка досліджень</ResearchScreen>
+	<!-- EN: By researching {0} you have discovered the {1} research project. -->
+	<ResearchUnknownProjectRevealed>Дослідження {lookup: {0}; Case; 1} відкрило вам можливість дослідження {lookup: {0}; Case; 1}.</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
@@ -910,6 +934,28 @@
   <HistoryUploadYesOnce>Завантажити тільки цього разу</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Не завантажувати цього разу, запитати пізніше</HistoryUploadNoOnce>
+
+	<!-- Policies -->
+	<!-- EN: Available policies -->
+	<AvailablePolicies>Доступні правила</AvailablePolicies>
+	<!-- EN: Unnamed -->
+	<UnnamedPolicy>Без назви</UnnamedPolicy>
+	<!-- EN: New... -->
+	<NewPolicy>Нові...</NewPolicy>
+	<!-- EN: Invalid policy name -->
+	<InvalidName>Некоректна назва</InvalidName>
+	<!-- EN: Delete the selected policy. -->
+	<DeletePolicyTip>Видалити вибрані правила</DeletePolicyTip>
+	<!-- EN: Create a duplicate of the selected policy. -->
+	<DuplicatePolicyTip>Копія вибраних правил.</DuplicatePolicyTip>
+	<!-- EN: Rename this policy. -->
+	<RenamePolicyTip>Змінити назву.</RenamePolicyTip>
+	<!-- EN: Are you sure you want to delete the policy: {0}? -->
+	<DeletePolicyConfirm>Ви впевнені, що хочете видалити правило: {0}?</DeletePolicyConfirm>
+	<!-- EN: Delete -->
+	<DeletePolicyConfirmButton>Видалити</DeletePolicyConfirmButton>
+	<!-- EN: No policy selected -->
+	<NoPolicySelected>Нічого не обрано</NoPolicySelected>
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
@@ -924,7 +970,19 @@
   <OutfitInUse>Цей комплект одягу використовує {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->
   <NoOutfitSelected>Комплект одягу не вибраний</NoOutfitSelected>
-  
+	<!-- Outfit management 1.5 -->
+	<!-- EN: Apparel policies -->
+	<ApparelPolicyTitle>Комплекти одягу</ApparelPolicyTitle>
+	<!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+	<ApparelPolicyTip>Створюйте та редагуйте комплекти одягу, які можуть носити ваші колоністи.</ApparelPolicyTip>
+	<!-- EN: Apparel policy -->
+	<ApparelPolicy>Комплект одягу</ApparelPolicy>
+
+	<!-- Drug policy management 1.5-->
+	<!-- EN: Drug policies -->
+	<DrugPolicyTitle>Прийом препаратів</DrugPolicyTitle>
+	<!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+	<DrugPolicyTip>Створюйте та редагуйте шаблони препаратів для контролю над прийомом препаратів вашими колоністами.</DrugPolicyTip>
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
   <DrugPolicy>Прийом препаратів</DrugPolicy>
@@ -985,6 +1043,15 @@
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
   <DrugUsageTipScheduled>За графіком\n\nПриймати цей препарат за визначеним графіком, за виконання вказаних умов.</DrugUsageTipScheduled>
 
+	<!-- Food restriction management 1.5 -->
+	<!-- EN: Food policies -->
+	<FoodPolicyTitle>Дієта</FoodPolicyTitle>
+	<!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+	<FoodPolicyTip>Створюйте та редагуйте шаблони для контролю над прийомом їжі вашими колоністами.</FoodPolicyTip>
+	<!-- EN: Food policy -->
+	<FoodPolicy>Дієта</FoodPolicy>
+	<!-- EN: Allow food -->
+	<AllowFood>Дозволити</AllowFood>
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
   <FoodRestriction>Дієта</FoodRestriction>
@@ -1011,23 +1078,74 @@
   <!-- EN: No food restriction selected -->
   <NoFoodRestrictionSelected>Дієта не вибрана</NoFoodRestrictionSelected>
 
+	<!-- Reading management -->
+	<!-- EN: Reading policies -->
+	<ReadingPolicyTitle>Література</ReadingPolicyTitle>
+	<!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+	<ReadingPolicyTip>Створюйте та редагуйте шаблони для контролю над доступною літературою для читання вашими колоністами.</ReadingPolicyTip>
+	<!-- EN: Reading policy -->
+	<ReadingPolicy>Література</ReadingPolicy>
+	<!-- EN: Reading policy is in use. -->
+	<ReadingPolicyInUse>Поточні налаштування.</ReadingPolicyInUse>
+
+	<!-- EN: Anything -->
+	<AllReadingPolicy>Будь-що</AllReadingPolicy>
+	<!-- EN: None -->
+	<NoneReadingPolicy>Нічого</NoneReadingPolicy>
+	<!-- EN: Textbooks -->
+	<TextbookPolicy>Підручники</TextbookPolicy>
+	<!-- EN: Schematics -->
+	<SchematicPolicy>Схеми</SchematicPolicy>
+	<!-- EN: Novels -->
+	<NovelPolicy>Новели</NovelPolicy>
+	
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Налаштування медичного догляду</DefaultMedicineSettings>
-  <!-- EN: Defaults -->
-  <MedGroupDefaults>Замовчування</MedGroupDefaults>
-  <!-- EN: Colonist -->
-  <MedGroupColonist>Колоніст</MedGroupColonist>
-  <!-- EN: Imprisoned colonist -->
-  <MedGroupImprisonedColonist>В'язень</MedGroupImprisonedColonist>
-  <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>Тварина колонії</MedGroupColonyAnimal>
-  <!-- EN: Neutral animal -->
-  <MedGroupNeutralAnimal>Нейтральна тварина</MedGroupNeutralAnimal>
-  <!-- EN: Neutral faction -->
+  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <DefaultMedicineSettingsDesc>Ці медичні налаштування призначаються особам, коли вони вперше приєднуються до певної групи. Ви можете вручну призначити окремій людині конкретні налаштування на її вкладці здоров’я.\n\nПримітка: якщо особа приєднається до нової групи, вона завжди матиме налаштування цієї групи, навіть якщо ви раніше призначили їй інші налаштування.</DefaultMedicineSettingsDesc>
+ 
+	<!-- EN: Defaults -->
+  <MedGroupDefaults>Стандарт</MedGroupDefaults>
+  <!-- EN: Colonists -->
+  <MedGroupColonists>Колоністи</MedGroupColonists>
+  <!-- EN: Free members of your colony -->
+  <MedGroupColonistsDesc>Члени вашої колонії</MedGroupColonistsDesc>
+  
+  <!-- EN: Prisoners -->
+  <MedGroupPrisoners>В'язні</MedGroupPrisoners>
+  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <MedGroupPrisonersDesc>В'язні вашої колонії, незалежно від фракції.</MedGroupPrisonersDesc>
+
+  <!-- EN: Tamed animals -->
+  <MedGroupTamedAnimals>Приручені тварини</MedGroupTamedAnimals>
+  <!-- EN: Animals which have been tamed by your colony. -->
+  <MedGroupTamedAnimalsDesc>Тварини вашої колонії</MedGroupTamedAnimalsDesc>
+
+  <!-- EN: Friendly faction members -->
+  <MedGroupFriendlyFaction>Дружня фракція</MedGroupFriendlyFaction>
+  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <MedGroupFriendlyFactionDesc>Люди чи тварини дружньої фракції (відносини більше 75).</MedGroupFriendlyFactionDesc>
+  
+  <!-- EN: Neutral faction members -->
   <MedGroupNeutralFaction>Нейтральна фракція</MedGroupNeutralFaction>
-  <!-- EN: Hostile faction -->
+  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <MedGroupNeutralFactionDesc>Люди чи тварини нейтральної фракції (відносини між -75 та 75).</MedGroupNeutralFactionDesc>
+
+  <!-- EN: Hostile faction members -->
   <MedGroupHostileFaction>Ворожа фракція</MedGroupHostileFaction>
+  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <MedGroupHostileFactionDesc>Люди чи тварини ворожої фракції (відносини менше -75).</MedGroupHostileFactionDesc>
+
+  <!-- EN: Other humans -->
+  <MedGroupNoFaction>Інші люди</MedGroupNoFaction>
+  <!-- EN: Humans who are not members of any faction. -->
+  <MedGroupNoFactionDesc>Люди, що не належать до будь-якої з фракцій.</MedGroupNoFactionDesc>
+  
+  <!-- EN: Wildlife -->
+  <MedGroupWildlife>Дикі тварини</MedGroupWildlife>
+  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <MedGroupWildlifeDesc>Тварини, що не належать до будь-якої з фракцій.</MedGroupWildlifeDesc>
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
@@ -1124,6 +1242,8 @@
   <AbilityCantApplyDowned>{0_labelShort} {0_gender ? впав : впала: впало}.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Неможливо використати: {0} - асексуал.</AbilityCantApplyOnAsexual>
+  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} не має виліковних травм.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>Стать {1_labelShort} не підходить для {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1324,4 +1444,17 @@
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>Змінити температуру кольору. Зверніть увагу: змінюється лише колір, але не кількість вихідного тепла.</ColorTemperatureTooltip>
 
+	<!-- EN: {0_labelShort} is psychically deaf. -->
+	<CannotShootPawnIsPsychicallyDeaf>{0_labelShort} має глухоту</CannotShootPawnIsPsychicallyDeaf>
+
+	<!-- EN: Search the current map. -->
+	<SearchTheMap>Пошук у цій місцевості.</SearchTheMap>
+	<!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+	<SearchTheMapDesc>Пошук предметів, споруд, людей, тварин рослин тощо.</SearchTheMapDesc>
+	<!-- EN: {0} results found -->
+	<MapSearchResults>Знайдено: {0}</MapSearchResults>
+	<!-- EN: 1 result found -->
+	<MapSearchResultSingular>Знайдено</MapSearchResultSingular>
+	<!-- EN: Searching -->
+	<Searching>Пошук</Searching>
 </LanguageData>

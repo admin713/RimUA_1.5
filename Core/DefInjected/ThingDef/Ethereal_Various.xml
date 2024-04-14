@@ -7,8 +7,11 @@
   <!-- EN: explosion -->
   <Explosion.label>вибух</Explosion.label>
 
-	<!-- EN: flying -->
-	<PawnJumper.label>мухи</PawnJumper.label>
+  <!-- EN: flying -->
+  <PawnFlyer.label>політ</PawnFlyer.label>
+	
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>потрісканий ґрунт</PawnGroundSpawner.label>
   
   <!-- EN: proximity trigger -->
   <RadialTrigger.label>датчик наближення</RadialTrigger.label>

@@ -7,8 +7,12 @@
   <Chinchilla.description>Маленький спритний гризун. Його хутро м’якше, ніж будь-що у всесвіті, що робить його дуже цінним товаром.</Chinchilla.description>
   <!-- EN: left claw -->
   <Chinchilla.tools.left_claw.label>ліва лапа</Chinchilla.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Chinchilla.tools.left_claw.labelNoLocation>лапа</Chinchilla.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Chinchilla.tools.right_claw.label>права лапа</Chinchilla.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Chinchilla.tools.right_claw.labelNoLocation>лапа</Chinchilla.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Chinchilla.tools.head.label>голова</Chinchilla.tools.head.label>
   
@@ -20,8 +24,12 @@
   <Deer.race.meatLabel>оленина</Deer.race.meatLabel>
   <!-- EN: left hoof -->
   <Deer.tools.left_hoof.label>ліве копито</Deer.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Deer.tools.left_hoof.labelNoLocation>копито</Deer.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Deer.tools.right_hoof.label>праве копито</Deer.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Deer.tools.right_hoof.labelNoLocation>копито</Deer.tools.right_hoof.labelNoLocation>
   <!-- EN: teeth -->
   <Deer.tools.teeth.label>зуби</Deer.tools.teeth.label>
   <!-- EN: head -->
@@ -33,8 +41,12 @@
   <Gazelle.description>Маленька, надзвичайно швидка антилопа, відома своїм неймовірно довгим стрибком.</Gazelle.description>
   <!-- EN: left hoof -->
   <Gazelle.tools.left_hoof.label>ліве копито</Gazelle.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Gazelle.tools.left_hoof.labelNoLocation>копито</Gazelle.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Gazelle.tools.right_hoof.label>праве копито</Gazelle.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Gazelle.tools.right_hoof.labelNoLocation>копито</Gazelle.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Gazelle.tools.head.label>голова</Gazelle.tools.head.label>
   
@@ -44,8 +56,12 @@
   <Ibex.description>Дикий предок одомашненої кози. Гірські козли живуть на територіях, де більшість антилоп не змогли б вижити, харчуючись лишайниками та рідкісними гірськими рослинами. Вони відомі спритними стрибками через скелі та небезпечними таранними атаками.</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>ліве копито</Ibex.tools.left_hoof.label>
+	<!-- EN: hoof -->
+	<Ibex.tools.left_hoof.labelNoLocation>копито</Ibex.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Ibex.tools.right_hoof.label>праве копито</Ibex.tools.right_hoof.label>
+	<!-- EN: hoof -->
+	<Ibex.tools.right_hoof.labelNoLocation>копито</Ibex.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Ibex.tools.head.label>голова</Ibex.tools.head.label>
   

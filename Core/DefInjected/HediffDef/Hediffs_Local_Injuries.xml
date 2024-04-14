@@ -294,6 +294,29 @@
 	<SurgicalCut.labelNoun>хірургічний поріз</SurgicalCut.labelNoun>
 	<!-- EN: {0} in the {1} -->
 	<SurgicalCut.labelNounPretty>{0} на {1}</SurgicalCut.labelNounPretty>
+
+	<!-- EN: electrical burn -->
+	<ElectricalBurn.label>електричний опік</ElectricalBurn.label>
+	<!-- EN: An electical burn. -->
+	<ElectricalBurn.description>Електричний опік.</ElectricalBurn.description>
+	<!-- EN: electrical burn scar -->
+	<ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>рубець від електричного опіку</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+	<!-- EN: Burned off -->
+	<ElectricalBurn.injuryProps.destroyedLabel>випалено</ElectricalBurn.injuryProps.destroyedLabel>
+	<!-- EN: Burned out -->
+	<ElectricalBurn.injuryProps.destroyedOutLabel>випалено</ElectricalBurn.injuryProps.destroyedOutLabel>
+	<!-- EN: an electrical burn -->
+	<ElectricalBurn.labelNoun>електричний опік</ElectricalBurn.labelNoun>
+	<!-- EN: {0} in the {1} -->
+	<ElectricalBurn.labelNounPretty>{0} на {1}</ElectricalBurn.labelNounPretty>
 	
-  
+    <!-- EN: decayed organ -->
+    <Decayed.label>деградація органу</Decayed.label>
+    <!-- EN: This organ has completely decayed. -->
+    <Decayed.description>Цей орган повністю деградував</Decayed.description>
+    <!-- EN: a decayed organ -->
+    <Decayed.labelNoun>деградований орган</Decayed.labelNoun>
+    <!-- EN: decayed {1} -->
+   <Decayed.labelNounPretty>{1} (деградовано)</Decayed.labelNounPretty>
+	
 </LanguageData>

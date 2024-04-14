@@ -30,5 +30,23 @@
   
   <!-- EN: current outfit -->
   <Outfit.label>одяг</Outfit.label>
+
+	<!-- EN: name -->
+	<Label.label>назва</Label.label>
+	<!-- EN: Name -->
+	<Label.headerTip>Назва</Label.headerTip>
+
+	<!-- EN: name -->
+	<LabelShortWithIcon.label>назва</LabelShortWithIcon.label>
+	<!-- EN: Name -->
+	<LabelShortWithIcon.headerTip>Назва</LabelShortWithIcon.headerTip>
+
+	<!-- EN: name -->
+	<LabelWithIcon.label>назва</LabelWithIcon.label>
+	<!-- EN: Name -->
+	<LabelWithIcon.headerTip>Назва</LabelWithIcon.headerTip>
+
+	<!-- EN: reading policy -->
+	<Reading.label>література</Reading.label>
   
 </LanguageData>

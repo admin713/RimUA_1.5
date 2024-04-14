@@ -45,5 +45,8 @@
   <SelectionSpecial.label>спеціальні</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
   <SelectionSpecial.description>Налаштування специфічних функцій для певних об'єктів.</SelectionSpecial.description>
-  
+	
+  <!-- EN: open search window -->
+  <!--<OpenMapSearch.label>відкрити вікно пошуку</OpenMapSearch.label>-->
+
 </LanguageData>

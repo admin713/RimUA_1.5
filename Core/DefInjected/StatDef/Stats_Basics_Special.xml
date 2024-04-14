@@ -38,8 +38,25 @@
   <MeditationFocusStrength.formatStringUnfinalized>{0} / день</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>збільшення пси-чутливості</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>зміщення пси-чутливості</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
   <PsychicSensitivityOffset.description>Пси-чутливість псионіка змінюється на це значення.</PsychicSensitivityOffset.description>
+	
+  <!-- EN: neural heat limit offset -->
+  <PsychicEntropyMaxOffset.label>зміщення межі нейронапруги</PsychicEntropyMaxOffset.label>
+  <!-- EN: An offset applied to the user's neural heat limit. -->
+  <PsychicEntropyMaxOffset.description>Межа нейронапруги псионіка змінюється на це значення.</PsychicEntropyMaxOffset.description>
+  
+  <!-- EN: neural heat recovery rate offset -->
+  <PsychicEntropyRecoveryRateOffset.label>зміщення відновлення нейронапруги</PsychicEntropyRecoveryRateOffset.label>
+  <!-- EN: An offset applied to the user's neural heat recovery rate. -->
+  <PsychicEntropyRecoveryRateOffset.description>Швидкість відновлення нейронапруги змінюється на це значення.</PsychicEntropyRecoveryRateOffset.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRateOffset.formatString>{0}/с</PsychicEntropyRecoveryRateOffset.formatString>
+  
+  <!-- EN: psychic sensitivity factor -->
+  <PsychicSensitivityFactor.label>вплив пси-чутливості</PsychicSensitivityFactor.label>
+  <!-- EN: A factor applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityFactor.description>Вплив на пси-чутливість користувача.</PsychicSensitivityFactor.description>
   
 </LanguageData>

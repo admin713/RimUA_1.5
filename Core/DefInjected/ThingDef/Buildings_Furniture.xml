@@ -133,4 +133,35 @@
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
   <TorchLamp.description>Дерев'яний факел для освітлення території. Світло потрібне людям для покращення швидкості праці та зручності пересування. Для того, щоб підтримувати вогонь, знадобиться дерево. Виділяє невелику кількість тепла.</TorchLamp.description>
   
+	
+	
+  <!-- EN: bookcase -->
+  <Bookcase.label>книжкова шафа</Bookcase.label>
+  <!-- EN: A wide bookcase for storing and displaying up to ten books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <Bookcase.description>Широка книжкова шафа для зберігання та демонстрації до десяти книг. Книги, що зберігаються тут дають пасивний бонус до інтелектуальної роботи, що виконується поблизу та збільшать показник краси книжкової шафи. Збережені тут книги не псуються.</Bookcase.description>
+  
+  <!-- EN: small bookcase -->
+  <BookcaseSmall.label>книжкова шафка</BookcaseSmall.label>
+  <!-- EN: A narrow bookcase for storing and displaying up to five books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <BookcaseSmall.description>Вузька книжкова шафа для зберігання та демонстрації до п'яти книг.  Книги, що зберігаються тут дають пасивний бонус до інтелектуальної роботи, що виконується поблизу та збільшать показник краси книжкової шафи. Збережені тут книги не псуються.</BookcaseSmall.description>
+  
+  <!-- EN: couch -->
+  <Couch.label>диван</Couch.label>
+  <!-- EN: A large double-wide seat which is cushioned for maximum comfort. Perfect for a luxurious rec room or a homey reading nook. -->
+  <Couch.description>Велике двомісне сидіння з м’якою подушкою для максимального комфорту. Ідеально підходить для розкішної кімнати відпочинку або домашнього куточка для читання.</Couch.description>	
+	
+  <!-- EN: wall torch lamp -->
+  <TorchWallLamp.label>настінний факел</TorchWallLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. It is not as bright as a regular torch lamp, but it can be mounted on walls. Produces a small amount of heat. -->
+  <TorchWallLamp.description>Встановлений на стіну факел для освітлення території. Не такий яскравий як звичайний факел, проте може бути встановлений на стіну. Виділяє невелику кількість тепла.</TorchWallLamp.description>
+  
+  <!-- EN: wall lamp -->
+  <WallLamp.label>настінна лампа</WallLamp.label>
+  <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
+  <WallLamp.description>Встановлена на стіну електрична лампа. Не така яскрава як звичайна лампа, проте може бути встановлена на стіну.</WallLamp.description>	
+	
+  <!-- EN: flood light -->
+  <FloodLight.label>прожектор</FloodLight.label>
+  <!-- EN: A high-intensity light that's good for large outdoor spaces. -->
+  <FloodLight.description>Світло високої інтенсивності, яке добре підходить для великих відкритих просторів.</FloodLight.description>
 </LanguageData>

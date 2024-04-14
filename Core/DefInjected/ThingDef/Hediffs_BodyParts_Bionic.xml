@@ -46,4 +46,8 @@
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Імплант, що вбудовується в грудну клітину з метою запобігти використанню ворогами захопленого спорядження. При смерті носія він випускає сильнодіючі хімікати, які розчиняють одяг та спорядження на тілі. Не завдає шкоди іншим.</DeathAcidifier.description>
   
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>біонічна щелепа</BionicJaw.label>
+  <!-- EN: An artificial jaw replacement. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>Імплант, що замінює щелепу. Виготовлений з біосинтетичної кістки, пластмасовими замінниками зубів і набором мікросерводвигунів для повного діапазону рухів.</BionicJaw.description>
 </LanguageData>

@@ -114,5 +114,9 @@
   <VitalsMonitor.label>монітор життєвих показників</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
   <VitalsMonitor.description>Підвищує якість медичного обслуговування, шанси на успіх операції та швидкість вироблення імунітету. Повинен бути розміщений поряд із лікарняним ліжком. Одне ліжко може бути підключене лише до одного монітора.</VitalsMonitor.description>
-  
+
+
+  <!-- EN: delayed effecter spawner -->
+  <DelayedEffecterSpawner.label>створювач ефектів із затримкою</DelayedEffecterSpawner.label> <!-- сиро --> 	
+	
 </LanguageData>

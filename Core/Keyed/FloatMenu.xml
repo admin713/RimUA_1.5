@@ -38,7 +38,7 @@
   <!-- EN: {0_labelShort} is incapable of shooting -->
   <IsIncapableOfShootingLower>{0_labelShort} не може стріляти</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
-  <IsNotDraftedLower>{1_labelShort} не в режимі мобілізації</IsNotDraftedLower>
+  <IsNotDraftedLower>{1_labelShort} не в бойовому реж</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>не можна наказувати персонажам, яких ви не контролюєте</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
@@ -562,9 +562,70 @@
   <!-- EN: Romance {0} -->
   <CanRomance>Роман з {0}</CanRomance>
 
-  <!-- Feeding -->
-  <!-- EN: disliked food -->
-  <WarningFoodDisliked>непопулярна їжа</WarningFoodDisliked>
 
+	<!-- 1.5 -->
+
+	<!-- EN: tree marked for extraction -->
+	<TreeMarkedForExtraction>дерево, позначене для вилучення</TreeMarkedForExtraction>
+	<!-- EN: Clean {0} -->
+	<CleanRoom>Прибрати {lookup: {0}; Case; 3}</CleanRoom>
+	<!-- EN: capture {0_labelShort} -->
+	<CaptureLower>захопити {lookup: {0_labelShort}; Case; 3}</CaptureLower>
+	<!-- EN: not recruitable -->
+	<UnrecruitableNoFaction>неможливо завербувати</UnrecruitableNoFaction>
+	<!-- EN: Transfer {0_label} -->
+	<TransferEntity>Перенести {lookup: {0_label}; Case; 3}</TransferEntity>
+	<!-- EN: No prisoner bed available. -->
+	<NoPrisonerBedShort>Немає доступних ліжок для в'язнів</NoPrisonerBedShort>
+	<!-- EN: No reachable, unforbidden, un-reserved {0} -->
+	<NoItemReservedOrReachable>Недоступний, незаборонений, незарезервований {0}</NoItemReservedOrReachable>
+	<!-- EN: No unforbidden, un-reserved {0} -->
+	<NoItemReserved>Немає незаборонених, незарезервованих {0}</NoItemReserved>
+	<!-- EN: hostile -->
+	<CarriedPawnHostile>ворог</CarriedPawnHostile>
+	<!-- EN: Dismiss trader -->
+	<DismissTrader>Випроводити торговця</DismissTrader>
+	<!-- EN: Trader dismissed -->
+	<TraderDismissed>Торговець йде</TraderDismissed>
+	<!-- EN: Enter {0} -->
+	<EnterPortal>Війти до {0}</EnterPortal>
+	<!-- EN: Entering {0} -->
+	<EnteringPortal>Входить до {0}</EnteringPortal>
+	<!-- EN: Enter {0} -->
+	<CommandEnterPortal>Війти до {0}</CommandEnterPortal>
+	<!-- EN: Select people and items to enter the {0}. -->
+	<CommandEnterPortalDesc>Обрати людей та предмети для входу до {0}</CommandEnterPortalDesc>
+	<!-- EN: Cancel entering -->
+	<CommandCancelEnterPortal>Відмінити вхід</CommandCancelEnterPortal>
+	<!-- EN: Cancel loading people or items into this. -->
+	<CommandCancelEnterPortalDesc>Припиняє збір людей та предметів.</CommandCancelEnterPortalDesc>
+	<!-- EN: Cannot enter {0} -->
+	<CannotEnterPortal>Неможливо війти до</CannotEnterPortal>
+	<!-- EN: closed -->
+	<PortalClosed>Зачинено</PortalClosed>
+	
+	<!-- Feeding -->
+	<!-- EN: disliked food -->
+	<WarningFoodDisliked>небажана їжа</WarningFoodDisliked>
+	<!-- EN: Unsuitable food -->
+	<FoodNotSuitable>Невідповідна їжа</FoodNotSuitable>
+
+	<!-- EN: Unsuitable drug -->
+	<DrugNotSuitable>Невідповідний препарат</DrugNotSuitable>
+
+	<!-- Books -->
+	<!-- EN: Assign reading... -->
+	<AssignReading>Призначити читання...</AssignReading>
+	<!-- EN: Read {0} -->
+	<AssignReadNow>Читати {lookup: {0}; Case; 3}</AssignReadNow>
+	<!-- EN: Cannot read {0} -->
+	<AssignCannotReadNow>Неможливо читати {lookup: {0}; Case; 3}</AssignCannotReadNow>
+
+	<!-- EN: Prioritize extinguishing fires -->
+	<ExtinguishFiresNearby>Пріоритети при гасінні пожеж</ExtinguishFiresNearby>
+
+	<!-- Analysis -->
+	<!-- EN: already analyzed -->
+	<AlreadyAnalyzed>вже проаналізовано</AlreadyAnalyzed>
 
 </LanguageData>

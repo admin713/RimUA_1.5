@@ -80,9 +80,10 @@
   <!-- EN: Out of foam -->
   <Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>Закінчилася піна</Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>
   <!-- EN: activate -->
-  <Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>активувати</Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>
+	<Turret_FoamTurret.comps.CompInteractableFoamTurret.jobString>активувати</Turret_FoamTurret.comps.CompInteractableFoamTurret.jobString>
   <!-- EN: repressurizing -->
-  <Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>відновлює тиск</Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>
+  <Turret_FoamTurret.comps.CompInteractableFoamTurret.onCooldownString>відновлює тиск</Turret_FoamTurret.comps.CompInteractableFoamTurret.onCooldownString>
+	
   
   <!-- EN: mini-turret -->
   <Turret_MiniTurret.label>міні-турель</Turret_MiniTurret.label>
@@ -117,9 +118,9 @@
   <!-- EN: Missing rockets -->
   <Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>Ракети відсутні</Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>
   <!-- EN: activate -->
-  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>активувати</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>
+	<Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>активувати</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>
   <!-- EN: cooling off -->
-  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>охолоджується</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>
+	<Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>охолоджується</Turret_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>
   
   <!-- EN: uranium slug turret -->
   <Turret_Sniper.label>високоточна турель</Turret_Sniper.label>

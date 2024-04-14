@@ -62,5 +62,8 @@
   
   <!-- EN: scattered slag -->
   <SlagRubble.label>шлак</SlagRubble.label>
+	
+  <!-- EN: blood smear -->
+  <Filth_BloodSmear.label>мазок крові</Filth_BloodSmear.label>
   
 </LanguageData>

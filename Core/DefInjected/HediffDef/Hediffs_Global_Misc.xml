@@ -143,6 +143,8 @@
   <ToxicBuildup.label>отруєння токсинами</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
   <ToxicBuildup.description>Токсин у крові. Може потрапити в організм через навколишнє середовище, укуси отруйних істот або рану від отруєної зброї.\n\nВ низьких дозах токсин може викликати рак, а у великих - смерть.\n\nЯкщо істота загинула від отруєння токсинами, є ймовірність, що вона буде непридатною для їжі. Чим сильніше отруєння, тим вище ця імовірність.</ToxicBuildup.description>
+  <!-- EN: {PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins. -->
+  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_nameDef} має ранню стадію отруєння токсинами. Тримайте {PAWN_possessive} подалі від токсичного середовища.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>непомітне</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->

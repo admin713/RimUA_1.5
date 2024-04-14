@@ -7,8 +7,12 @@
   <Alphabeaver.description>Велика істота, схожа на бобра, створена за допомогою генетичної інженерії для збирання деревини з ефективністю машини. За відсутності спеціального корму ці тварини впадають у маніакальний стан, який змушує їх повністю їсти дерева і нападати, якщо їх потривожити.</Alphabeaver.description>
   <!-- EN: left claw -->
   <Alphabeaver.tools.left_claw.label>ліва лапа</Alphabeaver.tools.left_claw.label>
+	<!-- EN: claw -->
+	<Alphabeaver.tools.left_claw.labelNoLocation>лапа</Alphabeaver.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Alphabeaver.tools.right_claw.label>права лапа</Alphabeaver.tools.right_claw.label>
+	<!-- EN: claw -->
+	<Alphabeaver.tools.right_claw.labelNoLocation>лапа</Alphabeaver.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Alphabeaver.tools.head.label>голова</Alphabeaver.tools.head.label>
   
@@ -31,8 +35,12 @@
   <Thrumbo.tools.horn.label>ріг</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
   <Thrumbo.tools.left_foot.label>ліва ступня</Thrumbo.tools.left_foot.label>
+	<!-- EN: foot -->
+	<Thrumbo.tools.left_foot.labelNoLocation>ступня</Thrumbo.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
   <Thrumbo.tools.right_foot.label>права ступня</Thrumbo.tools.right_foot.label>
+	<!-- EN: foot -->
+	<Thrumbo.tools.right_foot.labelNoLocation>ступня</Thrumbo.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
   <Thrumbo.tools.head.label>голова</Thrumbo.tools.head.label>
   

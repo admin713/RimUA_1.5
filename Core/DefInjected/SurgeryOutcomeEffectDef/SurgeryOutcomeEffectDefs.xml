@@ -25,5 +25,9 @@
   <SurgeryOutcomeBase.outcomes.6.letterLabel>Операція над {PATIENT_labelShort} провалилася</SurgeryOutcomeBase.outcomes.6.letterLabel>
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
   <SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort} {SURGEON_gender ? допустив : допустила} помилку під час операції ({RECIPE_label}) над {PATIENT_labelShort}.</SurgeryOutcomeBase.outcomes.6.letterText>
-  
+
+	<!-- EN: Surgery failed on {PATIENT_labelShort} -->
+	<SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>Операція над {PATIENT_labelShort} провалилася</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+	<!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+	<SurgeryOutcomeMinorFailure.outcomes.1.letterText>{SURGEON_labelShort} {SURGEON_gender ? допустив : допустила} незначну помилку під час операції ({RECIPE_label}) над {PATIENT_labelShort}.</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
 </LanguageData>

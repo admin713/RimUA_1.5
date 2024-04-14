@@ -35,6 +35,8 @@
   <LevelCappedAtMax>Рівень обмежено {0}.</LevelCappedAtMax>
   <!-- EN: {GENE_label} gene -->
   <GeneLabelWithDesc>ген {GENE_label}</GeneLabelWithDesc>
+ <!-- EN: {TRAITLABEL} trait -->
+<TraitLabelWithDesc>риса {TRAITLABEL}</TraitLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>відсутність знань</Skill0>

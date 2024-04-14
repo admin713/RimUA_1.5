@@ -86,5 +86,70 @@
 	<AllowSmeltable.description>Дозволити плавку зброю.</AllowSmeltable.description>
   <!-- EN: allow smeltable -->
   <AllowSmeltableApparel.label>плавка</AllowSmeltableApparel.label>
-  
+
+	<!-- EN: animals -->
+	<AllowBookAnimals.label>тваринництво</AllowBookAnimals.label>
+	<!-- EN: Allow books which teach animal-related skills. -->
+	<AllowBookAnimals.description>Дозволити книги, які навчають тваринництву.</AllowBookAnimals.description>
+
+	<!-- EN: artistic -->
+	<AllowBookArtistic.label>мистецтво</AllowBookArtistic.label>
+	<!-- EN: Allow books which teach art skills. -->
+	<AllowBookArtistic.description>Дозволити книги, які навчають мистецтву</AllowBookArtistic.description>
+
+	<!-- EN: construction -->
+	<AllowBookConstruction.label>будівництво</AllowBookConstruction.label>
+	<!-- EN: Allow books which teach construction skills. -->
+	<AllowBookConstruction.description>Дозволити книги, які навчають будівництву.</AllowBookConstruction.description>
+
+	<!-- EN: cooking -->
+	<AllowBookCooking.label>готування</AllowBookCooking.label>
+	<!-- EN: Allow books which teach cooking skills. -->
+	<AllowBookCooking.description>Дозволити книги, які навчають готуванню.</AllowBookCooking.description>
+
+	<!-- EN: crafting -->
+	<AllowBookCrafting.label>ремісництво</AllowBookCrafting.label>
+	<!-- EN: Allow books which teach crafting skills. -->
+	<AllowBookCrafting.description>Дозволити книги, які навчають ремісництву.</AllowBookCrafting.description>
+
+	<!-- EN: intellectual -->
+	<AllowBookIntellectual.label>інтелектуальні</AllowBookIntellectual.label>
+	<!-- EN: Allow books which teach intellectual skills. -->
+	<AllowBookIntellectual.description>Дозволити книги, які навчають інтелектуальним навичкам.</AllowBookIntellectual.description>
+
+	<!-- EN: medical -->
+	<AllowBookMedicine.label>медицина</AllowBookMedicine.label>
+	<!-- EN: Allow books which teach medical skills. -->
+	<AllowBookMedicine.description>Дозволити книги, які навчають медицині.</AllowBookMedicine.description>
+
+	<!-- EN: melee -->
+	<AllowBookMelee.label>ближній бій</AllowBookMelee.label>
+	<!-- EN: Allow books which teach melee skills. -->
+	<AllowBookMelee.description>Дозволити книги, які навчають ближньому бою.</AllowBookMelee.description>
+
+	<!-- EN: mining -->
+	<AllowBookMining.label>видобування</AllowBookMining.label>
+	<!-- EN: Allow books which teach mining skills. -->
+	<AllowBookMining.description>Дозволити книги, які навчають видобуванню.</AllowBookMining.description>
+
+	<!-- EN: plants -->
+	<AllowBookPlants.label>рослинництво</AllowBookPlants.label>
+	<!-- EN: Allow books which teach plant-related skills. -->
+	<AllowBookPlants.description>Дозволити книги, які навчають рослинництву.</AllowBookPlants.description>
+
+	<!-- EN: shooting -->
+	<AllowBookShooting.label>стрільба</AllowBookShooting.label>
+	<!-- EN: Allow books which teach shooting skills. -->
+	<AllowBookShooting.description>Дозволити книги, які навчають стрільбі.</AllowBookShooting.description>
+
+	<!-- EN: social -->
+	<AllowBookSocial.label>соціальність</AllowBookSocial.label>
+	<!-- EN: Allow books which teach social skills. -->
+	<AllowBookSocial.description>Дозволити книги, які навчають соціальним навичкам.</AllowBookSocial.description>
+
+	<!-- EN: normal research -->
+	<AllowMainResearch.label>дослідження</AllowMainResearch.label>
+	<!-- EN: Allow books which advance research of normal research projects. -->
+	<AllowMainResearch.description>Дозволити книги, які допомагають звичайним дослідницьким проектам.</AllowMainResearch.description>
+
 </LanguageData>

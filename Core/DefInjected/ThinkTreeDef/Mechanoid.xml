@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: Patrolling. -->
-  <Mechanoid.ReportStringPatrolling>патрулює</Mechanoid.ReportStringPatrolling>
+
+	<!-- EN: Crawling to safety. -->
+	<Mechanoid.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.0.crawlingReportStringOverride>Повзе до безпечного місця.</Mechanoid.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.0.crawlingReportStringOverride>
+	<!-- EN: Crawling to bed. -->
+	<Mechanoid.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.1.subNodes.0.crawlingReportStringOverride>Повзе до ліжка.</Mechanoid.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.1.subNodes.0.crawlingReportStringOverride>
+	<!-- EN: Patrolling. -->
+	<Mechanoid.ReportStringPatrolling>Патрулює.</Mechanoid.ReportStringPatrolling>
   
 </LanguageData>
