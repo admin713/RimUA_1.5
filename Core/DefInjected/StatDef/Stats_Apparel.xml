@@ -56,11 +56,11 @@
   <Insulation_Heat.labelForFullStatList>Ізоляція: Спека (показник броні)</Insulation_Heat.labelForFullStatList>
   
   <!-- EN: Smokepop pack radius -->
-  <SmokepopBeltRadius.label>Радіус димової завіси</SmokepopBeltRadius.label>
+	<!-- <SmokepopBeltRadius.label>Радіус димової завіси</SmokepopBeltRadius.label> -->
   <!-- EN: The area obscured when a smokepop pack detonates. -->
-  <SmokepopBeltRadius.description>Розмір області, яку покриє димова завіса після активації.</SmokepopBeltRadius.description>
+ <!-- <SmokepopBeltRadius.description>Розмір області, яку покриє димова завіса після активації.</SmokepopBeltRadius.description> -->
   <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>{0} кл</SmokepopBeltRadius.formatString>
+ <!-- <SmokepopBeltRadius.formatString>{0} кл</SmokepopBeltRadius.formatString> -->
   
   <!-- EN: Armor - Material effect multiplier -->
   <StuffEffectMultiplierArmor.label>Броня (множник від матеріалу)</StuffEffectMultiplierArmor.label>

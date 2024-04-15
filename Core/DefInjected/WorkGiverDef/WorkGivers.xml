@@ -604,11 +604,11 @@
   <Strip.verb>роздягати</Strip.verb>
   
   <!-- EN: study -->
-  <StudyThing.label>вивчати</StudyThing.label>
+	<!--<StudyThing.label>вивчати</StudyThing.label>-->
   <!-- EN: studying -->
-  <StudyThing.gerund>вивчити</StudyThing.gerund>
+	<!--<StudyThing.gerund>вивчити</StudyThing.gerund>-->
   <!-- EN: research -->
-  <StudyThing.verb>вивчити</StudyThing.verb>
+	<!--<StudyThing.verb>вивчити</StudyThing.verb>-->
   
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>зливати пиво з бочок для бродіння</TakeBeerOutOfFermentingBarrel.label>

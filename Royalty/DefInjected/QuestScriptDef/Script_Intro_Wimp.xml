@@ -47,9 +47,9 @@
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. Because of this violation, {SUBJECT_pronoun} will now attempt to leave. [failLetterEndingCommon] -->
   <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>Примусово вилучено ксенозародок у {SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати : яку ви зобов'язалися захищати}. Через це порушення, [asker_pronoun] спробує покинути [map_definite]. [failLetterEndingCommon]</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <!-- EN: Captured: {SUBJECT_definite} -->
-	<Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>Арешт: {SUBJECT_definite}</Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>
+	<!--<Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>Арешт: {SUBJECT_definite}</Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>-->
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
-	<Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, заарештований : яку ви зобов'язалися захищати, заарештована}. [failLetterEndingCommon]</Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>
+	<!--<Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, {asker_gender ? якого ви зобов'язалися захищати, заарештований : яку ви зобов'язалися захищати, заарештована}. [failLetterEndingCommon]</Intro_Wimp.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>-->
   <!-- EN: Guest lost: {SUBJECT_definite} -->
 	<Intro_Wimp.LetterLabelGuestLost.slateRef>Гість {asker_gender ? зник : зникла}: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->

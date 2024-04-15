@@ -52,11 +52,6 @@
 	<SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>продано орган</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.label>
   <SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>{OTHERPAWN_gender ? продав : продала} орган</SoldOrgan_Know_Horrible_Mood.stages.organ_sold.description>
 
-	<!-- EN: organ harvested -->
-  <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>продано орган</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
-  <!-- EN: Someone sold an organ. It's horrible to trade human parts like machinery. -->
-  <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>Один з нас продав орган. Торгівля органами це жахливо.</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
-  
   <!-- EN: traded organ -->
   <TradedOrgan_Abhorrent.stages.traded_organ.label>{PAWN_gender ? Продав : Продала}</TradedOrgan_Abhorrent.stages.traded_organ.label>
   <!-- EN: I had to trade someone's organ. It's an abhorrent violation of everything I believe. -->

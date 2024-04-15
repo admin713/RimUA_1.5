@@ -130,7 +130,7 @@
   <!-- EN: {0_nameFull} has reached the biological age of {1} and has experienced a growth moment! -->
   <BirthdayBiologicalGrowthMoment>{0_nameFull} досягає біологічного віку {1} і відчуває імпульс зростання!</BirthdayBiologicalGrowthMoment>
   <!-- EN: {0_nameDef} is now old enough to do the following work -->
-  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} вже достатньо {PAWN_gender ? дорослий : доросла}, щоб виконати таку роботу</BirthdayBiologicalAgeWorkTypes>
+  <BirthdayBiologicalAgeWorkTypes>З цього віку {0_nameDef} може виконувати таку роботу</BirthdayBiologicalAgeWorkTypes>
   <!-- EN: Choose 1 skill for {0_nameDef} to increase {0_possessive} passion for -->
   <BirthdayPickPassion>Оберіть 1 навичку для {0_nameDef}, щоб посилити {0_possessive} пристрасть</BirthdayPickPassion>
   <!-- EN: Choose {1} skills for {0_nameDef} to increase {0_possessive} passion for -->
